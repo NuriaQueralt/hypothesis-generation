@@ -1,0 +1,3658 @@
+{
+    "categories": [
+        "gene",
+        "sequence feature"
+    ],
+    "chromosome": {
+        "categories": null,
+        "consider": null,
+        "deprecated": null,
+        "description": null,
+        "id": null,
+        "label": null,
+        "replaced_by": null,
+        "synonyms": null,
+        "taxon": {
+            "id": null,
+            "label": null
+        },
+        "types": null,
+        "xrefs": null
+    },
+    "consider": null,
+    "deprecated": null,
+    "description": null,
+    "disease_associations": [],
+    "families": null,
+    "full_name": null,
+    "function_associations": null,
+    "genotype_associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/mgivslckey99377",
+                        "pred": "GENO:0000382",
+                        "sub": "MGI:5797368"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:5692545"
+                    },
+                    {
+                        "obj": "MGI:5692545",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey99377"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/mgivslckey99377",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "MGI:5692545",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "MGI:5797368",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6N-Aqp1<tm1b(EUCOMM)Wtsi>/H]"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "72285ec9-50bd-4091-8951-1e506e6abc7b",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/impc.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:5797368",
+                "label": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6N-Aqp1<tm1b(EUCOMM)Wtsi>/H]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/MGI103201-VLU-MGI107387-VLU-MGI108391-VLU-MGI108554-VLU-MGI109234-VLU-MGI109304-VLU-MGI109536-VLU-MGI109548-VLU-MGI1096345-VLU-MGI1098533-VLU-MGI1202302-VLU-MGI1202397-VLU-MGI1298369-VLU-MGI1315213-VLU-MGI1341839-VLU-MGI1341847-VLU-MGI1347346-VLU-MGI1858313-VLU-MGI1858330-VLU-MGI1860197-VLU-MGI1862037-VLU-MGI1913496-VLU-MGI1913837-VLU-MGI1914689-VLU-MGI1914742-VLU-MGI1915760-VLU-MGI1915851-VLU-MGI1917193-VLU-MGI1918135-VLU-MGI1918659-VLU-MGI1918772-VLU-MGI1919019-VLU-MGI1921500-VLU-MGI1922664-VLU-MGI1922790-VLU-MGI1923665-VLU-MGI1923935-VLU-MGI1924140-VLU-MGI1929289-VLU-MGI1932389-VLU-MGI2135601-VLU-MGI2142195-VLU-MGI2442266-VLU-MGI2442600-VLU-MGI2443417-VLU-MGI2443713-VLU-MGI2444047-VLU-MGI2444178-VLU-MGI2444371-VLU-MGI2652818-VLU-MGI2673874-VLU-MGI2682211-VLU-MGI2685287-VLU-MGI2685483-VLU-MGI2685720-VLU-MGI3030137-VLU-MGI3030199-VLU-MGI3030372-VLU-MGI3030587-VLU-MGI3031053-VLU-MGI3045962-VLU-MGI3606242-VLU-MGI3615275-VLU-MGI3648937-VLU-MGI3652306-VLU-MGI5477151-VLU-MGI88382-VLU-MGI88452-VLU-MGI894810-VLU-MGI95480-VLU-MGI95489-VLU-MGI95514-VLU-MGI95752-VLU-MGI96770-VLU",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-VLU-MGI107387-VLU-MGI108391-VLU-MGI108554-VLU-MGI109234-VLU-MGI109304-VLU-MGI109536-VLU-MGI109548-VLU-MGI1096345-VLU-MGI1098533-VLU-MGI1202302-VLU-MGI1202397-VLU-MGI1298369-VLU-MGI1315213-VLU-MGI1341839-VLU-MGI1341847-VLU-MGI1347346-VLU-MGI1858313-VLU-MGI1858330-VLU-MGI1860197-VLU-MGI1862037-VLU-MGI1913496-VLU-MGI1913837-VLU-MGI1914689-VLU-MGI1914742-VLU-MGI1915760-VLU-MGI1915851-VLU-MGI1917193-VLU-MGI1918135-VLU-MGI1918659-VLU-MGI1918772-VLU-MGI1919019-VLU-MGI1921500-VLU-MGI1922664-VLU-MGI1922790-VLU-MGI1923665-VLU-MGI1923935-VLU-MGI1924140-VLU-MGI1929289-VLU-MGI1932389-VLU-MGI2135601-VLU-MGI2142195-VLU-MGI2442266-VLU-MGI2442600-VLU-MGI2443417-VLU-MGI2443713-VLU-MGI2444047-VLU-MGI2444178-VLU-MGI2444371-VLU-MGI2652818-VLU-MGI2673874-VLU-MGI2682211-VLU-MGI2685287-VLU-MGI2685483-VLU-MGI2685720-VLU-MGI3030137-VLU-MGI3030199-VLU-MGI3030372-VLU-MGI3030587-VLU-MGI3031053-VLU-MGI3045962-VLU-MGI3606242-VLU-MGI3615275-VLU-MGI3648937-VLU-MGI3652306-VLU-MGI5477151-VLU-MGI88382-VLU-MGI88452-VLU-MGI894810-VLU-MGI95480-VLU-MGI95489-VLU-MGI95514-VLU-MGI95752-VLU-MGI96770-VLU-GENO0000649-MMRRC041819"
+                    },
+                    {
+                        "obj": ":.well-known/genid/MGI103201-VL",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-VLU"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": ":.well-known/genid/MGI103201-VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/MGI103201-VLU",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-VLU-MGI107387-VLU-MGI108391-VLU-MGI108554-VLU-MGI109234-VLU-MGI109304-VLU-MGI109536-VLU-MGI109548-VLU-MGI1096345-VLU-MGI1098533-VLU-MGI1202302-VLU-MGI1202397-VLU-MGI1298369-VLU-MGI1315213-VLU-MGI1341839-VLU-MGI1341847-VLU-MGI1347346-VLU-MGI1858313-VLU-MGI1858330-VLU-MGI1860197-VLU-MGI1862037-VLU-MGI1913496-VLU-MGI1913837-VLU-MGI1914689-VLU-MGI1914742-VLU-MGI1915760-VLU-MGI1915851-VLU-MGI1917193-VLU-MGI1918135-VLU-MGI1918659-VLU-MGI1918772-VLU-MGI1919019-VLU-MGI1921500-VLU-MGI1922664-VLU-MGI1922790-VLU-MGI1923665-VLU-MGI1923935-VLU-MGI1924140-VLU-MGI1929289-VLU-MGI1932389-VLU-MGI2135601-VLU-MGI2142195-VLU-MGI2442266-VLU-MGI2442600-VLU-MGI2443417-VLU-MGI2443713-VLU-MGI2444047-VLU-MGI2444178-VLU-MGI2444371-VLU-MGI2652818-VLU-MGI2673874-VLU-MGI2682211-VLU-MGI2685287-VLU-MGI2685483-VLU-MGI2685720-VLU-MGI3030137-VLU-MGI3030199-VLU-MGI3030372-VLU-MGI3030587-VLU-MGI3031053-VLU-MGI3045962-VLU-MGI3606242-VLU-MGI3615275-VLU-MGI3648937-VLU-MGI3652306-VLU-MGI5477151-VLU-MGI88382-VLU-MGI88452-VLU-MGI894810-VLU-MGI95480-VLU-MGI95489-VLU-MGI95514-VLU-MGI95752-VLU-MGI96770-VLU"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/MGI103201-VLU-MGI107387-VLU-MGI108391-VLU-MGI108554-VLU-MGI109234-VLU-MGI109304-VLU-MGI109536-VLU-MGI109548-VLU-MGI1096345-VLU-MGI1098533-VLU-MGI1202302-VLU-MGI1202397-VLU-MGI1298369-VLU-MGI1315213-VLU-MGI1341839-VLU-MGI1341847-VLU-MGI1347346-VLU-MGI1858313-VLU-MGI1858330-VLU-MGI1860197-VLU-MGI1862037-VLU-MGI1913496-VLU-MGI1913837-VLU-MGI1914689-VLU-MGI1914742-VLU-MGI1915760-VLU-MGI1915851-VLU-MGI1917193-VLU-MGI1918135-VLU-MGI1918659-VLU-MGI1918772-VLU-MGI1919019-VLU-MGI1921500-VLU-MGI1922664-VLU-MGI1922790-VLU-MGI1923665-VLU-MGI1923935-VLU-MGI1924140-VLU-MGI1929289-VLU-MGI1932389-VLU-MGI2135601-VLU-MGI2142195-VLU-MGI2442266-VLU-MGI2442600-VLU-MGI2443417-VLU-MGI2443713-VLU-MGI2444047-VLU-MGI2444178-VLU-MGI2444371-VLU-MGI2652818-VLU-MGI2673874-VLU-MGI2682211-VLU-MGI2685287-VLU-MGI2685483-VLU-MGI2685720-VLU-MGI3030137-VLU-MGI3030199-VLU-MGI3030372-VLU-MGI3030587-VLU-MGI3031053-VLU-MGI3045962-VLU-MGI3606242-VLU-MGI3615275-VLU-MGI3648937-VLU-MGI3652306-VLU-MGI5477151-VLU-MGI88382-VLU-MGI88452-VLU-MGI894810-VLU-MGI95480-VLU-MGI95489-VLU-MGI95514-VLU-MGI95752-VLU-MGI96770-VLU-GENO0000649-MMRRC041819",
+                        "lbl": "Aqp1<?>/?; Aqp4<?>/?; Kif1a<?>/?; Dab1<?>/?; Kif21b<?>/?; Olfr31<?>/?; Itih4<?>/?; Adam10<?>/?; Gckr<?>/?; Ints9<?>/?; Pms1<?>/?; Ints6<?>/?; Pcdha7<?>/?; Nrip1<?>/?; Nod1<?>/?; Hhip<?>/?; Adamts7<?>/?; Uba2<?>/?; Nxf1<?>/?; Wdr7<?>/?; Slc12a5<?>/?; Osgep<?>/?; Fastk<?>/?; Xab2<?>/?; Zfand4<?>/?; Ints1<?>/?; Qars<?>/?; Lrch4<?>/?; Ints10<?>/?; Fmnl2<?>/?; Ggt6<?>/?; Bbs10<?>/?; Tmem110<?>/?; Ccnl1<?>/?; Fpgt<?>/?; Fam187b<?>/?; Eif4g3<?>/?; Memo1<?>/?; Adrm1<?>/?; Tlr9<?>/?; Slc1a4<?>/?; Leng8<?>/?; Zfp367<?>/?; Adamts18<?>/?; Tmem74<?>/?; Ythdc1<?>/?; Pgghg<?>/?; 9930022D16Rik<?>/?; B130006D01Rik<?>/?; Dcdc2a<?>/?; P2ry6<?>/?; Rxfp1<?>/?; Zfp804b<?>/?; Gsg1l<?>/?; Acss3<?>/?; Olfr303<?>/?; Olfr365<?>/?; Olfr538<?>/?; Olfr753-ps1<?>/?; Olfr1219<?>/?; Crocc2<?>/?; Nostrin<?>/?; Klk13<?>/?; Gm6588<?>/?; Krtap4-8<?>/?; Gm26657<?>/?; F5<?>/?; Col2a1<?>/?; Uty<?>/?; Fancc<?>/?; Fbn1<?>/?; Fes<?>/?; Gls<?>/?; Lef1<?>/? [n.s.]"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-VLU",
+                        "lbl": "Aqp1<?>/?"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-VLU-MGI107387-VLU-MGI108391-VLU-MGI108554-VLU-MGI109234-VLU-MGI109304-VLU-MGI109536-VLU-MGI109548-VLU-MGI1096345-VLU-MGI1098533-VLU-MGI1202302-VLU-MGI1202397-VLU-MGI1298369-VLU-MGI1315213-VLU-MGI1341839-VLU-MGI1341847-VLU-MGI1347346-VLU-MGI1858313-VLU-MGI1858330-VLU-MGI1860197-VLU-MGI1862037-VLU-MGI1913496-VLU-MGI1913837-VLU-MGI1914689-VLU-MGI1914742-VLU-MGI1915760-VLU-MGI1915851-VLU-MGI1917193-VLU-MGI1918135-VLU-MGI1918659-VLU-MGI1918772-VLU-MGI1919019-VLU-MGI1921500-VLU-MGI1922664-VLU-MGI1922790-VLU-MGI1923665-VLU-MGI1923935-VLU-MGI1924140-VLU-MGI1929289-VLU-MGI1932389-VLU-MGI2135601-VLU-MGI2142195-VLU-MGI2442266-VLU-MGI2442600-VLU-MGI2443417-VLU-MGI2443713-VLU-MGI2444047-VLU-MGI2444178-VLU-MGI2444371-VLU-MGI2652818-VLU-MGI2673874-VLU-MGI2682211-VLU-MGI2685287-VLU-MGI2685483-VLU-MGI2685720-VLU-MGI3030137-VLU-MGI3030199-VLU-MGI3030372-VLU-MGI3030587-VLU-MGI3031053-VLU-MGI3045962-VLU-MGI3606242-VLU-MGI3615275-VLU-MGI3648937-VLU-MGI3652306-VLU-MGI5477151-VLU-MGI88382-VLU-MGI88452-VLU-MGI894810-VLU-MGI95480-VLU-MGI95489-VLU-MGI95514-VLU-MGI95752-VLU-MGI96770-VLU",
+                        "lbl": "Aqp1<?>/?; Aqp4<?>/?; Kif1a<?>/?; Dab1<?>/?; Kif21b<?>/?; Olfr31<?>/?; Itih4<?>/?; Adam10<?>/?; Gckr<?>/?; Ints9<?>/?; Pms1<?>/?; Ints6<?>/?; Pcdha7<?>/?; Nrip1<?>/?; Nod1<?>/?; Hhip<?>/?; Adamts7<?>/?; Uba2<?>/?; Nxf1<?>/?; Wdr7<?>/?; Slc12a5<?>/?; Osgep<?>/?; Fastk<?>/?; Xab2<?>/?; Zfand4<?>/?; Ints1<?>/?; Qars<?>/?; Lrch4<?>/?; Ints10<?>/?; Fmnl2<?>/?; Ggt6<?>/?; Bbs10<?>/?; Tmem110<?>/?; Ccnl1<?>/?; Fpgt<?>/?; Fam187b<?>/?; Eif4g3<?>/?; Memo1<?>/?; Adrm1<?>/?; Tlr9<?>/?; Slc1a4<?>/?; Leng8<?>/?; Zfp367<?>/?; Adamts18<?>/?; Tmem74<?>/?; Ythdc1<?>/?; Pgghg<?>/?; 9930022D16Rik<?>/?; B130006D01Rik<?>/?; Dcdc2a<?>/?; P2ry6<?>/?; Rxfp1<?>/?; Zfp804b<?>/?; Gsg1l<?>/?; Acss3<?>/?; Olfr303<?>/?; Olfr365<?>/?; Olfr538<?>/?; Olfr753-ps1<?>/?; Olfr1219<?>/?; Crocc2<?>/?; Nostrin<?>/?; Klk13<?>/?; Gm6588<?>/?; Krtap4-8<?>/?; Gm26657<?>/?; F5<?>/?; Col2a1<?>/?; Uty<?>/?; Fancc<?>/?; Fbn1<?>/?; Fes<?>/?; Gls<?>/?; Lef1<?>/?"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-VL",
+                        "lbl": "Aqp1<?>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "086b7bb2-83f1-4a21-90c0-d38e96e4bc1c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mmrrc.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": ":.well-known/genid/MGI103201-VLU-MGI107387-VLU-MGI108391-VLU-MGI108554-VLU-MGI109234-VLU-MGI109304-VLU-MGI109536-VLU-MGI109548-VLU-MGI1096345-VLU-MGI1098533-VLU-MGI1202302-VLU-MGI1202397-VLU-MGI1298369-VLU-MGI1315213-VLU-MGI1341839-VLU-MGI1341847-VLU-MGI1347346-VLU-MGI1858313-VLU-MGI1858330-VLU-MGI1860197-VLU-MGI1862037-VLU-MGI1913496-VLU-MGI1913837-VLU-MGI1914689-VLU-MGI1914742-VLU-MGI1915760-VLU-MGI1915851-VLU-MGI1917193-VLU-MGI1918135-VLU-MGI1918659-VLU-MGI1918772-VLU-MGI1919019-VLU-MGI1921500-VLU-MGI1922664-VLU-MGI1922790-VLU-MGI1923665-VLU-MGI1923935-VLU-MGI1924140-VLU-MGI1929289-VLU-MGI1932389-VLU-MGI2135601-VLU-MGI2142195-VLU-MGI2442266-VLU-MGI2442600-VLU-MGI2443417-VLU-MGI2443713-VLU-MGI2444047-VLU-MGI2444178-VLU-MGI2444371-VLU-MGI2652818-VLU-MGI2673874-VLU-MGI2682211-VLU-MGI2685287-VLU-MGI2685483-VLU-MGI2685720-VLU-MGI3030137-VLU-MGI3030199-VLU-MGI3030372-VLU-MGI3030587-VLU-MGI3031053-VLU-MGI3045962-VLU-MGI3606242-VLU-MGI3615275-VLU-MGI3648937-VLU-MGI3652306-VLU-MGI5477151-VLU-MGI88382-VLU-MGI88452-VLU-MGI894810-VLU-MGI95480-VLU-MGI95489-VLU-MGI95514-VLU-MGI95752-VLU-MGI96770-VLU-GENO0000649-MMRRC041819",
+                "label": "Aqp1<?>/?; Aqp4<?>/?; Kif1a<?>/?; Dab1<?>/?; Kif21b<?>/?; Olfr31<?>/?; Itih4<?>/?; Adam10<?>/?; Gckr<?>/?; Ints9<?>/?; Pms1<?>/?; Ints6<?>/?; Pcdha7<?>/?; Nrip1<?>/?; Nod1<?>/?; Hhip<?>/?; Adamts7<?>/?; Uba2<?>/?; Nxf1<?>/?; Wdr7<?>/?; Slc12a5<?>/?; Osgep<?>/?; Fastk<?>/?; Xab2<?>/?; Zfand4<?>/?; Ints1<?>/?; Qars<?>/?; Lrch4<?>/?; Ints10<?>/?; Fmnl2<?>/?; Ggt6<?>/?; Bbs10<?>/?; Tmem110<?>/?; Ccnl1<?>/?; Fpgt<?>/?; Fam187b<?>/?; Eif4g3<?>/?; Memo1<?>/?; Adrm1<?>/?; Tlr9<?>/?; Slc1a4<?>/?; Leng8<?>/?; Zfp367<?>/?; Adamts18<?>/?; Tmem74<?>/?; Ythdc1<?>/?; Pgghg<?>/?; 9930022D16Rik<?>/?; B130006D01Rik<?>/?; Dcdc2a<?>/?; P2ry6<?>/?; Rxfp1<?>/?; Zfp804b<?>/?; Gsg1l<?>/?; Acss3<?>/?; Olfr303<?>/?; Olfr365<?>/?; Olfr538<?>/?; Olfr753-ps1<?>/?; Olfr1219<?>/?; Crocc2<?>/?; Nostrin<?>/?; Klk13<?>/?; Gm6588<?>/?; Krtap4-8<?>/?; Gm26657<?>/?; F5<?>/?; Col2a1<?>/?; Uty<?>/?; Fancc<?>/?; Fbn1<?>/?; Fes<?>/?; Gls<?>/?; Lef1<?>/? [n.s.]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:1857807",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey27712"
+                    },
+                    {
+                        "obj": ":.well-known/genid/mgivslckey27712",
+                        "pred": "GENO:0000382",
+                        "sub": "MGI:3655809"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:1857807"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:3655809",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask> [involves: C57BL/6J * CD-1]"
+                    },
+                    {
+                        "id": ":.well-known/genid/mgivslckey27712",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MGI:1857807",
+                        "lbl": "Aqp1<tm1Ask>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "427ee34e-275f-4411-8f84-246637eca69a",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:3655809",
+                "label": "Aqp1<tm1Ask>/Aqp1<tm1Ask> [involves: C57BL/6J * CD-1]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/mgivslckey40244",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey40244-mgivslckey40245"
+                    },
+                    {
+                        "obj": "MGI:1857807",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey40244"
+                    },
+                    {
+                        "obj": ":.well-known/genid/mgivslckey40244-mgivslckey40245",
+                        "pred": "GENO:0000382",
+                        "sub": "MGI:3783406"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:1857807"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:3783406",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp5<tm1Ask>/Aqp5<tm1Ask> [involves: C57BL/6J * CD-1]"
+                    },
+                    {
+                        "id": ":.well-known/genid/mgivslckey40244-mgivslckey40245",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp5<tm1Ask>/Aqp5<tm1Ask>"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": ":.well-known/genid/mgivslckey40244",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>"
+                    },
+                    {
+                        "id": "MGI:1857807",
+                        "lbl": "Aqp1<tm1Ask>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "9b9547c3-86d8-40cd-9e3d-8eaa903a7b52",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:3783406",
+                "label": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp5<tm1Ask>/Aqp5<tm1Ask> [involves: C57BL/6J * CD-1]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/mgivslckey23765-mgivslckey23766",
+                        "pred": "GENO:0000382",
+                        "sub": "MGI:3613472"
+                    },
+                    {
+                        "obj": ":.well-known/genid/mgivslckey23765",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey23765-mgivslckey23766"
+                    },
+                    {
+                        "obj": "MGI:1857807",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey23765"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:1857807"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/mgivslckey23765-mgivslckey23766",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp8<tm1Ask>/Aqp8<tm1Ask>"
+                    },
+                    {
+                        "id": "MGI:3613472",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp8<tm1Ask>/Aqp8<tm1Ask> [involves: 129/Sv * C57BL/6 * CD-1]"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": ":.well-known/genid/mgivslckey23765",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>"
+                    },
+                    {
+                        "id": "MGI:1857807",
+                        "lbl": "Aqp1<tm1Ask>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a4c59b04-9b00-473f-aaa1-ebc413966759",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:3613472",
+                "label": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp8<tm1Ask>/Aqp8<tm1Ask> [involves: 129/Sv * C57BL/6 * CD-1]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:5692545",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI5692545GENO0000137"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:5692545"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:5692545",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI5692545GENO0000137",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/<?>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "dff2f7a1-f0d9-4484-944b-28fceb69288c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/impc.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": ":.well-known/genid/MGI5692545GENO0000137",
+                "label": "Aqp1<tm1b(EUCOMM)Wtsi>/<?>",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/MGI103201-VLU",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI102702-VLU-MGI103201-VLU-MGI104576-VLU-MGI104697-VLU-MGI104960-VLU-MGI105370-VLU-MGI105959-VLU-MGI107560-VLU-MGI107690-VLU-MGI107726-VLU-MGI108559-VLU-MGI1095407-VLU-MGI1096573-VLU-MGI1098550-VLU-MGI1196391-VLU-MGI1276116-VLU-MGI1277238-VLU-MGI1316658-VLU-MGI1330860-VLU-MGI1336167-VLU-MGI1338871-VLU-MGI1342290-VLU-MGI1343180-VLU-MGI1353576-VLU-MGI1858414-VLU-MGI1889341-VLU-MGI1891717-VLU-MGI1891830-VLU-MGI1913429-VLU-MGI1913855-VLU-MGI1914080-VLU-MGI1914269-VLU-MGI1914324-VLU-MGI1915134-VLU-MGI1915467-VLU-MGI1917452-VLU-MGI1917695-VLU-MGI1918180-VLU-MGI1918195-VLU-MGI1918940-VLU-MGI1919174-VLU-MGI1919318-VLU-MGI1919429-VLU-MGI1919830-VLU-MGI1921337-VLU-MGI1921426-VLU-MGI1922567-VLU-MGI1923017-VLU-MGI1923691-VLU-MGI1924303-VLU-MGI1928760-VLU-MGI1929237-VLU-MGI1931256-VLU-MGI1933210-VLU-MGI1933532-VLU-MGI2139806-VLU-MGI2178429-VLU-MGI2183752-VLU-MGI2385848-VLU-MGI2442032-VLU-MGI2443052-VLU-MGI2443331-VLU-MGI2444148-VLU-MGI2445210-VLU-MGI2447811-VLU-MGI2667778-VLU-MGI2675387-VLU-MGI2681865-VLU-MGI2684953-VLU-MGI2685175-VLU-MGI3030601-VLU-MGI3030938-VLU-MGI3588222-VLU-MGI4834570-VLU-MGI88075-VLU-MGI88353-VLU-MGI894323-VLU-MGI95931-VLU-MGI96955-VLU-MGI98881-VLU"
+                    },
+                    {
+                        "obj": ":.well-known/genid/MGI103201-VL",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-VLU"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": ":.well-known/genid/MGI103201-VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/MGI102702-VLU-MGI103201-VLU-MGI104576-VLU-MGI104697-VLU-MGI104960-VLU-MGI105370-VLU-MGI105959-VLU-MGI107560-VLU-MGI107690-VLU-MGI107726-VLU-MGI108559-VLU-MGI1095407-VLU-MGI1096573-VLU-MGI1098550-VLU-MGI1196391-VLU-MGI1276116-VLU-MGI1277238-VLU-MGI1316658-VLU-MGI1330860-VLU-MGI1336167-VLU-MGI1338871-VLU-MGI1342290-VLU-MGI1343180-VLU-MGI1353576-VLU-MGI1858414-VLU-MGI1889341-VLU-MGI1891717-VLU-MGI1891830-VLU-MGI1913429-VLU-MGI1913855-VLU-MGI1914080-VLU-MGI1914269-VLU-MGI1914324-VLU-MGI1915134-VLU-MGI1915467-VLU-MGI1917452-VLU-MGI1917695-VLU-MGI1918180-VLU-MGI1918195-VLU-MGI1918940-VLU-MGI1919174-VLU-MGI1919318-VLU-MGI1919429-VLU-MGI1919830-VLU-MGI1921337-VLU-MGI1921426-VLU-MGI1922567-VLU-MGI1923017-VLU-MGI1923691-VLU-MGI1924303-VLU-MGI1928760-VLU-MGI1929237-VLU-MGI1931256-VLU-MGI1933210-VLU-MGI1933532-VLU-MGI2139806-VLU-MGI2178429-VLU-MGI2183752-VLU-MGI2385848-VLU-MGI2442032-VLU-MGI2443052-VLU-MGI2443331-VLU-MGI2444148-VLU-MGI2445210-VLU-MGI2447811-VLU-MGI2667778-VLU-MGI2675387-VLU-MGI2681865-VLU-MGI2684953-VLU-MGI2685175-VLU-MGI3030601-VLU-MGI3030938-VLU-MGI3588222-VLU-MGI4834570-VLU-MGI88075-VLU-MGI88353-VLU-MGI894323-VLU-MGI95931-VLU-MGI96955-VLU-MGI98881-VLU",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI102702-VLU-MGI103201-VLU-MGI104576-VLU-MGI104697-VLU-MGI104960-VLU-MGI105370-VLU-MGI105959-VLU-MGI107560-VLU-MGI107690-VLU-MGI107726-VLU-MGI108559-VLU-MGI1095407-VLU-MGI1096573-VLU-MGI1098550-VLU-MGI1196391-VLU-MGI1276116-VLU-MGI1277238-VLU-MGI1316658-VLU-MGI1330860-VLU-MGI1336167-VLU-MGI1338871-VLU-MGI1342290-VLU-MGI1343180-VLU-MGI1353576-VLU-MGI1858414-VLU-MGI1889341-VLU-MGI1891717-VLU-MGI1891830-VLU-MGI1913429-VLU-MGI1913855-VLU-MGI1914080-VLU-MGI1914269-VLU-MGI1914324-VLU-MGI1915134-VLU-MGI1915467-VLU-MGI1917452-VLU-MGI1917695-VLU-MGI1918180-VLU-MGI1918195-VLU-MGI1918940-VLU-MGI1919174-VLU-MGI1919318-VLU-MGI1919429-VLU-MGI1919830-VLU-MGI1921337-VLU-MGI1921426-VLU-MGI1922567-VLU-MGI1923017-VLU-MGI1923691-VLU-MGI1924303-VLU-MGI1928760-VLU-MGI1929237-VLU-MGI1931256-VLU-MGI1933210-VLU-MGI1933532-VLU-MGI2139806-VLU-MGI2178429-VLU-MGI2183752-VLU-MGI2385848-VLU-MGI2442032-VLU-MGI2443052-VLU-MGI2443331-VLU-MGI2444148-VLU-MGI2445210-VLU-MGI2447811-VLU-MGI2667778-VLU-MGI2675387-VLU-MGI2681865-VLU-MGI2684953-VLU-MGI2685175-VLU-MGI3030601-VLU-MGI3030938-VLU-MGI3588222-VLU-MGI4834570-VLU-MGI88075-VLU-MGI88353-VLU-MGI894323-VLU-MGI95931-VLU-MGI96955-VLU-MGI98881-VLU-GENO0000649-MMRRC038430"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/MGI102702-VLU-MGI103201-VLU-MGI104576-VLU-MGI104697-VLU-MGI104960-VLU-MGI105370-VLU-MGI105959-VLU-MGI107560-VLU-MGI107690-VLU-MGI107726-VLU-MGI108559-VLU-MGI1095407-VLU-MGI1096573-VLU-MGI1098550-VLU-MGI1196391-VLU-MGI1276116-VLU-MGI1277238-VLU-MGI1316658-VLU-MGI1330860-VLU-MGI1336167-VLU-MGI1338871-VLU-MGI1342290-VLU-MGI1343180-VLU-MGI1353576-VLU-MGI1858414-VLU-MGI1889341-VLU-MGI1891717-VLU-MGI1891830-VLU-MGI1913429-VLU-MGI1913855-VLU-MGI1914080-VLU-MGI1914269-VLU-MGI1914324-VLU-MGI1915134-VLU-MGI1915467-VLU-MGI1917452-VLU-MGI1917695-VLU-MGI1918180-VLU-MGI1918195-VLU-MGI1918940-VLU-MGI1919174-VLU-MGI1919318-VLU-MGI1919429-VLU-MGI1919830-VLU-MGI1921337-VLU-MGI1921426-VLU-MGI1922567-VLU-MGI1923017-VLU-MGI1923691-VLU-MGI1924303-VLU-MGI1928760-VLU-MGI1929237-VLU-MGI1931256-VLU-MGI1933210-VLU-MGI1933532-VLU-MGI2139806-VLU-MGI2178429-VLU-MGI2183752-VLU-MGI2385848-VLU-MGI2442032-VLU-MGI2443052-VLU-MGI2443331-VLU-MGI2444148-VLU-MGI2445210-VLU-MGI2447811-VLU-MGI2667778-VLU-MGI2675387-VLU-MGI2681865-VLU-MGI2684953-VLU-MGI2685175-VLU-MGI3030601-VLU-MGI3030938-VLU-MGI3588222-VLU-MGI4834570-VLU-MGI88075-VLU-MGI88353-VLU-MGI894323-VLU-MGI95931-VLU-MGI96955-VLU-MGI98881-VLU",
+                        "lbl": "Lilr4b<?>/?; Aqp1<?>/?; Lct<?>/?; Muc5ac<?>/?; Tnfaip2<?>/?; Bst1<?>/?; Cox8a<?>/?; Sema4a<?>/?; Zfp462<?>/?; Supt6<?>/?; Macf1<?>/?; Bmpr2<?>/?; Utp4<?>/?; Ficd<?>/?; Pole<?>/?; Ep300<?>/?; Cfap44<?>/?; Cyba<?>/?; Chil3<?>/?; Prkab1<?>/?; Btrc<?>/?; Rps6ka2<?>/?; Vgf<?>/?; Pik3cg<?>/?; Ngef<?>/?; Hacd3<?>/?; Rnf130<?>/?; Pkp3<?>/?; Ogfod3<?>/?; 1700017N19Rik<?>/?; Nacc1<?>/?; Actr6<?>/?; Mon2<?>/?; 1810043G02Rik<?>/?; Prrc2a<?>/?; Ctsll3<?>/?; Cd248<?>/?; Nol8<?>/?; Mmrn1<?>/?; Esm1<?>/?; Tube1<?>/?; Cnot2<?>/?; Fbxl2<?>/?; Zufsp<?>/?; Slc7a13<?>/?; Tgm5<?>/?; Parpbp<?>/?; Rab11fip1<?>/?; Daam2<?>/?; Sun1<?>/?; Ruvbl1<?>/?; Pus1<?>/?; Cubn<?>/?; Tm6sf2<?>/?; Slc12a9<?>/?; Spg20<?>/?; Zfp366<?>/?; Tubgcp3<?>/?; Bcas3<?>/?; Daglb<?>/?; Cpne9<?>/?; Rims3<?>/?; Phf20<?>/?; Cyp4f39<?>/?; Aldoart1<?>/?; Serpinb6e<?>/?; Nanos3<?>/?; Zfat<?>/?; Dnah7b<?>/?; Asxl3<?>/?; Olfr767<?>/?; Olfr1104<?>/?; 4931408C20Rik<?>/?; Zfp955a<?>/?; Arsb<?>/?; Cdk11b<?>/?; Ranbp2<?>/?; H2-Q2<?>/?; Slc3a2<?>/?; Tyrp1<?>/?"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-VLU",
+                        "lbl": "Aqp1<?>/?"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI102702-VLU-MGI103201-VLU-MGI104576-VLU-MGI104697-VLU-MGI104960-VLU-MGI105370-VLU-MGI105959-VLU-MGI107560-VLU-MGI107690-VLU-MGI107726-VLU-MGI108559-VLU-MGI1095407-VLU-MGI1096573-VLU-MGI1098550-VLU-MGI1196391-VLU-MGI1276116-VLU-MGI1277238-VLU-MGI1316658-VLU-MGI1330860-VLU-MGI1336167-VLU-MGI1338871-VLU-MGI1342290-VLU-MGI1343180-VLU-MGI1353576-VLU-MGI1858414-VLU-MGI1889341-VLU-MGI1891717-VLU-MGI1891830-VLU-MGI1913429-VLU-MGI1913855-VLU-MGI1914080-VLU-MGI1914269-VLU-MGI1914324-VLU-MGI1915134-VLU-MGI1915467-VLU-MGI1917452-VLU-MGI1917695-VLU-MGI1918180-VLU-MGI1918195-VLU-MGI1918940-VLU-MGI1919174-VLU-MGI1919318-VLU-MGI1919429-VLU-MGI1919830-VLU-MGI1921337-VLU-MGI1921426-VLU-MGI1922567-VLU-MGI1923017-VLU-MGI1923691-VLU-MGI1924303-VLU-MGI1928760-VLU-MGI1929237-VLU-MGI1931256-VLU-MGI1933210-VLU-MGI1933532-VLU-MGI2139806-VLU-MGI2178429-VLU-MGI2183752-VLU-MGI2385848-VLU-MGI2442032-VLU-MGI2443052-VLU-MGI2443331-VLU-MGI2444148-VLU-MGI2445210-VLU-MGI2447811-VLU-MGI2667778-VLU-MGI2675387-VLU-MGI2681865-VLU-MGI2684953-VLU-MGI2685175-VLU-MGI3030601-VLU-MGI3030938-VLU-MGI3588222-VLU-MGI4834570-VLU-MGI88075-VLU-MGI88353-VLU-MGI894323-VLU-MGI95931-VLU-MGI96955-VLU-MGI98881-VLU-GENO0000649-MMRRC038430",
+                        "lbl": "Lilr4b<?>/?; Aqp1<?>/?; Lct<?>/?; Muc5ac<?>/?; Tnfaip2<?>/?; Bst1<?>/?; Cox8a<?>/?; Sema4a<?>/?; Zfp462<?>/?; Supt6<?>/?; Macf1<?>/?; Bmpr2<?>/?; Utp4<?>/?; Ficd<?>/?; Pole<?>/?; Ep300<?>/?; Cfap44<?>/?; Cyba<?>/?; Chil3<?>/?; Prkab1<?>/?; Btrc<?>/?; Rps6ka2<?>/?; Vgf<?>/?; Pik3cg<?>/?; Ngef<?>/?; Hacd3<?>/?; Rnf130<?>/?; Pkp3<?>/?; Ogfod3<?>/?; 1700017N19Rik<?>/?; Nacc1<?>/?; Actr6<?>/?; Mon2<?>/?; 1810043G02Rik<?>/?; Prrc2a<?>/?; Ctsll3<?>/?; Cd248<?>/?; Nol8<?>/?; Mmrn1<?>/?; Esm1<?>/?; Tube1<?>/?; Cnot2<?>/?; Fbxl2<?>/?; Zufsp<?>/?; Slc7a13<?>/?; Tgm5<?>/?; Parpbp<?>/?; Rab11fip1<?>/?; Daam2<?>/?; Sun1<?>/?; Ruvbl1<?>/?; Pus1<?>/?; Cubn<?>/?; Tm6sf2<?>/?; Slc12a9<?>/?; Spg20<?>/?; Zfp366<?>/?; Tubgcp3<?>/?; Bcas3<?>/?; Daglb<?>/?; Cpne9<?>/?; Rims3<?>/?; Phf20<?>/?; Cyp4f39<?>/?; Aldoart1<?>/?; Serpinb6e<?>/?; Nanos3<?>/?; Zfat<?>/?; Dnah7b<?>/?; Asxl3<?>/?; Olfr767<?>/?; Olfr1104<?>/?; 4931408C20Rik<?>/?; Zfp955a<?>/?; Arsb<?>/?; Cdk11b<?>/?; Ranbp2<?>/?; H2-Q2<?>/?; Slc3a2<?>/?; Tyrp1<?>/? [n.s.]"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-VL",
+                        "lbl": "Aqp1<?>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d0d15af3-70e2-40f9-96fe-228f009582dc",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mmrrc.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": ":.well-known/genid/MGI102702-VLU-MGI103201-VLU-MGI104576-VLU-MGI104697-VLU-MGI104960-VLU-MGI105370-VLU-MGI105959-VLU-MGI107560-VLU-MGI107690-VLU-MGI107726-VLU-MGI108559-VLU-MGI1095407-VLU-MGI1096573-VLU-MGI1098550-VLU-MGI1196391-VLU-MGI1276116-VLU-MGI1277238-VLU-MGI1316658-VLU-MGI1330860-VLU-MGI1336167-VLU-MGI1338871-VLU-MGI1342290-VLU-MGI1343180-VLU-MGI1353576-VLU-MGI1858414-VLU-MGI1889341-VLU-MGI1891717-VLU-MGI1891830-VLU-MGI1913429-VLU-MGI1913855-VLU-MGI1914080-VLU-MGI1914269-VLU-MGI1914324-VLU-MGI1915134-VLU-MGI1915467-VLU-MGI1917452-VLU-MGI1917695-VLU-MGI1918180-VLU-MGI1918195-VLU-MGI1918940-VLU-MGI1919174-VLU-MGI1919318-VLU-MGI1919429-VLU-MGI1919830-VLU-MGI1921337-VLU-MGI1921426-VLU-MGI1922567-VLU-MGI1923017-VLU-MGI1923691-VLU-MGI1924303-VLU-MGI1928760-VLU-MGI1929237-VLU-MGI1931256-VLU-MGI1933210-VLU-MGI1933532-VLU-MGI2139806-VLU-MGI2178429-VLU-MGI2183752-VLU-MGI2385848-VLU-MGI2442032-VLU-MGI2443052-VLU-MGI2443331-VLU-MGI2444148-VLU-MGI2445210-VLU-MGI2447811-VLU-MGI2667778-VLU-MGI2675387-VLU-MGI2681865-VLU-MGI2684953-VLU-MGI2685175-VLU-MGI3030601-VLU-MGI3030938-VLU-MGI3588222-VLU-MGI4834570-VLU-MGI88075-VLU-MGI88353-VLU-MGI894323-VLU-MGI95931-VLU-MGI96955-VLU-MGI98881-VLU-GENO0000649-MMRRC038430",
+                "label": "Lilr4b<?>/?; Aqp1<?>/?; Lct<?>/?; Muc5ac<?>/?; Tnfaip2<?>/?; Bst1<?>/?; Cox8a<?>/?; Sema4a<?>/?; Zfp462<?>/?; Supt6<?>/?; Macf1<?>/?; Bmpr2<?>/?; Utp4<?>/?; Ficd<?>/?; Pole<?>/?; Ep300<?>/?; Cfap44<?>/?; Cyba<?>/?; Chil3<?>/?; Prkab1<?>/?; Btrc<?>/?; Rps6ka2<?>/?; Vgf<?>/?; Pik3cg<?>/?; Ngef<?>/?; Hacd3<?>/?; Rnf130<?>/?; Pkp3<?>/?; Ogfod3<?>/?; 1700017N19Rik<?>/?; Nacc1<?>/?; Actr6<?>/?; Mon2<?>/?; 1810043G02Rik<?>/?; Prrc2a<?>/?; Ctsll3<?>/?; Cd248<?>/?; Nol8<?>/?; Mmrn1<?>/?; Esm1<?>/?; Tube1<?>/?; Cnot2<?>/?; Fbxl2<?>/?; Zufsp<?>/?; Slc7a13<?>/?; Tgm5<?>/?; Parpbp<?>/?; Rab11fip1<?>/?; Daam2<?>/?; Sun1<?>/?; Ruvbl1<?>/?; Pus1<?>/?; Cubn<?>/?; Tm6sf2<?>/?; Slc12a9<?>/?; Spg20<?>/?; Zfp366<?>/?; Tubgcp3<?>/?; Bcas3<?>/?; Daglb<?>/?; Cpne9<?>/?; Rims3<?>/?; Phf20<?>/?; Cyp4f39<?>/?; Aldoart1<?>/?; Serpinb6e<?>/?; Nanos3<?>/?; Zfat<?>/?; Dnah7b<?>/?; Asxl3<?>/?; Olfr767<?>/?; Olfr1104<?>/?; 4931408C20Rik<?>/?; Zfp955a<?>/?; Arsb<?>/?; Cdk11b<?>/?; Ranbp2<?>/?; H2-Q2<?>/?; Slc3a2<?>/?; Tyrp1<?>/? [n.s.]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/mgivslckey40251-mgivslckey40252",
+                        "pred": "GENO:0000382",
+                        "sub": "MGI:3783422"
+                    },
+                    {
+                        "obj": ":.well-known/genid/mgivslckey40251",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey40251-mgivslckey40252"
+                    },
+                    {
+                        "obj": "MGI:1857807",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/mgivslckey40251"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:1857807"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:3783422",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp4<tm1Ask>/Aqp4<tm1Ask> [involves: C57BL/6J * CD-1]"
+                    },
+                    {
+                        "id": ":.well-known/genid/mgivslckey40251-mgivslckey40252",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp4<tm1Ask>/Aqp4<tm1Ask>"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MGI:1857807",
+                        "lbl": "Aqp1<tm1Ask>"
+                    },
+                    {
+                        "id": ":.well-known/genid/mgivslckey40251",
+                        "lbl": "Aqp1<tm1Ask>/Aqp1<tm1Ask>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "704743c0-b4a6-44e9-888d-e92341a6fc8a",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:3783422",
+                "label": "Aqp1<tm1Ask>/Aqp1<tm1Ask>; Aqp4<tm1Ask>/Aqp4<tm1Ask> [involves: C57BL/6J * CD-1]",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/MGI103201-MGI5692545-homozygote",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9"
+                    },
+                    {
+                        "obj": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:5692545"
+                    },
+                    {
+                        "obj": "MGI:5692545",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-MGI5692545-homozygote"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B]"
+                    },
+                    {
+                        "id": "MGI:5692545",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-MGI5692545-homozygote",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B] (female)"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "ee380643-7647-4e28-9f17-9fdfac2c69fe",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/impc.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385",
+                "label": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B] (female)",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/MGI103201-MGI5692545-homozygote",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9"
+                    },
+                    {
+                        "obj": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:5692545"
+                    },
+                    {
+                        "obj": "MGI:5692545",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-MGI5692545-homozygote"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B]"
+                    },
+                    {
+                        "id": "MGI:5692545",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-MGI5692545-homozygote",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B] (male)"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d6b6d151-763c-4724-a555-7e78a91ba049",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/impc.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840",
+                "label": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B] (male)",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "homology_associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "FlyBase:FBgn0034882",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:05ea0aede4ab955c31aaa066a20b795f7e8c8fb0"
+                    },
+                    {
+                        "obj": "FlyBase:FBgn0034882",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:05ea0aede4ab955c31aaa066a20b795f7e8c8fb0"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:05ea0aede4ab955c31aaa066a20b795f7e8c8fb0"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:05ea0aede4ab955c31aaa066a20b795f7e8c8fb0",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "FlyBase:FBgn0034882",
+                        "lbl": "Eglp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "fe1b08bb-791e-4001-800a-3e33f9021421",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "FlyBase:FBgn0034882",
+                "label": "Eglp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:7227",
+                    "label": "Drosophila melanogaster"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:6f9af2f4106eabd7dd4718ff91d5979dd726e176"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:6f9af2f4106eabd7dd4718ff91d5979dd726e176"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "RO:HOM0000011",
+                        "sub": "MGI:1096865"
+                    },
+                    {
+                        "obj": "MGI:1096865",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:6f9af2f4106eabd7dd4718ff91d5979dd726e176"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:6f9af2f4106eabd7dd4718ff91d5979dd726e176",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:1096865",
+                        "lbl": "Aqp2"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "4e2d4ca5-a1e9-4d90-9c06-a3b2e749528c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:1096865",
+                "label": "Aqp2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000011",
+                "label": "in paralogy relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:559284",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:73d5294db5bc96a7e3ca1a0063e88a6cde156a1e"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:73d5294db5bc96a7e3ca1a0063e88a6cde156a1e"
+                    },
+                    {
+                        "obj": "NCBIGene:559284",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:73d5294db5bc96a7e3ca1a0063e88a6cde156a1e"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:73d5294db5bc96a7e3ca1a0063e88a6cde156a1e",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:559284",
+                        "lbl": "aqp1a.2"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "79b5288e-8fc9-4f6d-9776-f4e486d82582",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:559284",
+                "label": "aqp1a.2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:7955",
+                    "label": "Danio rerio"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:816186",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:83959b7ff43938a06321334f81a7f230953184a1"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:83959b7ff43938a06321334f81a7f230953184a1"
+                    },
+                    {
+                        "obj": "NCBIGene:816186",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:83959b7ff43938a06321334f81a7f230953184a1"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    },
+                    {
+                        "id": "NCBIGene:816186",
+                        "lbl": "PIP2;8"
+                    },
+                    {
+                        "id": "MONARCH:83959b7ff43938a06321334f81a7f230953184a1",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "0b8d95a6-24cc-4deb-9c8f-2448f7acd267",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:816186",
+                "label": "PIP2;8",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:3702",
+                    "label": "Arabidopsis thaliana"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:836187",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:6d550b9345a2f1a171fa7cd456a35d468730fd09"
+                    },
+                    {
+                        "obj": "NCBIGene:836187",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:6d550b9345a2f1a171fa7cd456a35d468730fd09"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:6d550b9345a2f1a171fa7cd456a35d468730fd09"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:6d550b9345a2f1a171fa7cd456a35d468730fd09",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:836187",
+                        "lbl": "PIP2;4"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "cb541bb4-9fbc-4a65-ae34-ac2dbc34a4d9",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:836187",
+                "label": "PIP2;4",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:3702",
+                    "label": "Arabidopsis thaliana"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:818293",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "NCBIGene:818293",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:2706875087b63000c5acbe4b6e4f7e41657f04cc"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:2706875087b63000c5acbe4b6e4f7e41657f04cc"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:2706875087b63000c5acbe4b6e4f7e41657f04cc"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:2706875087b63000c5acbe4b6e4f7e41657f04cc",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    },
+                    {
+                        "id": "NCBIGene:818293",
+                        "lbl": "PIP2B"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "6512ec0f-14f0-4b68-9417-ea9aee7495fc",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:818293",
+                "label": "PIP2B",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:3702",
+                    "label": "Arabidopsis thaliana"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:839235",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:93f5febadb043d575a4deae011ad75b12bb112f3"
+                    },
+                    {
+                        "obj": "NCBIGene:839235",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:93f5febadb043d575a4deae011ad75b12bb112f3"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:93f5febadb043d575a4deae011ad75b12bb112f3"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "NCBIGene:839235",
+                        "lbl": "PIP1C"
+                    },
+                    {
+                        "id": "MONARCH:93f5febadb043d575a4deae011ad75b12bb112f3",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "561ec4c2-428a-417a-b806-d8d0f415499e",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:839235",
+                "label": "PIP1C",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:3702",
+                    "label": "Arabidopsis thaliana"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:824510",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:67937b023aba66910a1563a6c06c748c03605277"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:67937b023aba66910a1563a6c06c748c03605277"
+                    },
+                    {
+                        "obj": "NCBIGene:824510",
+                        "pred": "RO:HOM0000017",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:67937b023aba66910a1563a6c06c748c03605277"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:67937b023aba66910a1563a6c06c748c03605277",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    },
+                    {
+                        "id": "NCBIGene:824510",
+                        "lbl": "PIP2A"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "4e50c292-74f1-4f79-afc8-7416a34c79c9",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:824510",
+                "label": "PIP2A",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:3702",
+                    "label": "Arabidopsis thaliana"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000017",
+                "label": "in orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:554c51f7d53c3523701e6f5b47292d52a94f11ab"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:554c51f7d53c3523701e6f5b47292d52a94f11ab"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "RO:HOM0000020",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:554c51f7d53c3523701e6f5b47292d52a94f11ab"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    },
+                    {
+                        "id": "MONARCH:554c51f7d53c3523701e6f5b47292d52a94f11ab",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "8be13ab2-8417-4269-97f4-13bc2bc469d7",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000020",
+                "label": "in 1 to 1 orthology relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "RO:HOM0000011",
+                        "sub": "MGI:96990"
+                    },
+                    {
+                        "obj": "MGI:96990",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f2281afe4129c8699aa8b6b6ba5997352bb8ff9d"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f2281afe4129c8699aa8b6b6ba5997352bb8ff9d"
+                    },
+                    {
+                        "obj": "ECO:0000080",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:f2281afe4129c8699aa8b6b6ba5997352bb8ff9d"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:96990",
+                        "lbl": "Mip"
+                    },
+                    {
+                        "id": "MONARCH:f2281afe4129c8699aa8b6b6ba5997352bb8ff9d",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "ECO:0000080",
+                        "lbl": "phylogenetic evidence"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "623b0bd5-c597-4eea-abc5-3ad75d46ee7d",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:96990",
+                "label": "Mip",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/panther.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:HOM0000011",
+                "label": "in paralogy relationship with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "id": "NCBIGene:11826",
+    "interaction_associations": null,
+    "label": "Aqp1",
+    "literature_associations": null,
+    "pathway_associations": null,
+    "phenotype_associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:8a52e167842d166d9505c5b756c12175ed31ff4d"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:8a52e167842d166d9505c5b756c12175ed31ff4d"
+                    },
+                    {
+                        "obj": "HP:0001254",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:8a52e167842d166d9505c5b756c12175ed31ff4d"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:8a52e167842d166d9505c5b756c12175ed31ff4d"
+                    },
+                    {
+                        "obj": "HP:0001254",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "HP:0001254",
+                        "lbl": "Lethargy"
+                    },
+                    {
+                        "id": "MONARCH:8a52e167842d166d9505c5b756c12175ed31ff4d",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "PMID:9468475",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "5476e36e-d6b4-47e9-af4c-716b39e9b0d5",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "HP:0001254",
+                "label": "Lethargy",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "HP:0004325",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:7ee3662f1f9d4defbe7a0e85a0aa56370f67860e"
+                    },
+                    {
+                        "obj": "HP:0004325",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:7ee3662f1f9d4defbe7a0e85a0aa56370f67860e"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:7ee3662f1f9d4defbe7a0e85a0aa56370f67860e"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:7ee3662f1f9d4defbe7a0e85a0aa56370f67860e"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:7ee3662f1f9d4defbe7a0e85a0aa56370f67860e",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "PMID:9468475",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "HP:0004325",
+                        "lbl": "Decreased body weight"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "252115e2-a779-433f-b92b-96b8a0aeb1cb",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "HP:0004325",
+                "label": "Decreased body weight",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:11698654",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:68dbc443f52c47e56c8230f6cd396ce437023501"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:68dbc443f52c47e56c8230f6cd396ce437023501"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:68dbc443f52c47e56c8230f6cd396ce437023501"
+                    },
+                    {
+                        "obj": "MP:0006423",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MP:0006423",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:68dbc443f52c47e56c8230f6cd396ce437023501"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "PMID:11698654",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:68dbc443f52c47e56c8230f6cd396ce437023501",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MP:0006423",
+                        "lbl": "dilated rete testis"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "6bd044aa-dfab-4107-80e4-d68ee85f9c7c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MP:0006423",
+                "label": "dilated rete testis",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:11698654",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:11891232",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e3e8745df0c3b698adc7862e35cbb511b7018123"
+                    },
+                    {
+                        "obj": "MGI:1857807",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e3e8745df0c3b698adc7862e35cbb511b7018123"
+                    },
+                    {
+                        "obj": "GO:0048593PHENOTYPE",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e3e8745df0c3b698adc7862e35cbb511b7018123"
+                    },
+                    {
+                        "obj": "PMID:11891232",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e3e8745df0c3b698adc7862e35cbb511b7018123"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:e3e8745df0c3b698adc7862e35cbb511b7018123"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:1857807"
+                    },
+                    {
+                        "obj": "GO:0048593PHENOTYPE",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:1857807"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "GO:0048593PHENOTYPE",
+                        "lbl": "camera-type eye morphogenesis phenotype"
+                    },
+                    {
+                        "id": "MONARCH:e3e8745df0c3b698adc7862e35cbb511b7018123",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MGI:1857807",
+                        "lbl": "Aqp1<tm1Ask>"
+                    },
+                    {
+                        "id": "PMID:11891232",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "01febc41-d97a-4cf5-9a49-ee1b810b047c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "GO:0048593PHENOTYPE",
+                "label": "camera-type eye morphogenesis phenotype",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/go.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:11891232",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:11891232",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:10021457",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10724035",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10662735",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "GO:0070295PHENOTYPE",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:1857807"
+                    },
+                    {
+                        "obj": "GO:0070295PHENOTYPE",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:16525162",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:1857807"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:12133842",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10795927",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "MGI:1857807",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:11035042",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10795927",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10021457",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:16525162",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10662735",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:12133842",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:11035042",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    },
+                    {
+                        "obj": "PMID:10724035",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "MONARCH:84c3f595dd625b77ccfb83004e031f959222e480",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:10795927",
+                        "lbl": null
+                    },
+                    {
+                        "id": "GO:0070295PHENOTYPE",
+                        "lbl": "renal water absorption phenotype"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "PMID:12133842",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:10724035",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:16525162",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:11035042",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:9468475",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:10662735",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:10021457",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:1857807",
+                        "lbl": "Aqp1<tm1Ask>"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "20155151-b90f-48b4-bac1-f2117b0c0777",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "GO:0070295PHENOTYPE",
+                "label": "renal water absorption phenotype",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/go.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10021457",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10724035",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10662735",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:16525162",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:12133842",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10795927",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:11035042",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10795927",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10021457",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:16525162",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10662735",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:12133842",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:11035042",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10724035",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "HP:0001944",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:dc982311ba43f3240c037288df541e247d0f4445"
+                    },
+                    {
+                        "obj": "HP:0001944",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:dc982311ba43f3240c037288df541e247d0f4445"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:dc982311ba43f3240c037288df541e247d0f4445"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:dc982311ba43f3240c037288df541e247d0f4445"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "MONARCH:dc982311ba43f3240c037288df541e247d0f4445",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:9468475",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "HP:0001944",
+                        "lbl": "Dehydration"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "53623afe-7591-4b65-b959-4dba42f6521f",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "HP:0001944",
+                "label": "Dehydration",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MP:0003631",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MP:0003631",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e0f40a7d8005acb6b70fabf0d0828849a0086bca"
+                    },
+                    {
+                        "obj": "PMID:17257750",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e0f40a7d8005acb6b70fabf0d0828849a0086bca"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e0f40a7d8005acb6b70fabf0d0828849a0086bca"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:e0f40a7d8005acb6b70fabf0d0828849a0086bca"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MP:0003631",
+                        "lbl": "nervous system phenotype"
+                    },
+                    {
+                        "id": "MONARCH:e0f40a7d8005acb6b70fabf0d0828849a0086bca",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:17257750",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "c8765fe3-aa63-46fc-b1ac-601e9b24946a",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MP:0003631",
+                "label": "nervous system phenotype",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:17257750",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MP:0006317",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:b8344dd4c22b0e33ffd29be76127ea9d7081c163"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:b8344dd4c22b0e33ffd29be76127ea9d7081c163"
+                    },
+                    {
+                        "obj": "MP:0006317",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:b8344dd4c22b0e33ffd29be76127ea9d7081c163"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:b8344dd4c22b0e33ffd29be76127ea9d7081c163"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "PMID:9468475",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MP:0006317",
+                        "lbl": "decreased urine sodium level"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:b8344dd4c22b0e33ffd29be76127ea9d7081c163",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d36ea428-0c28-4712-8972-ffca07f08c49",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MP:0006317",
+                "label": "decreased urine sodium level",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "HP:0010679",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:39f20af3fc1c229e211ed02ac99a3d4009390dc7"
+                    },
+                    {
+                        "obj": ":.well-known/genid/MGI103201-MGI5692545-homozygote",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9"
+                    },
+                    {
+                        "obj": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385"
+                    },
+                    {
+                        "obj": "HP:0010679",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:39f20af3fc1c229e211ed02ac99a3d4009390dc7"
+                    },
+                    {
+                        "obj": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "pred": "GENO:0000382",
+                        "sub": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840"
+                    },
+                    {
+                        "obj": "ECO:0000015",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:39f20af3fc1c229e211ed02ac99a3d4009390dc7"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "GENO:0000408",
+                        "sub": "MGI:5692545"
+                    },
+                    {
+                        "obj": "HP:0010679",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:1bdd1649be51e019c94f279eb24d18dc435ceac0"
+                    },
+                    {
+                        "obj": "MGI:5692545",
+                        "pred": "GENO:0000382",
+                        "sub": ":.well-known/genid/MGI103201-MGI5692545-homozygote"
+                    },
+                    {
+                        "obj": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:1bdd1649be51e019c94f279eb24d18dc435ceac0"
+                    },
+                    {
+                        "obj": "HP:0010679",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:723b1db6e87e9d398c041b1f329a94b26db60afe"
+                    },
+                    {
+                        "obj": "HP:0010679",
+                        "pred": "RO:0002200",
+                        "sub": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385"
+                    },
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:723b1db6e87e9d398c041b1f329a94b26db60afe"
+                    },
+                    {
+                        "obj": "HP:0010679",
+                        "pred": "RO:0002200",
+                        "sub": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:723b1db6e87e9d398c041b1f329a94b26db60afe"
+                    },
+                    {
+                        "obj": "ECO:0000015",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:1bdd1649be51e019c94f279eb24d18dc435ceac0"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:39f20af3fc1c229e211ed02ac99a3d4009390dc7",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "MONARCH:b465aebae18710fd9402f38b7e2cec729cdd0bd9",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B]"
+                    },
+                    {
+                        "id": "MGI:5692545",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "ECO:0000015",
+                        "lbl": "mutant phenotype evidence"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": ":.well-known/genid/MGI103201-MGI5692545-homozygote",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi>"
+                    },
+                    {
+                        "id": "MONARCH:723b1db6e87e9d398c041b1f329a94b26db60afe",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:b64648ad0c688ccc8a6deed2083c892544f52385",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B] (female)"
+                    },
+                    {
+                        "id": "MONARCH:1bdd1649be51e019c94f279eb24d18dc435ceac0",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:da1cde5e50b41cb0248c9a2509196e0ad166d840",
+                        "lbl": "Aqp1<tm1b(EUCOMM)Wtsi>/Aqp1<tm1b(EUCOMM)Wtsi> [C57BL/6NTac-MRC Harwell-H-AQP1-C01-TM1B] (male)"
+                    },
+                    {
+                        "id": "HP:0010679",
+                        "lbl": "Elevated tissue non-specific alkaline phosphatase"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "53babb7e-3e27-469a-8685-502d39b85a74",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "HP:0010679",
+                "label": "Elevated tissue non-specific alkaline phosphatase",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi.ttl",
+                "http://data.monarchinitiative.org/ttl/impc.ttl",
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "ECO:0000059",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:f93a8d2f555b186fb866e817916c891297945449"
+                    },
+                    {
+                        "obj": "HP:0001508",
+                        "pred": "RO:0002200",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "PMID:9468475",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:f93a8d2f555b186fb866e817916c891297945449"
+                    },
+                    {
+                        "obj": "PMID:10613915",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:f93a8d2f555b186fb866e817916c891297945449"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f93a8d2f555b186fb866e817916c891297945449"
+                    },
+                    {
+                        "obj": "HP:0001508",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f93a8d2f555b186fb866e817916c891297945449"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000059",
+                        "lbl": "experimental phenotypic evidence"
+                    },
+                    {
+                        "id": "PMID:9468475",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:10613915",
+                        "lbl": null
+                    },
+                    {
+                        "id": "HP:0001508",
+                        "lbl": "Failure to thrive"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:f93a8d2f555b186fb866e817916c891297945449",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a8d03c49-3525-477e-835d-12d339275c4d",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "HP:0001508",
+                "label": "Failure to thrive",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/mgi_slim.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:9468475",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                },
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:10613915",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "replaced_by": null,
+    "sequence_features": null,
+    "summaries": null,
+    "synonyms": [
+        {
+            "pred": "synonym",
+            "val": "water channel protein for red blood cells and kidney proximal tubule",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "aquaporin-CHIP",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "aquaporin-1",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "delayed early response protein 2",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "aquaporin 1",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "AQP-1",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "growth factor-induced delayed early response protein",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "DER2",
+            "xrefs": null
+        },
+        {
+            "pred": "synonym",
+            "val": "CHIP28",
+            "xrefs": null
+        }
+    ],
+    "systematic_name": null,
+    "taxon": {
+        "id": null,
+        "label": null
+    },
+    "transcripts": null,
+    "types": null,
+    "xrefs": null
+}

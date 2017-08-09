@@ -1,0 +1,401 @@
+[
+    {
+        "path": {
+            "details": [
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "disease",
+                        "cliqueLeader"
+                    ],
+                    "category": "disease",
+                    "definition": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://purl.obolibrary.org/obo/IAO_0000115": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasDbXref": [
+                        "DOID:0060728",
+                        "ICD10:E77.8",
+                        "OMIM:615273",
+                        "Orphanet:404454",
+                        "UMLS:C3808991"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "congenital disorder of deglycosylation"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": "mondo",
+                    "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": [
+                        "CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "Cdg Iv",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Cdg Iv, Formerly"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#id": "OMIM:615273",
+                    "http://www.w3.org/2000/01/rdf-schema#label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/OMIM_615273",
+                    "label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "synonym": [
+                        "CDDG",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "Cdg Iv",
+                        "Cdg Iv, Formerly",
+                        "congenital disorder of deglycosylation"
+                    ]
+                },
+                {
+                    "equivalentOriginalNodeSource": "http://purl.obolibrary.org/obo/DOID_0060728",
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Ontology",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/upheno/monarch.owl"
+                },
+                {
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "http://www.w3.org/2000/01/rdf-schema#label": "N-acetyl-D-glucosamine",
+                    "iri": "http://purl.obolibrary.org/obo/CHEBI_506227",
+                    "label": "N-acetyl-D-glucosamine"
+                }
+            ],
+            "overview": "(179791)--[isDefinedBy,123421672]-->(790586)<--[isDefinedBy,24102383]--(6248079)"
+        }
+    },
+    {
+        "path": {
+            "details": [
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "disease",
+                        "cliqueLeader"
+                    ],
+                    "category": "disease",
+                    "definition": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://purl.obolibrary.org/obo/IAO_0000115": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasDbXref": [
+                        "DOID:0060728",
+                        "ICD10:E77.8",
+                        "OMIM:615273",
+                        "Orphanet:404454",
+                        "UMLS:C3808991"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "congenital disorder of deglycosylation"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": "mondo",
+                    "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": [
+                        "CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "Cdg Iv",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Cdg Iv, Formerly"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#id": "OMIM:615273",
+                    "http://www.w3.org/2000/01/rdf-schema#label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/OMIM_615273",
+                    "label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "synonym": [
+                        "CDDG",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "Cdg Iv",
+                        "Cdg Iv, Formerly",
+                        "congenital disorder of deglycosylation"
+                    ]
+                },
+                {
+                    "equivalentOriginalNodeSource": "http://www.orpha.net/ORDO/Orphanet_404454",
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Ontology",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/upheno/monarch.owl"
+                },
+                {
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "http://www.w3.org/2000/01/rdf-schema#label": "N-acetyl-D-glucosamine",
+                    "iri": "http://purl.obolibrary.org/obo/CHEBI_506227",
+                    "label": "N-acetyl-D-glucosamine"
+                }
+            ],
+            "overview": "(179791)--[isDefinedBy,123421654]-->(790586)<--[isDefinedBy,24102383]--(6248079)"
+        }
+    },
+    {
+        "path": {
+            "details": [
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "disease",
+                        "cliqueLeader"
+                    ],
+                    "category": "disease",
+                    "definition": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://purl.obolibrary.org/obo/IAO_0000115": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasDbXref": [
+                        "DOID:0060728",
+                        "ICD10:E77.8",
+                        "OMIM:615273",
+                        "Orphanet:404454",
+                        "UMLS:C3808991"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "congenital disorder of deglycosylation"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": "mondo",
+                    "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": [
+                        "CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "Cdg Iv",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Cdg Iv, Formerly"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#id": "OMIM:615273",
+                    "http://www.w3.org/2000/01/rdf-schema#label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/OMIM_615273",
+                    "label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "synonym": [
+                        "CDDG",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "Cdg Iv",
+                        "Cdg Iv, Formerly",
+                        "congenital disorder of deglycosylation"
+                    ]
+                },
+                {
+                    "equivalentOriginalNodeSource": "http://purl.obolibrary.org/obo/UMLS_C3808991",
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Ontology",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/upheno/monarch.owl"
+                },
+                {
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "http://www.w3.org/2000/01/rdf-schema#label": "N-acetyl-D-glucosamine",
+                    "iri": "http://purl.obolibrary.org/obo/CHEBI_506227",
+                    "label": "N-acetyl-D-glucosamine"
+                }
+            ],
+            "overview": "(179791)--[isDefinedBy,123421662]-->(790586)<--[isDefinedBy,24102383]--(6248079)"
+        }
+    },
+    {
+        "path": {
+            "details": [
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "disease",
+                        "cliqueLeader"
+                    ],
+                    "category": "disease",
+                    "definition": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://purl.obolibrary.org/obo/IAO_0000115": [
+                        "Congenital disorder of deglycosylation is an autosomal recessive multisystem disorder characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production. Other common features include microcephaly, intractable seizures, abnormal eye movements, and evidence of liver dysfunction. Liver biopsy shows cytoplasmic accumulation of storage material in vacuoles (summary by {1:Enns et al., 2014}).\n\nFor a discussion of the classification of congenital disorders of glycosylation, see CDG1A (OMIM:212065).",
+                        "A carbohydrate metabolic disorder that has_material_basis_in homozygous or compound heterozygous mutation in the NGLY1 gene on chromosome 1p24. It is characterized by global developmental delay, hypotonia, abnormal involuntary movements, and alacrima or poor tear production."
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasDbXref": [
+                        "DOID:0060728",
+                        "ICD10:E77.8",
+                        "OMIM:615273",
+                        "Orphanet:404454",
+                        "UMLS:C3808991"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "congenital disorder of deglycosylation"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": "mondo",
+                    "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": [
+                        "CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "Cdg Iv",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Cdg Iv, Formerly"
+                    ],
+                    "http://www.geneontology.org/formats/oboInOwl#id": "OMIM:615273",
+                    "http://www.w3.org/2000/01/rdf-schema#label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/OMIM_615273",
+                    "label": [
+                        "Congenital Disorder of Deglycosylation",
+                        "Congenital disorder of deglycosylation",
+                        "NGLY1-deficiency"
+                    ],
+                    "synonym": [
+                        "CDDG",
+                        "CONGENITAL DISORDER OF DEGLYCOSYLATION; CDDG",
+                        "Congenital Disorder of Glycosylation, Type Iv, Formerly",
+                        "deficiency of N-glycanase 1",
+                        "NGLY1 deficiency",
+                        "Congenital Disorder of Glycosylation, Type Iv",
+                        "NGLY1-CDDG",
+                        "congenital disorder of glycosylation type Iv",
+                        "Cdg Iv",
+                        "Cdg Iv, Formerly",
+                        "congenital disorder of deglycosylation"
+                    ]
+                },
+                {
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Ontology",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "iri": "http://purl.obolibrary.org/obo/upheno/monarch.owl"
+                },
+                {
+                    "lbl": "isDefinedBy",
+                    "type": "isDefinedBy"
+                },
+                {
+                    "Neo4jLabel": [
+                        "Class",
+                        "Node",
+                        "cliqueLeader"
+                    ],
+                    "http://www.w3.org/2000/01/rdf-schema#label": "N-acetyl-D-glucosamine",
+                    "iri": "http://purl.obolibrary.org/obo/CHEBI_506227",
+                    "label": "N-acetyl-D-glucosamine"
+                }
+            ],
+            "overview": "(179791)--[isDefinedBy,24438809]-->(790586)<--[isDefinedBy,24102383]--(6248079)"
+        }
+    }
+]

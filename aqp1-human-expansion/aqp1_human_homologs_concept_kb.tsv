@@ -1,0 +1,50 @@
+homolog_id	item	itemLabel	altLabel	itemDesc
+FlyBase:FBgn0015872	Q29717328	Drip	I|DRIP|CG9023 gene product from transcript CG9023-RG|Dmel_CG9023|anon-48Aa|CG9023|Dmel\CG9023	protein-coding gene in the species Drosophila melanogaster
+FlyBase:FBgn0033635	Q29717311	Prip	CG7777 gene product from transcript CG7777-RB|Dmel_CG7777|Aqp7777|CG7777|Dmel\CG7777	protein-coding gene in the species Drosophila melanogaster
+FlyBase:FBgn0034882	Q29723074	Eglp1	Dmel_CG5398|Entomoglyceroporin 1|anon-WO0140519.151|Aqp5398|CG5398|Dmel\CG5398|Eglp 1	protein-coding gene in the species Drosophila melanogaster
+FlyBase:FBgn0034884	Q29723261	Eglp3	Dmel_CG17662|Entomoglyceroporin 3|Aqp17662|CG17662|Dmel\CG17662|Eglp 3	protein-coding gene in the species Drosophila melanogaster
+MGI:103201	Q14905239	Aqp1	Aqp1|CHIP28|aquaporin 1	protein-coding gene in the species Mus musculus
+NCBIGene:100069916	Q30016192	Aqp1		NA
+NCBIGene:100567659	Q30016565	Aqp1		NA
+NCBIGene:106997467	Q30016602	Aqp1		NA
+NCBIGene:25240	Q24420581	Aqp1	Aqp1|CHIP28|aquaporin 1	protein-coding gene in the species Rattus norvegicus
+NCBIGene:282653	Q30016633	Aqp1		NA
+NCBIGene:343	Q17830654	AQP8	AQP8|AQP-8|aquaporin 8	protein-coding gene in the species Homo sapiens
+NCBIGene:359	Q14902527	AQP2	AQP-CD|aquaporin 2|WCH-CD|AQP2	protein-coding gene in the species Homo sapiens
+NCBIGene:361	Q14902502	AQP4	AQP4|aquaporin 4|HMIWC2|MIWC|WCH4	protein-coding gene in the species Homo sapiens
+NCBIGene:362	Q17831317	AQP5	AQP5|AQP-5|aquaporin 5|PPKB	protein-coding gene in the species Homo sapiens
+NCBIGene:363	Q17831370	AQP6	KID|AQP2L|AQP6|aquaporin 6	protein-coding gene in the species Homo sapiens
+NCBIGene:403732	Q30016636	Aqp1		NA
+NCBIGene:420384	Q30016637	Aqp1		NA
+NCBIGene:4284	Q18029134	MIP	MIP|major intrinsic protein of lens fiber|CTRCT15|MIP26|MP26|AQP0|LIM1	protein-coding gene in the species Homo sapiens
+NCBIGene:463330	Q30016639	Aqp1		NA
+NCBIGene:559284	Q29773718	aqp1a.2	aquaporin 1a (Colton blood group), tandem duplicate 2	protein-coding gene in the species Danio rerio
+NCBIGene:816186	Q30016642	PIP2;8		NA
+NCBIGene:817123	Q30016643	TIP4;1		NA
+NCBIGene:818255	Q30016645	GAMMA-TIP		NA
+NCBIGene:818293	Q30016647	PIP2B		NA
+NCBIGene:818294	Q30016649	RD28		NA
+NCBIGene:818487	Q30016651	PIP2E		NA
+NCBIGene:819204	Q30016653	PIP1B		NA
+NCBIGene:819564	Q30016654	SIP1A		NA
+NCBIGene:820870	Q30016655	DELTA-TIP		NA
+NCBIGene:822259	Q30016656	TIP2		NA
+NCBIGene:823898	Q30016657	TIP5;1		NA
+NCBIGene:824510	Q30016658	PIP2A		NA
+NCBIGene:824647	Q30016660	PIP2;5		NA
+NCBIGene:824862	Q30016661	SIP2;1		NA
+NCBIGene:825316	Q30016663	PIP1A		NA
+NCBIGene:827446	Q30016664	TIP2;2		NA
+NCBIGene:827956	Q30016665	PIP1;4		NA
+NCBIGene:828051	Q30016666	TIP1;3		NA
+NCBIGene:828439	Q30016667	PIP1;5		NA
+NCBIGene:829662	Q30016668	PIP3		NA
+NCBIGene:831947	Q30016669	SIP1;2		NA
+NCBIGene:834794	Q30016671	TIP2;3		NA
+NCBIGene:836187	Q30016673	PIP2;4		NA
+NCBIGene:838359	Q30016674	BETA-TIP		NA
+NCBIGene:839235	Q30016676	PIP1C		NA
+NCBIGene:841648	Q30016679	AT1G52180		NA
+NCBIGene:843653	Q30016681	TIP3;1		NA
+ZFIN:ZDB-GENE-030131-7764	Q29763978	aqp1a.1	aquaporin 1a (Colton blood group), tandem duplicate 1|fj33g04|wu:fj33g04|zgc:85890	protein-coding gene in the species Danio rerio
+ZFIN:ZDB-GENE-100408-2	Q30016640	aqp1l		NA

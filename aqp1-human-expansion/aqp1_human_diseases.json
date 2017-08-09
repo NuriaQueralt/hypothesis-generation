@@ -1,0 +1,1719 @@
+{
+    "associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:8e8f5c993a9ac478fb84f162b39dfdd2b5cf56fe"
+                    },
+                    {
+                        "obj": "DOID:899",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD015529VL"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD015529VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD015529VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:8e8f5c993a9ac478fb84f162b39dfdd2b5cf56fe"
+                    },
+                    {
+                        "obj": "PMID:18988797",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:8e8f5c993a9ac478fb84f162b39dfdd2b5cf56fe"
+                    },
+                    {
+                        "obj": "DOID:899",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:8e8f5c993a9ac478fb84f162b39dfdd2b5cf56fe"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD015529VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Choledochal Cyst"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "DOID:899",
+                        "lbl": "choledochal cyst"
+                    },
+                    {
+                        "id": "PMID:18988797",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:8e8f5c993a9ac478fb84f162b39dfdd2b5cf56fe",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "87098b69-b139-40ef-bf2c-485dc301f34a",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "DOID:899",
+                "label": "choledochal cyst",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:18988797",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "DOID:0060164",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:1b5a948ef0ebcc965cefe5f7169e39d5ff08999d"
+                    },
+                    {
+                        "obj": "PMID:20018876",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:1b5a948ef0ebcc965cefe5f7169e39d5ff08999d"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD010146VL"
+                    },
+                    {
+                        "obj": "DOID:0060164",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD010146VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD010146VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:1b5a948ef0ebcc965cefe5f7169e39d5ff08999d"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:1b5a948ef0ebcc965cefe5f7169e39d5ff08999d"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "PMID:20018876",
+                        "lbl": null
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD010146VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Pain"
+                    },
+                    {
+                        "id": "MONARCH:1b5a948ef0ebcc965cefe5f7169e39d5ff08999d",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "DOID:0060164",
+                        "lbl": "pain disorder"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "82549ec2-3201-4184-9db0-a5236ffce7d5",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "DOID:0060164",
+                "label": "pain disorder",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:20018876",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:2b0ef42b50f690cebcf025a345ef07298a4cbb99"
+                    },
+                    {
+                        "obj": "MESH:D015674",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD015674VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD015674VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:2b0ef42b50f690cebcf025a345ef07298a4cbb99"
+                    },
+                    {
+                        "obj": "MESH:D015674",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:2b0ef42b50f690cebcf025a345ef07298a4cbb99"
+                    },
+                    {
+                        "obj": "PMID:12376462",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:2b0ef42b50f690cebcf025a345ef07298a4cbb99"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD015674VL"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:2b0ef42b50f690cebcf025a345ef07298a4cbb99",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MESH:D015674",
+                        "lbl": "Mammary Neoplasms, Animal"
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD015674VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Mammary Neoplasms, Animal"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "PMID:12376462",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "72359681-f62a-4d0e-b717-963bb0f2e3ea",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MESH:D015674",
+                "label": "Mammary Neoplasms, Animal",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:12376462",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "DOID:14115",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD012772VL"
+                    },
+                    {
+                        "obj": "DOID:14115",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:57bc7f1350acedaa6a1acdbea730d62845fd7ecf"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD012772VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:57bc7f1350acedaa6a1acdbea730d62845fd7ecf"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD012772VL"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:57bc7f1350acedaa6a1acdbea730d62845fd7ecf"
+                    },
+                    {
+                        "obj": "PMID:24028651",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:57bc7f1350acedaa6a1acdbea730d62845fd7ecf"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD012772VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Shock, Septic"
+                    },
+                    {
+                        "id": "PMID:24028651",
+                        "lbl": null
+                    },
+                    {
+                        "id": "DOID:14115",
+                        "lbl": "toxic shock syndrome"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:57bc7f1350acedaa6a1acdbea730d62845fd7ecf",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "c47efd46-1ab0-4ea5-85be-b97889991126",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "DOID:14115",
+                "label": "toxic shock syndrome",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:24028651",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "DOID:10763",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD006973VL"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD006973VL"
+                    },
+                    {
+                        "obj": "DOID:10763",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:00721e590f8ae4f137a25a69a44811851760cdd2"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD006973VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:00721e590f8ae4f137a25a69a44811851760cdd2"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:00721e590f8ae4f137a25a69a44811851760cdd2"
+                    },
+                    {
+                        "obj": "PMID:22228705",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:00721e590f8ae4f137a25a69a44811851760cdd2"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "DOID:10763",
+                        "lbl": "hypertension"
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD006973VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Hypertension"
+                    },
+                    {
+                        "id": "MONARCH:00721e590f8ae4f137a25a69a44811851760cdd2",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "PMID:22228705",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "af0c53e8-0018-4908-bb8a-364fda43e89f",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "DOID:10763",
+                "label": "hypertension",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:22228705",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD017044VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD017044VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:746d9325978f120ca018c07fe412b161114df28e"
+                    },
+                    {
+                        "obj": "PMID:18988797",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:746d9325978f120ca018c07fe412b161114df28e"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:746d9325978f120ca018c07fe412b161114df28e"
+                    },
+                    {
+                        "obj": "OMIM:263200",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:746d9325978f120ca018c07fe412b161114df28e"
+                    },
+                    {
+                        "obj": "OMIM:263200",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD017044VL"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD017044VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Polycystic Kidney, Autosomal Recessive"
+                    },
+                    {
+                        "id": "OMIM:263200",
+                        "lbl": "Autosomal recessive polycystic kidney disease"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:746d9325978f120ca018c07fe412b161114df28e",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:18988797",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "aa764bc1-ca29-4b77-a020-d6a88352802d",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "OMIM:263200",
+                "label": "Autosomal recessive polycystic kidney disease",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:18988797",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD008325VL"
+                    },
+                    {
+                        "obj": "MESH:D008325",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD008325VL"
+                    },
+                    {
+                        "obj": "PMID:12376462",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:51173b5a100a39be3f3893451b421a050a2f9b3e"
+                    },
+                    {
+                        "obj": "MESH:D008325",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:51173b5a100a39be3f3893451b421a050a2f9b3e"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD008325VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:51173b5a100a39be3f3893451b421a050a2f9b3e"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:51173b5a100a39be3f3893451b421a050a2f9b3e"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD008325VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Mammary Neoplasms, Experimental"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MESH:D008325",
+                        "lbl": "Mammary Neoplasms, Experimental"
+                    },
+                    {
+                        "id": "MONARCH:51173b5a100a39be3f3893451b421a050a2f9b3e",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:12376462",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "24645b90-a77e-480f-b33a-9359928c74ab",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MESH:D008325",
+                "label": "Mammary Neoplasms, Experimental",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:12376462",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD002277VL"
+                    },
+                    {
+                        "obj": "PMID:12376462",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:60748d2da90761b8c8d2fa9fcc4898c533bc33e3"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:60748d2da90761b8c8d2fa9fcc4898c533bc33e3"
+                    },
+                    {
+                        "obj": "MESH:D002277",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD002277VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD002277VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:60748d2da90761b8c8d2fa9fcc4898c533bc33e3"
+                    },
+                    {
+                        "obj": "MESH:D002277",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:60748d2da90761b8c8d2fa9fcc4898c533bc33e3"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MESH:D002277",
+                        "lbl": "Carcinoma"
+                    },
+                    {
+                        "id": "MONARCH:60748d2da90761b8c8d2fa9fcc4898c533bc33e3",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD002277VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Carcinoma"
+                    },
+                    {
+                        "id": "PMID:12376462",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "8f99a715-6543-468a-83dc-c060b90021aa",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MESH:D002277",
+                "label": "Carcinoma",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:12376462",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD004489VL"
+                    },
+                    {
+                        "obj": "PMID:22865611",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e57cd22d86c3c6cd722a088a8377ecce74e09d6e"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:e57cd22d86c3c6cd722a088a8377ecce74e09d6e"
+                    },
+                    {
+                        "obj": "MESH:D004489",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e57cd22d86c3c6cd722a088a8377ecce74e09d6e"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD004489VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e57cd22d86c3c6cd722a088a8377ecce74e09d6e"
+                    },
+                    {
+                        "obj": "MESH:D004489",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD004489VL"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MESH:D004489",
+                        "lbl": "Edema, Cardiac"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "PMID:22865611",
+                        "lbl": null
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD004489VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Edema, Cardiac"
+                    },
+                    {
+                        "id": "MONARCH:e57cd22d86c3c6cd722a088a8377ecce74e09d6e",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "8b6561b0-8092-42b3-8859-7803738560c6",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MESH:D004489",
+                "label": "Edema, Cardiac",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:22865611",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD012468VL"
+                    },
+                    {
+                        "obj": "DOID:8850",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD012468VL"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:1881a168e7668acc07d4703c88dc33fe9dfa8b60"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD012468VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:1881a168e7668acc07d4703c88dc33fe9dfa8b60"
+                    },
+                    {
+                        "obj": "PMID:16762588",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:1881a168e7668acc07d4703c88dc33fe9dfa8b60"
+                    },
+                    {
+                        "obj": "DOID:8850",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:1881a168e7668acc07d4703c88dc33fe9dfa8b60"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:1881a168e7668acc07d4703c88dc33fe9dfa8b60",
+                        "lbl": null
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD012468VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Salivary Gland Neoplasms"
+                    },
+                    {
+                        "id": "DOID:8850",
+                        "lbl": "salivary gland cancer"
+                    },
+                    {
+                        "id": "PMID:16762588",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "c042c18b-535a-41ee-8d08-ad3389d1daf3",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "DOID:8850",
+                "label": "salivary gland cancer",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:16762588",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:16762588",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:f9a43e483d014e3a4d4a9a9ebff0e82182e64ed5"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:f9a43e483d014e3a4d4a9a9ebff0e82182e64ed5"
+                    },
+                    {
+                        "obj": "MESH:D003528",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f9a43e483d014e3a4d4a9a9ebff0e82182e64ed5"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD003528VL"
+                    },
+                    {
+                        "obj": "MESH:D003528",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD003528VL"
+                    },
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD003528VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f9a43e483d014e3a4d4a9a9ebff0e82182e64ed5"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MESH:D003528",
+                        "lbl": "Carcinoma, Adenoid Cystic"
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD003528VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Carcinoma, Adenoid Cystic"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:f9a43e483d014e3a4d4a9a9ebff0e82182e64ed5",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:16762588",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "e97c5bd9-b512-446e-815a-fcc9643ca166",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MESH:D003528",
+                "label": "Carcinoma, Adenoid Cystic",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:16762588",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD006980VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:734dbcb539d53d6a02d7bb86f7f514a30393ab85"
+                    },
+                    {
+                        "obj": "PMID:12621104",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:734dbcb539d53d6a02d7bb86f7f514a30393ab85"
+                    },
+                    {
+                        "obj": "DOID:7998",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:734dbcb539d53d6a02d7bb86f7f514a30393ab85"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD006980VL"
+                    },
+                    {
+                        "obj": "DOID:7998",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD006980VL"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:734dbcb539d53d6a02d7bb86f7f514a30393ab85"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "DOID:7998",
+                        "lbl": "hyperthyroidism"
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD006980VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Hyperthyroidism"
+                    },
+                    {
+                        "id": "PMID:12621104",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:734dbcb539d53d6a02d7bb86f7f514a30393ab85",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "30483c27-e143-45af-991a-dc1d656420e3",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "DOID:7998",
+                "label": "hyperthyroidism",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:12621104",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": ":.well-known/genid/NCBIGene358-MESHD013119VL",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:194bdf3f06f14b8f897b9c46ab9685a1ac0dae94"
+                    },
+                    {
+                        "obj": "ECO:0000033",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:194bdf3f06f14b8f897b9c46ab9685a1ac0dae94"
+                    },
+                    {
+                        "obj": "PMID:21092735",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:194bdf3f06f14b8f897b9c46ab9685a1ac0dae94"
+                    },
+                    {
+                        "obj": "MESH:D013119",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:194bdf3f06f14b8f897b9c46ab9685a1ac0dae94"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "GENO:0000418",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD013119VL"
+                    },
+                    {
+                        "obj": "MESH:D013119",
+                        "pred": "RO:0002607",
+                        "sub": ":.well-known/genid/NCBIGene358-MESHD013119VL"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:194bdf3f06f14b8f897b9c46ab9685a1ac0dae94",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:21092735",
+                        "lbl": null
+                    },
+                    {
+                        "id": ":.well-known/genid/NCBIGene358-MESHD013119VL",
+                        "lbl": "some variant of AQP1 that is marker/mechanism for Spinal Cord Injuries"
+                    },
+                    {
+                        "id": "MESH:D013119",
+                        "lbl": "Spinal Cord Injuries"
+                    },
+                    {
+                        "id": "ECO:0000033",
+                        "lbl": "traceable author statement"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "98c64cd3-6c84-4469-a6e6-51148886472c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MESH:D013119",
+                "label": "Spinal Cord Injuries",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/ctd.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:21092735",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": null,
+                "label": null,
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "compact_associations": null,
+    "facet_counts": {
+        "object_closure": {
+            "BFO:0000001": 13,
+            "BFO:0000002": 13,
+            "BFO:0000016": 13,
+            "BFO:0000017": 13,
+            "BFO:0000020": 13,
+            "DOID:0050686": 3,
+            "DOID:0050687": 2,
+            "DOID:14566": 6,
+            "DOID:162": 5,
+            "DOID:4": 13,
+            "DOID:7": 8,
+            "MESH:D004194": 13,
+            "MESH:D009369": 6,
+            "MESH:D009371": 3,
+            "MPATH:0": 6,
+            "MPATH:218": 6,
+            "MPATH:603": 6,
+            "OBI:1110055": 13,
+            "OBO:NCIT_C3262": 6,
+            "OBO:NCIT_C7062": 5,
+            "OBO:NCIT_C9305": 5,
+            "UMLS:C0442893": 13,
+            "UMLS:CN200528": 13,
+            "UMLS:CN205525": 5,
+            "owl:Thing": 13
+        },
+        "subject_taxon_label": {
+            "Homo sapiens": 13
+        }
+    },
+    "facet_pivot": null,
+    "numFound": null,
+    "objects": [
+        "DOID:0060164",
+        "DOID:10763",
+        "DOID:14115",
+        "DOID:7998",
+        "DOID:8850",
+        "DOID:899",
+        "MESH:D002277",
+        "MESH:D003528",
+        "MESH:D004489",
+        "MESH:D008325",
+        "MESH:D013119",
+        "MESH:D015674",
+        "OMIM:263200"
+    ],
+    "start": null
+}

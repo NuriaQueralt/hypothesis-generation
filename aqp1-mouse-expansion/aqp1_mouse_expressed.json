@@ -1,0 +1,1752 @@
+{
+    "associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0006862",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e7d475f0f84dcf98a8335c0154215a9ef6ac87ba"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e7d475f0f84dcf98a8335c0154215a9ef6ac87ba"
+                    },
+                    {
+                        "obj": "UBERON:0006862",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0006862",
+                        "lbl": "diaphysis of femur"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:e7d475f0f84dcf98a8335c0154215a9ef6ac87ba",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "0bc3f492-8a5b-4a27-8b83-2872bf403dca",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0006862",
+                "label": "diaphysis of femur",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0000998",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:fa4f57e38e20e12850207ebce75416b0f90bed4c"
+                    },
+                    {
+                        "obj": "UBERON:0000998",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:fa4f57e38e20e12850207ebce75416b0f90bed4c"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0000998",
+                        "lbl": "seminal vesicle"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:fa4f57e38e20e12850207ebce75416b0f90bed4c",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "c616b37d-d521-4bc7-ab54-e814475107a8",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0000998",
+                "label": "seminal vesicle",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:2becb5a4d382757f3da7775e977ea1ccdeca393a"
+                    },
+                    {
+                        "obj": "UBERON:0007021",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:2becb5a4d382757f3da7775e977ea1ccdeca393a"
+                    },
+                    {
+                        "obj": "UBERON:0007021",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:2becb5a4d382757f3da7775e977ea1ccdeca393a",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0007021",
+                        "lbl": "sexually immature organism"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "4a123d3a-04ad-42e2-bb33-8edaa9424b5e",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0007021",
+                "label": "sexually immature organism",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0002062",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e52379cb81c49c1bef36aeac423e7c56278744f6"
+                    },
+                    {
+                        "obj": "UBERON:0002062",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e52379cb81c49c1bef36aeac423e7c56278744f6"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:e52379cb81c49c1bef36aeac423e7c56278744f6",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "UBERON:0002062",
+                        "lbl": "endocardial cushion"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "e4dd87ea-f6df-44df-93d1-0115a1fa24df",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002062",
+                "label": "endocardial cushion",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0002228",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:7ddeb7ee94322c8e7fe220c9aba5824b2c5a21f3"
+                    },
+                    {
+                        "obj": "UBERON:0002228",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:7ddeb7ee94322c8e7fe220c9aba5824b2c5a21f3"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:7ddeb7ee94322c8e7fe220c9aba5824b2c5a21f3",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0002228",
+                        "lbl": "rib"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d0a1ac4c-bf9e-4337-abd1-eb63d81c8024",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002228",
+                "label": "rib",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:18779ddab92dc5625f294f4db4b2e3637dbf0007"
+                    },
+                    {
+                        "obj": "UBERON:0001385",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "UBERON:0001385",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:18779ddab92dc5625f294f4db4b2e3637dbf0007"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0001385",
+                        "lbl": "tibialis anterior"
+                    },
+                    {
+                        "id": "MONARCH:18779ddab92dc5625f294f4db4b2e3637dbf0007",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "5b5c95a8-7f9b-41f1-8d42-cbb3f537535f",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001385",
+                "label": "tibialis anterior",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0003107",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "UBERON:0003107",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:a0b6ee2e2ffffa52ea92316745cecc2633c46f31"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:a0b6ee2e2ffffa52ea92316745cecc2633c46f31"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:a0b6ee2e2ffffa52ea92316745cecc2633c46f31",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0003107",
+                        "lbl": "Meckel's cartilage"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "13d3a1d9-81b0-42e7-98c2-25aa9759cd15",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0003107",
+                "label": "Meckel's cartilage",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0002478",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:19a177893dfcc648892cd396237687520ea97db2"
+                    },
+                    {
+                        "obj": "UBERON:0002478",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:19a177893dfcc648892cd396237687520ea97db2"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0002478",
+                        "lbl": "orbitosphenoid"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:19a177893dfcc648892cd396237687520ea97db2",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "ae4a11b7-730d-491d-ac53-994a13921e51",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002478",
+                "label": "orbitosphenoid",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001777",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:60df1a9835bf1c3072d2f9e0fb77e832c2d4be7b"
+                    },
+                    {
+                        "obj": "UBERON:0001777",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:60df1a9835bf1c3072d2f9e0fb77e832c2d4be7b"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:60df1a9835bf1c3072d2f9e0fb77e832c2d4be7b",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0001777",
+                        "lbl": "substantia propria of cornea"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "979c0f17-e158-4e81-9761-9360561c60d1",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001777",
+                "label": "substantia propria of cornea",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001103",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f00f9d30d24f85d149a2f5e237ada2530d326ce9"
+                    },
+                    {
+                        "obj": "UBERON:0001103",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f00f9d30d24f85d149a2f5e237ada2530d326ce9"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0001103",
+                        "lbl": "diaphragm"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:f00f9d30d24f85d149a2f5e237ada2530d326ce9",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "b9079edf-5f8d-45e3-b433-c745a8afb888",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001103",
+                "label": "diaphragm",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0002114",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:5eee2c680aad9f1a3836554607cead0a294e0426"
+                    },
+                    {
+                        "obj": "UBERON:0002114",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:5eee2c680aad9f1a3836554607cead0a294e0426"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:5eee2c680aad9f1a3836554607cead0a294e0426",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0002114",
+                        "lbl": "duodenum"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "aee28306-ebde-4d0e-bbcb-3f73e7a44b9b",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002114",
+                "label": "duodenum",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f998f91faa061d494e2050e6fb2832cded83ed21"
+                    },
+                    {
+                        "obj": "UBERON:0001083",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "UBERON:0001083",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f998f91faa061d494e2050e6fb2832cded83ed21"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:f998f91faa061d494e2050e6fb2832cded83ed21",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "UBERON:0001083",
+                        "lbl": "myocardium of ventricle"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "5530c8ea-45ff-4492-a8d5-01717d1e49df",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001083",
+                "label": "myocardium of ventricle",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:bc3587023e3692b6a6a1c2939c1f4b4a7a974e81"
+                    },
+                    {
+                        "obj": "UBERON:0002370",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:bc3587023e3692b6a6a1c2939c1f4b4a7a974e81"
+                    },
+                    {
+                        "obj": "UBERON:0002370",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:bc3587023e3692b6a6a1c2939c1f4b4a7a974e81",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0002370",
+                        "lbl": "thymus"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d559cf15-2069-45df-ab25-561984dbe26e",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002370",
+                "label": "thymus",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:df63c069ad2f03dfec3a1ed4c276d112945112ed"
+                    },
+                    {
+                        "obj": "UBERON:0001562",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "UBERON:0001562",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:df63c069ad2f03dfec3a1ed4c276d112945112ed"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "UBERON:0001562",
+                        "lbl": "digastric muscle group"
+                    },
+                    {
+                        "id": "MONARCH:df63c069ad2f03dfec3a1ed4c276d112945112ed",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "cacf9cd8-5e42-47f9-a6b6-75ff8609eacb",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001562",
+                "label": "digastric muscle group",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0010307",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:ffd554aad7e822abb156c29cfe2ac65dd655a169"
+                    },
+                    {
+                        "obj": "UBERON:0010307",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:ffd554aad7e822abb156c29cfe2ac65dd655a169"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:ffd554aad7e822abb156c29cfe2ac65dd655a169",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0010307",
+                        "lbl": "conjunctival fornix"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "0d34db92-8c24-4560-b8fe-d479b1e29b5b",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0010307",
+                "label": "conjunctival fornix",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001383",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "UBERON:0001383",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:4b5b92e6cf8bce00758505cd647705168281fa82"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:4b5b92e6cf8bce00758505cd647705168281fa82"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0001383",
+                        "lbl": "muscle of leg"
+                    },
+                    {
+                        "id": "MONARCH:4b5b92e6cf8bce00758505cd647705168281fa82",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a1570d1b-818e-4d34-adb4-094a037e1c40",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001383",
+                "label": "muscle of leg",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0004134",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:7372f8cbe9444c05327d677aa59cf41df1669054"
+                    },
+                    {
+                        "obj": "UBERON:0004134",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:7372f8cbe9444c05327d677aa59cf41df1669054"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0004134",
+                        "lbl": "proximal tubule"
+                    },
+                    {
+                        "id": "MONARCH:7372f8cbe9444c05327d677aa59cf41df1669054",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "2a47de71-86ca-49f6-a469-c44f334c40cb",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0004134",
+                "label": "proximal tubule",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001377",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:2dce3b4174a5d7e922fcdcb165d16c766a891fc5"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:2dce3b4174a5d7e922fcdcb165d16c766a891fc5"
+                    },
+                    {
+                        "obj": "UBERON:0001377",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0001377",
+                        "lbl": "quadriceps femoris"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:2dce3b4174a5d7e922fcdcb165d16c766a891fc5",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "9d382379-84e8-4a00-9450-d9b23d229ed6",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001377",
+                "label": "quadriceps femoris",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0008971",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:d7009af023492d2ad15ddea8a6761c83a95931ef"
+                    },
+                    {
+                        "obj": "UBERON:0008971",
+                        "pred": "RO:0002206",
+                        "sub": "MGI:103201"
+                    },
+                    {
+                        "obj": "MGI:103201",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:d7009af023492d2ad15ddea8a6761c83a95931ef"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0008971",
+                        "lbl": "left colon"
+                    },
+                    {
+                        "id": "MGI:103201",
+                        "lbl": "Aqp1"
+                    },
+                    {
+                        "id": "MONARCH:d7009af023492d2ad15ddea8a6761c83a95931ef",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "0a20e8f4-ceeb-4985-92fd-3cc4e55056a4",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0008971",
+                "label": "left colon",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "MGI:103201",
+                "label": "Aqp1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:10090",
+                    "label": "Mus musculus"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "compact_associations": null,
+    "facet_counts": {
+        "object_closure": {
+            "BFO:0000001": 19,
+            "BFO:0000002": 19,
+            "BFO:0000003": 18,
+            "BFO:0000004": 19,
+            "BFO:0000040": 19,
+            "OBO:CARO_0000006": 19,
+            "UBERON:0000061": 19,
+            "UBERON:0000062": 10,
+            "UBERON:0000064": 6,
+            "UBERON:0000465": 19,
+            "UBERON:0001062": 19,
+            "UBERON:0001630": 5,
+            "UBERON:0003661": 3,
+            "UBERON:0003663": 3,
+            "UBERON:0004120": 12,
+            "UBERON:0004121": 5,
+            "UBERON:0005090": 5,
+            "UBERON:0010000": 19,
+            "UBERON:0010313": 4,
+            "UBERON:0010314": 6,
+            "UBERON:0014892": 4,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_16": 6,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_4": 10,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_6": 19,
+            "owl:Thing": 19
+        },
+        "subject_taxon_label": {
+            "Mus musculus": 19
+        }
+    },
+    "facet_pivot": null,
+    "numFound": null,
+    "objects": [
+        "UBERON:0000998",
+        "UBERON:0001083",
+        "UBERON:0001103",
+        "UBERON:0001377",
+        "UBERON:0001383",
+        "UBERON:0001385",
+        "UBERON:0001562",
+        "UBERON:0001777",
+        "UBERON:0002062",
+        "UBERON:0002114",
+        "UBERON:0002228",
+        "UBERON:0002370",
+        "UBERON:0002478",
+        "UBERON:0003107",
+        "UBERON:0004134",
+        "UBERON:0006862",
+        "UBERON:0007021",
+        "UBERON:0008971",
+        "UBERON:0010307"
+    ],
+    "start": null
+}

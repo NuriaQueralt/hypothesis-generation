@@ -1,0 +1,2464 @@
+{
+    "associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:18fafed02009af95ed344c953ca07f085873576d"
+                    },
+                    {
+                        "obj": "NCBIGene:123722",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:18fafed02009af95ed344c953ca07f085873576d"
+                    },
+                    {
+                        "obj": "NCBIGene:123722",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:18fafed02009af95ed344c953ca07f085873576d"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:18fafed02009af95ed344c953ca07f085873576d"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "NCBIGene:123722",
+                        "lbl": "FSD2"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:18fafed02009af95ed344c953ca07f085873576d",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "565ed0cf-5e0b-4d72-8b20-c6b73740c588",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:123722",
+                "label": "FSD2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:a51b2e051b0e4940c3a9bba398cedbf3c928ae34"
+                    },
+                    {
+                        "obj": "NCBIGene:22806",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:22806",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:a51b2e051b0e4940c3a9bba398cedbf3c928ae34"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:a51b2e051b0e4940c3a9bba398cedbf3c928ae34"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:a51b2e051b0e4940c3a9bba398cedbf3c928ae34"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "NCBIGene:22806",
+                        "lbl": "IKZF3"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:a51b2e051b0e4940c3a9bba398cedbf3c928ae34",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "55af1514-49d5-4804-80a0-ddbd5e4b0673",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:22806",
+                "label": "IKZF3",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e137091ae20d643cd5323146cf5dda2e5ad8dedc"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:e137091ae20d643cd5323146cf5dda2e5ad8dedc"
+                    },
+                    {
+                        "obj": "NCBIGene:6925",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e137091ae20d643cd5323146cf5dda2e5ad8dedc"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e137091ae20d643cd5323146cf5dda2e5ad8dedc"
+                    },
+                    {
+                        "obj": "NCBIGene:6925",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:6925",
+                        "lbl": "TCF4"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:e137091ae20d643cd5323146cf5dda2e5ad8dedc",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "83183ff9-36a7-4f9b-86bc-f0f581403858",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:6925",
+                "label": "TCF4",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:2353",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:df0731b14232a1fb6e2d0315d75b9e9a8fc85c37"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:df0731b14232a1fb6e2d0315d75b9e9a8fc85c37"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:df0731b14232a1fb6e2d0315d75b9e9a8fc85c37"
+                    },
+                    {
+                        "obj": "NCBIGene:2353",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:df0731b14232a1fb6e2d0315d75b9e9a8fc85c37"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:df0731b14232a1fb6e2d0315d75b9e9a8fc85c37",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "NCBIGene:2353",
+                        "lbl": "FOS"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "5974fd98-a947-495f-a967-3529288824a0",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:2353",
+                "label": "FOS",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e6a8b07a0d4f5c820c093be7dbfe6003722a0858"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:e6a8b07a0d4f5c820c093be7dbfe6003722a0858"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e6a8b07a0d4f5c820c093be7dbfe6003722a0858"
+                    },
+                    {
+                        "obj": "NCBIGene:125115",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:125115",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e6a8b07a0d4f5c820c093be7dbfe6003722a0858"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "NCBIGene:125115",
+                        "lbl": "KRT40"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:e6a8b07a0d4f5c820c093be7dbfe6003722a0858",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d93622d5-b3ce-4014-9566-165d8edbdd0b",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:125115",
+                "label": "KRT40",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:3881",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:0fd1c4d06bf38a9d5d4bf053eb111f1eeafa50d6"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:0fd1c4d06bf38a9d5d4bf053eb111f1eeafa50d6"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:0fd1c4d06bf38a9d5d4bf053eb111f1eeafa50d6"
+                    },
+                    {
+                        "obj": "NCBIGene:3881",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:0fd1c4d06bf38a9d5d4bf053eb111f1eeafa50d6"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:0fd1c4d06bf38a9d5d4bf053eb111f1eeafa50d6",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:3881",
+                        "lbl": "KRT31"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "941e4979-5bde-4404-a3c6-deff9982b8a5",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:3881",
+                "label": "KRT31",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:54507",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e996b89c4450e2184e81d7573f995b83ddcd768b"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:e996b89c4450e2184e81d7573f995b83ddcd768b"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e996b89c4450e2184e81d7573f995b83ddcd768b"
+                    },
+                    {
+                        "obj": "PMID:19060904",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:e996b89c4450e2184e81d7573f995b83ddcd768b"
+                    },
+                    {
+                        "obj": "NCBIGene:54507",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "NCBIGene:54507",
+                        "lbl": "ADAMTSL4"
+                    },
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "MONARCH:e996b89c4450e2184e81d7573f995b83ddcd768b",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "PMID:19060904",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "6d700a65-ba35-43c7-8b80-470bb5cefec8",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:54507",
+                "label": "ADAMTSL4",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:19060904",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:52586d30128bd8737fd2a152e8f0fb2ae1b20621"
+                    },
+                    {
+                        "obj": "NCBIGene:79734",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:52586d30128bd8737fd2a152e8f0fb2ae1b20621"
+                    },
+                    {
+                        "obj": "PMID:16189514",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:52586d30128bd8737fd2a152e8f0fb2ae1b20621"
+                    },
+                    {
+                        "obj": "NCBIGene:79734",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:52586d30128bd8737fd2a152e8f0fb2ae1b20621"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "NCBIGene:79734",
+                        "lbl": "KCTD17"
+                    },
+                    {
+                        "id": "MONARCH:52586d30128bd8737fd2a152e8f0fb2ae1b20621",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "PMID:16189514",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "f321a99f-2153-4c9d-a122-4d8230d88e14",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:79734",
+                "label": "KCTD17",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:16189514",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:386675",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:386675",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:ba1646ee0bd2f584d5d4a0ffa4a5e015e95f656a"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:ba1646ee0bd2f584d5d4a0ffa4a5e015e95f656a"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:ba1646ee0bd2f584d5d4a0ffa4a5e015e95f656a"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:ba1646ee0bd2f584d5d4a0ffa4a5e015e95f656a"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:ba1646ee0bd2f584d5d4a0ffa4a5e015e95f656a",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "NCBIGene:386675",
+                        "lbl": "KRTAP10-7"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "94fd738a-845e-4b72-bd0a-eeb74a7f2840",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:386675",
+                "label": "KRTAP10-7",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:22807",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:6a17604a1d2b5ebba6cc6565829f69a78f2e1b87"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:6a17604a1d2b5ebba6cc6565829f69a78f2e1b87"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:6a17604a1d2b5ebba6cc6565829f69a78f2e1b87"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:6a17604a1d2b5ebba6cc6565829f69a78f2e1b87"
+                    },
+                    {
+                        "obj": "NCBIGene:22807",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "MONARCH:6a17604a1d2b5ebba6cc6565829f69a78f2e1b87",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:22807",
+                        "lbl": "IKZF2"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "c9e1ef9d-ff4a-42e9-bdec-a234b25e4a1d",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:22807",
+                "label": "IKZF2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:85376",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:2abf68a7739b13559056f419f583f958b66d8192"
+                    },
+                    {
+                        "obj": "NCBIGene:85376",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:2abf68a7739b13559056f419f583f958b66d8192"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:2abf68a7739b13559056f419f583f958b66d8192"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:2abf68a7739b13559056f419f583f958b66d8192"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:2abf68a7739b13559056f419f583f958b66d8192",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "NCBIGene:85376",
+                        "lbl": "RIMBP3"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "6324f7ab-acbc-487c-afba-8aa8d617cbbd",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:85376",
+                "label": "RIMBP3",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:85291",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:d0aaad149ba2cdbcb7fde01cf21716e485fbef34"
+                    },
+                    {
+                        "obj": "NCBIGene:85291",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:d0aaad149ba2cdbcb7fde01cf21716e485fbef34"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:d0aaad149ba2cdbcb7fde01cf21716e485fbef34"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:d0aaad149ba2cdbcb7fde01cf21716e485fbef34"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "NCBIGene:85291",
+                        "lbl": "KRTAP4-2"
+                    },
+                    {
+                        "id": "MONARCH:d0aaad149ba2cdbcb7fde01cf21716e485fbef34",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "73da107a-38c2-4642-853c-cc9d2ca88731",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:85291",
+                "label": "KRTAP4-2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:100996717",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:08998034542e4498645c6d50d89eec82c8270aa3"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:08998034542e4498645c6d50d89eec82c8270aa3"
+                    },
+                    {
+                        "obj": "NCBIGene:100996717",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:08998034542e4498645c6d50d89eec82c8270aa3"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:08998034542e4498645c6d50d89eec82c8270aa3"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "NCBIGene:100996717",
+                        "lbl": "LOC100996717"
+                    },
+                    {
+                        "id": "MONARCH:08998034542e4498645c6d50d89eec82c8270aa3",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "97707f75-0a02-4ef0-b87f-d74bf4ab8e88",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:100996717",
+                "label": "LOC100996717",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:1bc71382d9ef555124c72d0aff5b6a883ddbaac4"
+                    },
+                    {
+                        "obj": "NCBIGene:8601",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:1bc71382d9ef555124c72d0aff5b6a883ddbaac4"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:1bc71382d9ef555124c72d0aff5b6a883ddbaac4"
+                    },
+                    {
+                        "obj": "NCBIGene:8601",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:1bc71382d9ef555124c72d0aff5b6a883ddbaac4"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "NCBIGene:8601",
+                        "lbl": "RGS20"
+                    },
+                    {
+                        "id": "MONARCH:1bc71382d9ef555124c72d0aff5b6a883ddbaac4",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "57615771-1f71-446f-ac56-7a8a23a25195",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:8601",
+                "label": "RGS20",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:b565e49a7d245e6df5d87880985468d803a16bbf"
+                    },
+                    {
+                        "obj": "NCBIGene:11007",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:b565e49a7d245e6df5d87880985468d803a16bbf"
+                    },
+                    {
+                        "obj": "PMID:16189514",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:b565e49a7d245e6df5d87880985468d803a16bbf"
+                    },
+                    {
+                        "obj": "NCBIGene:11007",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:b565e49a7d245e6df5d87880985468d803a16bbf"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "MONARCH:b565e49a7d245e6df5d87880985468d803a16bbf",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:11007",
+                        "lbl": "CCDC85B"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "PMID:16189514",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "5000db61-3cc9-453d-be39-52dd6cb6dcee",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:11007",
+                "label": "CCDC85B",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:16189514",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:11043",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:11043",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:dd4e093f34e51b89b752fd9640a494d937ea05a2"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:dd4e093f34e51b89b752fd9640a494d937ea05a2"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:dd4e093f34e51b89b752fd9640a494d937ea05a2"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:dd4e093f34e51b89b752fd9640a494d937ea05a2"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "MONARCH:dd4e093f34e51b89b752fd9640a494d937ea05a2",
+                        "lbl": null
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:11043",
+                        "lbl": "MID2"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "027ba5eb-3385-479f-82a3-8087d2d23892",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:11043",
+                "label": "MID2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:10488",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:2eaf842b56b96026e15a5c074029f1bac9b19087"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:2eaf842b56b96026e15a5c074029f1bac9b19087"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:2eaf842b56b96026e15a5c074029f1bac9b19087"
+                    },
+                    {
+                        "obj": "PMID:21516116",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:2eaf842b56b96026e15a5c074029f1bac9b19087"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:10488"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "PMID:21516116",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "MONARCH:2eaf842b56b96026e15a5c074029f1bac9b19087",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:10488",
+                        "lbl": "CREB3"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "b5961933-8922-42a8-8a6a-0f99a7b69cff",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:10488",
+                "label": "CREB3",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:21516116",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:f8641e2939606755dce08e780405938208194fd3"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:f8641e2939606755dce08e780405938208194fd3"
+                    },
+                    {
+                        "obj": "NCBIGene:7186",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f8641e2939606755dce08e780405938208194fd3"
+                    },
+                    {
+                        "obj": "NCBIGene:7186",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f8641e2939606755dce08e780405938208194fd3"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:f8641e2939606755dce08e780405938208194fd3",
+                        "lbl": null
+                    },
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:7186",
+                        "lbl": "TRAF2"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d5e60adb-b221-4a5f-87ae-cddae495143a",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:7186",
+                "label": "TRAF2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:73eebbb34779c4eeb6c0a6ca974f63e16139c918"
+                    },
+                    {
+                        "obj": "NCBIGene:23281",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:73eebbb34779c4eeb6c0a6ca974f63e16139c918"
+                    },
+                    {
+                        "obj": "NCBIGene:23281",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:73eebbb34779c4eeb6c0a6ca974f63e16139c918"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:73eebbb34779c4eeb6c0a6ca974f63e16139c918"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:73eebbb34779c4eeb6c0a6ca974f63e16139c918",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:23281",
+                        "lbl": "MTUS2"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "744ed6e1-678b-4d51-a532-737325692562",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:23281",
+                "label": "MTUS2",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:54793",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:ffcd6834413ef5d33cb63ee08d324a7468777abb"
+                    },
+                    {
+                        "obj": "NCBIGene:54793",
+                        "pred": "RO:0002434",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:ffcd6834413ef5d33cb63ee08d324a7468777abb"
+                    },
+                    {
+                        "obj": "ECO:0000068",
+                        "pred": "RO:0002558",
+                        "sub": "MONARCH:ffcd6834413ef5d33cb63ee08d324a7468777abb"
+                    },
+                    {
+                        "obj": "PMID:25416956",
+                        "pred": "dc:source",
+                        "sub": "MONARCH:ffcd6834413ef5d33cb63ee08d324a7468777abb"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "ECO:0000068",
+                        "lbl": "yeast 2-hybrid evidence"
+                    },
+                    {
+                        "id": "PMID:25416956",
+                        "lbl": null
+                    },
+                    {
+                        "id": "MONARCH:ffcd6834413ef5d33cb63ee08d324a7468777abb",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "NCBIGene:54793",
+                        "lbl": "KCTD9"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "d0f43299-ea9b-46be-8f29-9536645f4e9e",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:54793",
+                "label": "KCTD9",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "http://data.monarchinitiative.org/ttl/biogrid.ttl"
+            ],
+            "publications": [
+                {
+                    "categories": null,
+                    "consider": null,
+                    "deprecated": null,
+                    "description": null,
+                    "id": "PMID:25416956",
+                    "label": null,
+                    "replaced_by": null,
+                    "synonyms": null,
+                    "types": null
+                }
+            ],
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002434",
+                "label": "interacts with",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "compact_associations": null,
+    "facet_counts": {
+        "object_closure": {
+            "BFO:0000001": 42,
+            "BFO:0000002": 42,
+            "BFO:0000031": 42,
+            "ENSEMBL:ENSG00000030419": 1,
+            "ENSEMBL:ENSG00000056558": 1,
+            "ENSEMBL:ENSG00000061938": 1,
+            "ENSEMBL:ENSG00000080561": 1,
+            "ENSEMBL:ENSG00000087077": 1,
+            "ENSEMBL:ENSG00000091844": 1,
+            "ENSEMBL:ENSG00000094796": 1,
+            "ENSEMBL:ENSG00000095713": 1,
+            "ENSEMBL:ENSG00000100379": 1,
+            "ENSEMBL:ENSG00000104756": 1,
+            "ENSEMBL:ENSG00000107175": 1,
+            "ENSEMBL:ENSG00000112559": 1,
+            "ENSEMBL:ENSG00000113595": 1,
+            "ENSEMBL:ENSG00000127191": 1,
+            "GENO:0000014": 42,
+            "GENO:0000701": 42,
+            "SO:0000001": 42,
+            "SO:0000110": 42,
+            "SO:0000704": 42,
+            "SO:0001217": 41,
+            "SO:0001411": 42,
+            "owl:Thing": 42
+        },
+        "subject_taxon_label": {
+            "Homo sapiens": 42
+        }
+    },
+    "facet_pivot": null,
+    "numFound": null,
+    "objects": [
+        "NCBIGene:100996717",
+        "NCBIGene:10188",
+        "NCBIGene:102466755",
+        "NCBIGene:10253",
+        "NCBIGene:10488",
+        "NCBIGene:11007",
+        "NCBIGene:11043",
+        "NCBIGene:123722",
+        "NCBIGene:125115",
+        "NCBIGene:158405",
+        "NCBIGene:22806",
+        "NCBIGene:22807",
+        "NCBIGene:23281",
+        "NCBIGene:2353",
+        "NCBIGene:26575",
+        "NCBIGene:284001",
+        "NCBIGene:285622",
+        "NCBIGene:30008",
+        "NCBIGene:339834",
+        "NCBIGene:358",
+        "NCBIGene:373",
+        "NCBIGene:386675",
+        "NCBIGene:386682",
+        "NCBIGene:3881",
+        "NCBIGene:3884",
+        "NCBIGene:4188",
+        "NCBIGene:54507",
+        "NCBIGene:54793",
+        "NCBIGene:55118",
+        "NCBIGene:64651",
+        "NCBIGene:64753",
+        "NCBIGene:6477",
+        "NCBIGene:6925",
+        "NCBIGene:7185",
+        "NCBIGene:7186",
+        "NCBIGene:79734",
+        "NCBIGene:80817",
+        "NCBIGene:83755",
+        "NCBIGene:83899",
+        "NCBIGene:85291",
+        "NCBIGene:85376",
+        "NCBIGene:8601"
+    ],
+    "start": null
+}

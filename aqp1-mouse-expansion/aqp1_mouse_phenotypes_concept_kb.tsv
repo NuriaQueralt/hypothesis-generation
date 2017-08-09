@@ -1,0 +1,18 @@
+phenotype_id	item	itemLabel	altLabel	itemDesc
+GO:0003094PHENOTYPE	Q14873641	glomerular filtration	GO:0003094	The process in which plasma is filtered through the glomerular membrane which consists of capillary endothelial cells, the basement membrane, and epithelial cells. The glomerular filtrate is the same as plasma except it has no significant amount of p
+GO:0006833PHENOTYPE	Q14820652	water transport	GO:0006833	The directed movement of water (H2O) into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore.
+GO:0030104PHENOTYPE	Q14863690	water homeostasis	GO:0030104|regulation of osmotic pressure	Any process involved in the maintenance of an internal steady state of water within an organism or cell.
+GO:0042060PHENOTYPE	Q1509074	wound healing	GO:0042060	The series of events that restore integrity to a damaged tissue, following an injury.
+GO:0044241PHENOTYPE	Q14865260	lipid digestion	GO:0044241	The whole of the physical, chemical, and biochemical processes carried out by living organisms to break down ingested lipids into components that may be easily absorbed and directed into metabolism.
+GO:0048593PHENOTYPE	Q14886894	camera-type eye morphogenesis	camera-style eye morphogenesis|GO:0048593	The process in which the anatomical structures of the eye are generated and organized. The camera-type eye is an organ of sight that receives light through an aperture and focuses it through a lens, projecting it on a photoreceptor field.
+GO:0051458PHENOTYPE	Q14905245	corticotropin secretion	ACTH secretion|adrenocorticotropic hormone secretion|adrenotropic hormone secretion|adrenotropin secretion|corticotropic hormone secretion|GO:0051458	The regulated release of corticotropin by a cell. Corticotropin hormone is a polypeptide hormone synthesized and secreted from corticotropes in the anterior lobe of the pituitary gland in response to corticotropin-releasing hormone (CRH) released by
+GO:0070295PHENOTYPE	Q14902501	renal water absorption	GO:0070295|nephron water absorption|renal water reabsorption	A renal system process in which water is taken up from the collecting ducts and proximal and distal loops of the nephron. In non-mammalian species, absorption may occur in related structures.
+HP:0000708	Q30016719	Behavioral abnormality	Behavioral problems	An abnormality of mental functioning including various affective, behavioural, cognitive and perceptual abnormalities.
+HP:0000833				
+HP:0001254				
+HP:0001508				
+HP:0001944				
+HP:0002152				
+HP:0002795				
+HP:0004325	Q29642619	Decreased body weight	Low weight	Reduction inexisting body weight.
+HP:0010679				

@@ -1,0 +1,1842 @@
+{
+    "associations": [
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0000399",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:9258fc50f452498bfba6502059232482278a1e4e"
+                    },
+                    {
+                        "obj": "UBERON:0000399",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:9258fc50f452498bfba6502059232482278a1e4e"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:9258fc50f452498bfba6502059232482278a1e4e",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0000399",
+                        "lbl": "jejunal mucosa"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "3cf846a5-729a-491a-81c2-ce17209cf989",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0000399",
+                "label": "jejunal mucosa",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e9f96a37d2b2606092615e6d2ca7200bf6f71481"
+                    },
+                    {
+                        "obj": "UBERON:0002127",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0002127",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e9f96a37d2b2606092615e6d2ca7200bf6f71481"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0002127",
+                        "lbl": "inferior olivary complex"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:e9f96a37d2b2606092615e6d2ca7200bf6f71481",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "b3874a6e-0f08-40dd-93fc-7fefdf38b81d",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002127",
+                "label": "inferior olivary complex",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e0c5c81788b14f11b552de125f019cc304537cf6"
+                    },
+                    {
+                        "obj": "UBERON:0007318",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e0c5c81788b14f11b552de125f019cc304537cf6"
+                    },
+                    {
+                        "obj": "UBERON:0007318",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0007318",
+                        "lbl": "saphenous vein"
+                    },
+                    {
+                        "id": "MONARCH:e0c5c81788b14f11b552de125f019cc304537cf6",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "75a952b9-38b9-4e41-b1d8-bd4f5872b249",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0007318",
+                "label": "saphenous vein",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001385",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:f2270fc9811088a9f07daf5db48650a1a66da703"
+                    },
+                    {
+                        "obj": "UBERON:0001385",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:f2270fc9811088a9f07daf5db48650a1a66da703"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0001385",
+                        "lbl": "tibialis anterior"
+                    },
+                    {
+                        "id": "MONARCH:f2270fc9811088a9f07daf5db48650a1a66da703",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "2313949e-4f52-4fbd-8bcc-be4a747ff776",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001385",
+                "label": "tibialis anterior",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0004358",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:a82aa3251ffe4e9f38d19a68f09613dce3bbfe53"
+                    },
+                    {
+                        "obj": "UBERON:0004358",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:a82aa3251ffe4e9f38d19a68f09613dce3bbfe53"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0004358",
+                        "lbl": "caput epididymis"
+                    },
+                    {
+                        "id": "MONARCH:a82aa3251ffe4e9f38d19a68f09613dce3bbfe53",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a0dbfccf-e920-4c23-b405-e6085ac88387",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0004358",
+                "label": "caput epididymis",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001388",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:4f6aef4859b5daabf8be2ab60cf604ab839ca9a6"
+                    },
+                    {
+                        "obj": "UBERON:0001388",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:4f6aef4859b5daabf8be2ab60cf604ab839ca9a6"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:4f6aef4859b5daabf8be2ab60cf604ab839ca9a6",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0001388",
+                        "lbl": "gastrocnemius"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "e72c9523-327e-491f-ab76-fa27aebfb9eb",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001388",
+                "label": "gastrocnemius",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:5258e105e0ee7fa8da16c1e4abc5ed95c9190266"
+                    },
+                    {
+                        "obj": "UBERON:0004359",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0004359",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:5258e105e0ee7fa8da16c1e4abc5ed95c9190266"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:5258e105e0ee7fa8da16c1e4abc5ed95c9190266",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "UBERON:0004359",
+                        "lbl": "corpus epididymis"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a0c5fcb1-c1f2-4e36-8107-9481e3d5fd94",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0004359",
+                "label": "corpus epididymis",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0002384",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:37d947214c446f4674ba152cba5ba16871b3d334"
+                    },
+                    {
+                        "obj": "UBERON:0002384",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:37d947214c446f4674ba152cba5ba16871b3d334"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "UBERON:0002384",
+                        "lbl": "connective tissue"
+                    },
+                    {
+                        "id": "MONARCH:37d947214c446f4674ba152cba5ba16871b3d334",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "3507af9d-32f4-4914-bae8-6ce50caabce1",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002384",
+                "label": "connective tissue",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0004720",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0004720",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:eade52f192ac76164c45073dd2c9856a5812536a"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:eade52f192ac76164c45073dd2c9856a5812536a"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:eade52f192ac76164c45073dd2c9856a5812536a",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0004720",
+                        "lbl": "cerebellar vermis"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "7ec1ce7e-2bf4-4d81-84e2-1c49a777094e",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0004720",
+                "label": "cerebellar vermis",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001154",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0001154",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:d8fbcf9ed7fb9a46f0ef9d1f0362cf37a442da6b"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:d8fbcf9ed7fb9a46f0ef9d1f0362cf37a442da6b"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:d8fbcf9ed7fb9a46f0ef9d1f0362cf37a442da6b",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0001154",
+                        "lbl": "vermiform appendix"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a3875b0f-2bab-4726-a313-ca4daaf0ac5c",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001154",
+                "label": "vermiform appendix",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0000059",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:be42b393d647c2b9712ee62af5518d399f1a4314"
+                    },
+                    {
+                        "obj": "UBERON:0000059",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:be42b393d647c2b9712ee62af5518d399f1a4314"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0000059",
+                        "lbl": "large intestine"
+                    },
+                    {
+                        "id": "MONARCH:be42b393d647c2b9712ee62af5518d399f1a4314",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "00421f85-fe77-407e-9618-4ce70fc36e87",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0000059",
+                "label": "large intestine",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0002113",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0002113",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:c45f28cb8813684fe0a6f148d02b992dfc97dff2"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:c45f28cb8813684fe0a6f148d02b992dfc97dff2"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0002113",
+                        "lbl": "kidney"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "MONARCH:c45f28cb8813684fe0a6f148d02b992dfc97dff2",
+                        "lbl": null
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "fc5583e0-8e2b-468a-994c-4aea7a7285b8",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002113",
+                "label": "kidney",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001831",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0001831",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e83979c0940610bd4e4d7a57ca50cf912e560359"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e83979c0940610bd4e4d7a57ca50cf912e560359"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0001831",
+                        "lbl": "parotid gland"
+                    },
+                    {
+                        "id": "MONARCH:e83979c0940610bd4e4d7a57ca50cf912e560359",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "da0d816f-69e9-4805-b3f9-efbd3944b50f",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001831",
+                "label": "parotid gland",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:e04803d87c951fe537fb5343f1b35b2de26dd1be"
+                    },
+                    {
+                        "obj": "UBERON:0002021",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "UBERON:0002021",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:e04803d87c951fe537fb5343f1b35b2de26dd1be"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:e04803d87c951fe537fb5343f1b35b2de26dd1be",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0002021",
+                        "lbl": "occipital lobe"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "c29acab2-80a8-43a1-8e28-d73aa0d22af7",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002021",
+                "label": "occipital lobe",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:1ac0eed04c711f91b17c2129b347ac997cc12f98"
+                    },
+                    {
+                        "obj": "UBERON:0002082",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:1ac0eed04c711f91b17c2129b347ac997cc12f98"
+                    },
+                    {
+                        "obj": "UBERON:0002082",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "UBERON:0002082",
+                        "lbl": "cardiac ventricle"
+                    },
+                    {
+                        "id": "MONARCH:1ac0eed04c711f91b17c2129b347ac997cc12f98",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "6d6f7367-22fd-438c-ab3f-67ba7f588188",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002082",
+                "label": "cardiac ventricle",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001162",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:10574544264d585fbaa68400174d58bdd9e22bd5"
+                    },
+                    {
+                        "obj": "UBERON:0001162",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:10574544264d585fbaa68400174d58bdd9e22bd5"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:10574544264d585fbaa68400174d58bdd9e22bd5",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "UBERON:0001162",
+                        "lbl": "cardia of stomach"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "08ddf910-23c6-444a-92f1-9c2a54f56408",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001162",
+                "label": "cardia of stomach",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0000007",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:509ebc7befd492d2b84c28f163cd6e2bc020b7f2"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:509ebc7befd492d2b84c28f163cd6e2bc020b7f2"
+                    },
+                    {
+                        "obj": "UBERON:0000007",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:509ebc7befd492d2b84c28f163cd6e2bc020b7f2",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "UBERON:0000007",
+                        "lbl": "pituitary gland"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "f2f78997-40df-45c1-b660-d6130a66e5f2",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0000007",
+                "label": "pituitary gland",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0000057",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:814ce5c1b61fb3ddfbe5d6d7de8e55e9d47fecc0"
+                    },
+                    {
+                        "obj": "UBERON:0000057",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:814ce5c1b61fb3ddfbe5d6d7de8e55e9d47fecc0"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:814ce5c1b61fb3ddfbe5d6d7de8e55e9d47fecc0",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "UBERON:0000057",
+                        "lbl": "urethra"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "75a5ad6e-34a4-4f0e-bf71-8e3567a66de6",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0000057",
+                "label": "urethra",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "UBERON:0001976",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:70e84e3f7dd71cd9745b0381f5fa34713c051141"
+                    },
+                    {
+                        "obj": "UBERON:0001976",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    },
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:70e84e3f7dd71cd9745b0381f5fa34713c051141"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:70e84e3f7dd71cd9745b0381f5fa34713c051141",
+                        "lbl": null
+                    },
+                    {
+                        "id": "UBERON:0001976",
+                        "lbl": "epithelium of esophagus"
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "875dd98f-f774-46bc-968e-c30aa8aff282",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0001976",
+                "label": "epithelium of esophagus",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        },
+        {
+            "evidence_graph": {
+                "edges": [
+                    {
+                        "obj": "NCBIGene:358",
+                        "pred": "OBAN:association_has_subject",
+                        "sub": "MONARCH:53358a0e55b740d08834d74e49065759f4819896"
+                    },
+                    {
+                        "obj": "UBERON:0002190",
+                        "pred": "OBAN:association_has_object",
+                        "sub": "MONARCH:53358a0e55b740d08834d74e49065759f4819896"
+                    },
+                    {
+                        "obj": "UBERON:0002190",
+                        "pred": "RO:0002206",
+                        "sub": "NCBIGene:358"
+                    }
+                ],
+                "nodes": [
+                    {
+                        "id": "MONARCH:53358a0e55b740d08834d74e49065759f4819896",
+                        "lbl": null
+                    },
+                    {
+                        "id": "NCBIGene:358",
+                        "lbl": "AQP1"
+                    },
+                    {
+                        "id": "UBERON:0002190",
+                        "lbl": "subcutaneous adipose tissue"
+                    }
+                ]
+            },
+            "evidence_types": null,
+            "id": "a7508b0d-81e4-4136-b357-ba2ae5d8b1ab",
+            "object": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "UBERON:0002190",
+                "label": "subcutaneous adipose tissue",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": null,
+                    "label": null
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "object_extension": null,
+            "provided_by": [
+                "https://data.monarchinitiative.org/ttl/bgee.ttl"
+            ],
+            "publications": null,
+            "qualifiers": null,
+            "relation": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "RO:0002206",
+                "label": "expressed in",
+                "replaced_by": null,
+                "synonyms": null,
+                "types": null
+            },
+            "slim": null,
+            "subject": {
+                "categories": null,
+                "consider": null,
+                "deprecated": null,
+                "description": null,
+                "id": "NCBIGene:358",
+                "label": "AQP1",
+                "replaced_by": null,
+                "synonyms": null,
+                "taxon": {
+                    "id": "NCBITaxon:9606",
+                    "label": "Homo sapiens"
+                },
+                "types": null,
+                "xrefs": null
+            },
+            "subject_extension": null,
+            "type": null
+        }
+    ],
+    "compact_associations": null,
+    "facet_counts": {
+        "object_closure": {
+            "BFO:0000001": 20,
+            "BFO:0000002": 20,
+            "BFO:0000003": 20,
+            "BFO:0000004": 20,
+            "BFO:0000040": 20,
+            "OBO:CARO_0000006": 19,
+            "UBERON:0000061": 19,
+            "UBERON:0000062": 8,
+            "UBERON:0000064": 7,
+            "UBERON:0000465": 19,
+            "UBERON:0000479": 3,
+            "UBERON:0001062": 20,
+            "UBERON:0001383": 2,
+            "UBERON:0001630": 2,
+            "UBERON:0002384": 2,
+            "UBERON:0004120": 8,
+            "UBERON:0004121": 4,
+            "UBERON:0010000": 19,
+            "UBERON:0010314": 4,
+            "UBERON:0013765": 3,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_16": 7,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_19": 3,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_4": 8,
+            "http://uri.neuinfo.org/nif/nifstd/birnlex_6": 20,
+            "owl:Thing": 20
+        },
+        "subject_taxon_label": {
+            "Homo sapiens": 20
+        }
+    },
+    "facet_pivot": null,
+    "numFound": null,
+    "objects": [
+        "UBERON:0000007",
+        "UBERON:0000057",
+        "UBERON:0000059",
+        "UBERON:0000399",
+        "UBERON:0001154",
+        "UBERON:0001162",
+        "UBERON:0001385",
+        "UBERON:0001388",
+        "UBERON:0001831",
+        "UBERON:0001976",
+        "UBERON:0002021",
+        "UBERON:0002082",
+        "UBERON:0002113",
+        "UBERON:0002127",
+        "UBERON:0002190",
+        "UBERON:0002384",
+        "UBERON:0004358",
+        "UBERON:0004359",
+        "UBERON:0004720",
+        "UBERON:0007318"
+    ],
+    "start": null
+}

@@ -1,0 +1,5260 @@
+{
+    "edges": [
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "equivalentClass"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "equivalentClass",
+            "sub": "ENSEMBL:ENSMUSG00000004655"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11741725"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15815633"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15163632"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21511033"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21677750"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20668095"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:8586439"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15838507"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21347258"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10349636"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:26348407"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10613915"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25659450"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18600340"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18172001"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19584911"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12466851"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18296079"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11217851"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:27582005"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11066060"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10698922"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16602821"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16624821"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10400615"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15557451"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "subClassOf"
+                ]
+            },
+            "obj": "SO:0001217",
+            "pred": "subClassOf",
+            "sub": "NCBIGene:11826"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11415940"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24334548"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12477932"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12565800"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10021464"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18353863"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "equivalentClass"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "equivalentClass",
+            "sub": "MGI:103201"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16574458"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9689137"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9507200"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15003543"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16582023"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24939938"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25725069"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24058167"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12034763"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21705333"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10021457"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:14637313"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25270072"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11042159"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16141073"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12676067"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16508658"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23087172"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9886922"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:8703970"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11121384"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16141072"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19179619"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18231833"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10191100"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10724035"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16079275"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15489334"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15713911"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15859952"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20978075"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25719758"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16571784"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22237799"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9757370"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12133842"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:14753499"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22820194"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16319116"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15496149"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17941896"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15647389"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19136711"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25339696"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15647343"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22043022"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20957496"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19215235"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20383338"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23029502"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24164893"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20530543"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17913837"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18806227"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12181190"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12031518"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17251353"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20231275"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11406631"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20235219"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:27307076"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25810521"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25229686"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22357733"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17195181"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16427635"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21947380"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18511498"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9822113"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17633275"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21451971"
+        },
+        {
+            "meta": {
+                "lbl": [
+                    "isDefinedBy"
+                ]
+            },
+            "obj": "MonarchData:ncbigene.ttl",
+            "pred": "isDefinedBy",
+            "sub": "NCBIGene:11826"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21267068"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10788316"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23238222"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15844003"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19291583"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10870513"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21181199"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:26014508"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21040788"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15998844"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20121927"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19298815"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10795927"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:26081645"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9468475"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20853510"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23243273"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11698654"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:1508193"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17868659"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24231830"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23197380"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23948641"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10642600"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12096051"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19570847"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21854740"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22076439"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22174795"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15952169"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:14675051"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22226856"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11076861"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17943079"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25119150"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10856128"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23177919"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16936111"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:9374641"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24049145"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18434389"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12943377"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10839360"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19774080"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23341629"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16472605"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21519870"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18618131"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22491945"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21735643"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25793528"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19668215"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10232700"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "is subsequence of"
+                ]
+            },
+            "obj": "CHR:10090chr6",
+            "pred": "RO:0002525",
+            "sub": "NCBIGene:11826"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18554416"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11954676"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16525162"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16039047"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20018876"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21859894"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25160756"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25993027"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20029450"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10836992"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12600999"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22674028"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16133142"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25573755"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12759225"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25249460"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21147077"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19628672"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15632069"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:26631503"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17728008"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19855135"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21925491"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11382807"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "in taxon"
+                ]
+            },
+            "obj": "NCBITaxon:10090",
+            "pred": "RO:0002162",
+            "sub": "NCBIGene:11826"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18665841"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19367412"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10644730"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:21269951"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11078688"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:25585012"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:12083525"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11035042"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:26760974"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:19724054"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15507545"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16476579"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:18287559"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24700466"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:11891232"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:15283758"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:23808411"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20639513"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:24879973"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:20938728"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16508653"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:16871401"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17377981"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:10662735"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:22323586"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17898307"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17965968"
+        },
+        {
+            "meta": {
+                "isDefinedBy": [
+                    "https://data.monarchinitiative.org/ttl/ncbigene.ttl"
+                ],
+                "lbl": [
+                    "http://purl.obolibrary.org/obo/IAO_0000136"
+                ]
+            },
+            "obj": "NCBIGene:11826",
+            "pred": "IAO:0000136",
+            "sub": "PMID:17257750"
+        }
+    ],
+    "meta": {},
+    "nodes": [
+        {
+            "id": "PMID:20383338",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19298815",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25119150",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25160756",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24700466",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11954676",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15557451",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "NCBIGene:11826",
+            "lbl": "Aqp1",
+            "meta": {
+                "category": [
+                    "gene",
+                    "sequence feature"
+                ],
+                "http://purl.org/dc/elements/1.1/description": [
+                    "aquaporin 1"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                    "aquaporin 1"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": [
+                    "water channel protein for red blood cells and kidney proximal tubule",
+                    "aquaporin-CHIP",
+                    "aquaporin-1",
+                    "delayed early response protein 2",
+                    "AQP-1",
+                    "growth factor-induced delayed early response protein",
+                    "DER2",
+                    "CHIP28"
+                ],
+                "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "Aqp1"
+                ],
+                "synonym": [
+                    "water channel protein for red blood cells and kidney proximal tubule",
+                    "aquaporin-CHIP",
+                    "aquaporin-1",
+                    "delayed early response protein 2",
+                    "aquaporin 1",
+                    "AQP-1",
+                    "growth factor-induced delayed early response protein",
+                    "DER2",
+                    "CHIP28"
+                ],
+                "types": [
+                    "cliqueLeader",
+                    "gene",
+                    "Node",
+                    "Class",
+                    "sequence feature"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17941896",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11406631",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15859952",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18296079",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21269951",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17195181",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20639513",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18600340",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20231275",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25659450",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11415940",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18172001",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24049145",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18618131",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21677750",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22174795",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10870513",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23238222",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23808411",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16141072",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12477932",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16582023",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24164893",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18287559",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15844003",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17965968",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21947380",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12943377",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18353863",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20018876",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24334548",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25719758",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10400615",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15647343",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10191100",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19570847",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25270072",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18806227",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17377981",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22076439",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12676067",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25229686",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21347258",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11035042",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:26081645",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17913837",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18511498",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21925491",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "ENSEMBL:ENSMUSG00000004655",
+            "lbl": null,
+            "meta": {
+                "category": [
+                    "gene",
+                    "sequence feature"
+                ],
+                "types": [
+                    "gene",
+                    "Node",
+                    "Class",
+                    "sequence feature"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22820194",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16319116",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:26014508",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20121927",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "NCBITaxon:10090",
+            "lbl": "Mus musculus",
+            "meta": {
+                "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId": [
+                    "NCBITaxon:85055"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasDbXref": [
+                    "GC_ID:1"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                    "mouse",
+                    "house mouse"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": [
+                    "ncbi_taxonomy"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym": [
+                    "mice C57BL/6xCBA/CaJ hybrid",
+                    "Mus muscaris"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#id": [
+                    "NCBITaxon:10090"
+                ],
+                "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "Mus musculus"
+                ],
+                "synonym": [
+                    "mouse",
+                    "house mouse",
+                    "mice C57BL/6xCBA/CaJ hybrid",
+                    "Mus muscaris"
+                ],
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "Class"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12031518",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20853510",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10788316",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10839360",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16508653",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "MGI:103201",
+            "lbl": null,
+            "meta": {
+                "category": [
+                    "gene",
+                    "sequence feature"
+                ],
+                "types": [
+                    "gene",
+                    "Node",
+                    "Class",
+                    "sequence feature"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9886922",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11076861",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23948641",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9468475",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17943079",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10795927",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19628672",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23341629",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22043022",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19774080",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22357733",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10724035",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15998844",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19367412",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15647389",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11741725",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16427635",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24058167",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19668215",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:27582005",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "MonarchData:ncbigene.ttl",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "Ontology",
+                    "cliqueLeader",
+                    "Node"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16602821",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20957496",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16525162",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15003543",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21147077",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17898307",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21705333",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:8703970",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20668095",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21181199",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16508658",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19584911",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15815633",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20978075",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11066060",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20235219",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12565800",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16936111",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10232700",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24231830",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25573755",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10613915",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11217851",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15163632",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9822113",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22674028",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23243273",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25249460",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16039047",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10856128",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9757370",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12181190",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19136711",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21859894",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19724054",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9374641",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12466851",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16133142",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:14637313",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10021457",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23197380",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23029502",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12096051",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:26348407",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10642600",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21519870",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15489334",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10698922",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16079275",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16871401",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15507545",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:14753499",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21511033",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23087172",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9507200",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17257750",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17251353",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21040788",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15496149",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16574458",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17633275",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10836992",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19215235",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "CHR:10090chr6",
+            "lbl": "chr6",
+            "meta": {
+                "category": [
+                    "sequence feature"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                    "chr6 (10090)"
+                ],
+                "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "chr6"
+                ],
+                "synonym": [
+                    "chr6 (10090)"
+                ],
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "Class",
+                    "sequence feature"
+                ]
+            }
+        },
+        {
+            "id": "PMID:8586439",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16141073",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25993027",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21451971",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12133842",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11382807",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20530543",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11891232",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18231833",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22237799",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22323586",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15838507",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12083525",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:26760974",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:27307076",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19179619",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:14675051",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "SO:0001217",
+            "lbl": "protein_coding_gene",
+            "meta": {
+                "category": [
+                    "gene",
+                    "sequence feature"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym": [
+                    "protein coding gene"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace": [
+                    "sequence"
+                ],
+                "http://www.geneontology.org/formats/oboInOwl#id": [
+                    "SO:0001217"
+                ],
+                "http://www.w3.org/2000/01/rdf-schema#label": [
+                    "protein_coding_gene"
+                ],
+                "synonym": [
+                    "protein coding gene"
+                ],
+                "types": [
+                    "cliqueLeader",
+                    "gene",
+                    "Node",
+                    "Class",
+                    "sequence feature"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11042159",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10644730",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12600999",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17728008",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:9689137",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24879973",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12759225",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15283758",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18665841",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21267068",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25339696",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19855135",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16624821",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20938728",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15952169",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:23177919",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21735643",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22491945",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:12034763",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:17868659",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18554416",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:21854740",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11698654",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11121384",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:18434389",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25793528",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:22226856",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10349636",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:20029450",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16472605",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16571784",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25585012",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15713911",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:26631503",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25810521",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:15632069",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:19291583",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10662735",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:16476579",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:10021464",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:1508193",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:25725069",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:11078688",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        },
+        {
+            "id": "PMID:24939938",
+            "lbl": null,
+            "meta": {
+                "types": [
+                    "cliqueLeader",
+                    "Node",
+                    "NamedIndividual"
+                ]
+            }
+        }
+    ]
+}

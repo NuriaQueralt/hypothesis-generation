@@ -1,0 +1,16 @@
+disease_id	item	itemLabel	altLabel	itemDesc
+DOID:0060164	Q3297888	pain disorder		NA
+DOID:10763	Q41861	hypertension	High blood pressure (& [essential hypertension])|HTN|hyperpiesia|hypertensive disease|vascular hypertensive disorder	high blood pressure & essential hypertension
+DOID:14115	Q1128440	toxic shock syndrome	TSS|toxic shock|Toxic shock syndrome|Toxic Shock syndrome|Toxic shock syndrome (disorder)	Human disease
+DOID:7998	Q16499	hyperthyroidism	hyperthyreosis|overactive thyroid	A thyroid gland disease that involves an over production of thyroid hormone.
+DOID:8850	Q18558026	salivary gland cancer	malignant neoplasm of salivary gland|malignant neoplasm of salivary gland duct|malignant tumor of the Major Salivary gland|malignant tumor of the Salivary gland|malignant neoplasm of major salivary gland	An oral cavity cancer that is located_in the salivary gland.
+DOID:899	Q2027937	choledochal cyst	choledochal cyst|Congenital choledochal cyst|Congenital choledochal cyst (disorder)	congenital disorder of digestive system
+MESH:D002277	Q7577496	spindle cell carcinoma	sarcomatoid carcinoma|spindle cell carcinoma (morphologic abnormality)	A squamous cell carcinoma that is usually composed of the squamous cell type and results in fusiform development of rapidly proliferating cells.
+MESH:D002277	Q33525	carcinoma	epithelioma|malignant Epithelioma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+MESH:D003528	Q18556510	salivary gland adenoid cystic carcinoma	adenoid cystic cancer|adenoid cystic carcinoma (morphologic abnormality)|Cylindroma (morphologic abnormality)|Cylindroma NOS	Human disease
+MESH:D003528	Q356005	Adenoid cystic carcinoma		NA
+MESH:D004489	Q30015589	Cardiac Edema	Cardiac Edemas	Abnormal fluid retention by the body due to impaired cardiac function or heart failure. It is usually characterized by increase in venous and capillary pressure, and swollen legs when standing. It is different from the generalized edema caused by renal dysfunction (NEPHROTIC SYNDROME).
+MESH:D008325	Q30015675	Experimental Mammary Neoplasms	Experimental Mammary Neoplasm	Experimentally induced mammary neoplasms in animals to provide a model for studying human BREAST NEOPLASMS.
+MESH:D013119	Q1415275	Spinal cord injury		NA
+MESH:D015674	Q30015729	Animal Mammary Neoplasms	Animal Mammary Neoplasm	Tumors or cancer of the MAMMARY GLAND in animals (MAMMARY GLANDS, ANIMAL).
+OMIM:263200	Q1044327	Caroli disease		NA

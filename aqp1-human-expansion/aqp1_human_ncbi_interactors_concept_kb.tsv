@@ -1,0 +1,43 @@
+gene_id	item	itemLabel	altLabel	itemDesc
+NCBIGene:100996717	Q20764587	LOC100996717	LOC100996717|notch homolog 2 N-terminal-like protein	protein-coding gene in the species Homo sapiens
+NCBIGene:10188	Q18035104	TNK2	ACK|ACK-1|ACK1|p21cdc42Hs|TNK2|tyrosine kinase non receptor 2	protein-coding gene in the species Homo sapiens
+NCBIGene:102466755	Q18080704	MIR6875	hsa-mir-6875|microRNA 6875|MIR6875	non-coding RNA in the species Homo sapiens
+NCBIGene:10253	Q18035166	SPRY2	SPRY2|hSPRY2|IGAN3|sprouty RTK signaling antagonist 2	protein-coding gene in the species Homo sapiens
+NCBIGene:10488	Q18035427	CREB3	CREB3|cAMP responsive element binding protein 3|LZIP|LUMAN|sLZIP	protein-coding gene in the species Homo sapiens
+NCBIGene:11007	Q18036022	CCDC85B	DIPA|coiled-coil domain containing 85B|CCDC85B	protein-coding gene in the species Homo sapiens
+NCBIGene:11043	Q18036053	MID2	MID2|FXY2|midline 2|MRX101|RNF60|TRIM1	protein-coding gene in the species Homo sapiens
+NCBIGene:123722	Q18049541	FSD2	fibronectin type III and SPRY domain containing 2|FSD2|SPRYD1	protein-coding gene in the species Homo sapiens
+NCBIGene:125115	Q18049619	KRT40	KRT40|CK-40|K40|KA36|keratin 40	gene of the species Homo sapiens
+NCBIGene:158405	Q20776264	KIAA1958	KIAA1958	protein-coding gene in the species Homo sapiens
+NCBIGene:22806	Q18036500	IKZF3	IKAROS family zinc finger 3|AIO|IKZF3|AIOLOS|ZNFN1A3	protein-coding gene in the species Homo sapiens
+NCBIGene:22807	Q18036501	IKZF2	ZNF1A2|ZNFN1A2|ANF1A2|HELIOS|IKAROS family zinc finger 2|IKZF2	protein-coding gene in the species Homo sapiens
+NCBIGene:23281	Q18037060	MTUS2	ICIS|MTUS2|CAZIP|KIAA0774|microtubule associated tumor suppressor candidate 2|TIP150|microtubule associated scaffold protein 2	protein-coding gene in the species Homo sapiens
+NCBIGene:2353	Q14906123	FOS	AP-1|p55|FOS|Fos proto-oncogene, AP-1 transcription factor subunit|C-FOS	protein-coding gene in the species Homo sapiens
+NCBIGene:26575	Q18038299	RGS17	hRGS17|regulator of G-protein signaling 17|RGS-17|RGS17|RGSZ2|regulator of G protein signaling 17	protein-coding gene in the species Homo sapiens
+NCBIGene:284001	Q18054234	CCDC57	CCDC57|coiled-coil domain containing 57	protein-coding gene in the species Homo sapiens
+NCBIGene:285622	Q18054562	NBPF22P	NBPF22P|NBPF member 22, pseudogene	pseudogene in the species Homo sapiens
+NCBIGene:30008	Q18039764	EFEMP2	MBP1|ARCL1B|EFEMP2|EGF containing fibulin like extracellular matrix protein 2|FBLN4|UPH1	protein-coding gene in the species Homo sapiens
+NCBIGene:339834	Q18055349	CCDC36	CCDC36|CT74|coiled-coil domain containing 36	protein-coding gene in the species Homo sapiens
+NCBIGene:358	Q14905238	AQP1	CO|AQP-CHIP|AQP1|aquaporin 1 (Colton blood group)|CHIP28	protein-coding gene in the species Homo sapiens
+NCBIGene:373	Q17831444	TRIM23	TRIM23|ARD1|ARFD1|RNF46|tripartite motif containing 23	protein-coding gene in the species Homo sapiens
+NCBIGene:386675	Q18056266	KRTAP10-7	KAP10.7|KAP18.7|keratin associated protein 10-7|KRTAP10-7|KRTAP18-7	protein-coding gene in the species Homo sapiens
+NCBIGene:386682	Q18056273	KRTAP10-3	KRTAP18.3|KRTAP10-3|KAP10.3|KAP18-3|KAP18.3|keratin associated protein 10-3|KRTAP10.3|KRTAP18-3	protein-coding gene in the species Homo sapiens
+NCBIGene:3881	Q18028384	KRT31	KRT31|keratin 31|HA1|Ha-1|hHa1|KRTHA1	gene of the species Homo sapiens
+NCBIGene:3884	Q18028393	KRT33B	keratin 33B|K33B|KRT33B|Ha-3II|HA3II|hHa3-II|KRTHA3A|KRTHA3B	gene of the species Homo sapiens
+NCBIGene:4188	Q6715136	MDFI	MDFI|MyoD family inhibitor|I-mfa|I-MF	protein-coding gene in the species Homo sapiens
+NCBIGene:54507	Q18041056	ADAMTSL4	ADAMTS like 4|ADAMTSL-4|ADAMTSL4|ECTOL2|TSRC1	protein-coding gene in the species Homo sapiens
+NCBIGene:54793	Q18041258	KCTD9	KCTD9|BTBD27|potassium channel tetramerization domain containing 9	protein-coding gene in the species Homo sapiens
+NCBIGene:55118	Q18041562	CRTAC1	ASPIC|CEP-68|CRTAC1|cartilage acidic protein 1|ASPIC1	protein-coding gene in the species Homo sapiens
+NCBIGene:64651	Q18045703	CSRNP1	CSRNP1|TAIP-3|AXUD1|CSRNP-1|cysteine and serine rich nuclear protein 1|FAM130B|URAX1	protein-coding gene in the species Homo sapiens
+NCBIGene:64753	Q18045728	CCDC136	CCDC136|coiled-coil domain containing 136|NAG6	protein-coding gene in the species Homo sapiens
+NCBIGene:6477	Q18031494	SIAH1	siah E3 ubiquitin protein ligase 1|SIAH1|SIAH1A	protein-coding gene in the species Homo sapiens
+NCBIGene:6925	Q14913982	TCF4	TCF-4|bHLHb19|E2-2|FECD3|ITF-2|ITF2|PTHS|SEF-2|SEF2|SEF2-1|SEF2-1A|SEF2-1B|SEF2-1D|TCF4|transcription factor 4	protein-coding gene in the species Homo sapiens
+NCBIGene:7185	Q18032094	TRAF1	TNF receptor associated factor 1|TRAF1|EBI6|MGC:10353	protein-coding gene in the species Homo sapiens
+NCBIGene:7186	Q14914361	TRAF2	TRAP|TNF receptor associated factor 2|TRAF2|MGC:45012|TRAP3	protein-coding gene in the species Homo sapiens
+NCBIGene:79734	Q18046308	KCTD17	KCTD17|potassium channel tetramerization domain containing 17	protein-coding gene in the species Homo sapiens
+NCBIGene:80817	Q18046804	CEP44	centrosomal protein 44|CEP44|KIAA1712|PS1TP3	protein-coding gene in the species Homo sapiens
+NCBIGene:83755	Q18047265	KRTAP4-12	KAP4.12|keratin associated protein 4-12|KRTAP4-12|KRTAP4.12	gene of the species Homo sapiens
+NCBIGene:83899	Q18047326	KRTAP9-2	KRTAP9-2|KAP9.2|keratin associated protein 9-2|KRTAP9.2	gene of the species Homo sapiens
+NCBIGene:85291	Q18047973	KRTAP4-2	KAP4.2|keratin associated protein 4-2|KRTAP4-2|KRTAP4.2	protein-coding gene in the species Homo sapiens
+NCBIGene:85376	Q18048010	RIMBP3	RIM-BP3.1|RIMBP3|RIMS binding protein 3|RIM-BP3|RIM-BP3.A|RIMBP3.1|RIMBP3A	protein-coding gene in the species Homo sapiens
+NCBIGene:8601	Q18033141	RGS20	g(z)GAP|gz-GAP|regulator of G-protein signaling 20|RGS20|RGSZ1|ZGAP1|regulator of G protein signaling 20	protein-coding gene in the species Homo sapiens
