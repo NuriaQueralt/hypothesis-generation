@@ -1,0 +1,1 @@
+python cypher-to-hypotheses.py -q "MATCH path=(n)-[]->() WHERE n.id = 'NCBIGene:55768' RETURN path limit 1" > paths.json

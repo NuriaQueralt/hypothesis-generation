@@ -1,0 +1,3 @@
+MATCH (n:VARI)
+MATCH (m:GENO)
+DETACH DELETE n, m
