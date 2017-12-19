@@ -117,18 +117,20 @@ with driver.session() as session:
 
             # print output
             if(args.format == "yaml"):
-               print(yaml.dump(outputAll, default_flow_style=False))
+                print(yaml.dump(outputAll, default_flow_style=False))
             elif(args.format == "json"):
-               print(json.dumps(outputAll))
+                with open('./out/{}.tsv'.format(args.output), 'w') as f:
+                    json.dump(outputAll, f)
+                print(json.dumps(outputAll))
             else:
-               sys.stderr.write("Error.\n")
+                sys.stderr.write("Error.\n")
 
     if not os.path.isdir('./out'): os.makedirs('./out')
     sys.path.insert(0,'.')
-    with open('./out/{}.tsv'.format(args.output), 'w') as f:
-        f.write('source\ttarget\tpaths\tpathways\tdiseases\tsource_orthologs\tother_orthologs\n')
-        for pairwise in output:
-            f.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format(pairwise['source'], pairwise['target'], pairwise['paths'], pairwise['pathways'], pairwise['diseases'], pairwise['source_ortho'], pairwise['other_ortho']))
+#    with open('./out/{}.tsv'.format(args.output), 'w') as f:
+#        f.write('source\ttarget\tpaths\tpathways\tdiseases\tsource_orthologs\tother_orthologs\n')
+#        for pairwise in output:
+#            f.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format(pairwise['source'], pairwise['target'], pairwise['paths'], pairwise['pathways'], pairwise['diseases'], pairwise['source_ortho'], pairwise['other_ortho']))
 
 sys.stderr.write("{} QUERIES completed.\n".format(len(output)))
 
