@@ -1,808 +1,1320 @@
 source	target	number_of_paths	node_type	node_value	node_count
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp2::MGI:1096865	304
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp3::MGI:1333777	160
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp1::MGI:103201	96
-NCBIGene:55768	NCBIGene:358	1052	ortho	Cav1::MGI:102709	32
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp8::MGI:1195271	40
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp7::MGI:1314647	72
-NCBIGene:55768	NCBIGene:358	1052	ortho	Aqp4::MGI:107387	152
-NCBIGene:55768	NCBIGene:358	1052	ortho	Psmc1::MGI:106054	8
-NCBIGene:55768	NCBIGene:358	1052	ortho	Egfr::MGI:95294	72
-NCBIGene:55768	NCBIGene:358	1052	ortho	Avp::MGI:88121	72
-NCBIGene:55768	NCBIGene:358	1052	ortho	Vcp::MGI:99919	8
-NCBIGene:55768	NCBIGene:358	1052	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:55768	NCBIGene:358	1052	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:55768	NCBIGene:358	1052	pheno	premature death::MP:0002083	96
-NCBIGene:55768	NCBIGene:358	1052	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:55768	NCBIGene:358	1052	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:55768	NCBIGene:358	1052	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:55768	NCBIGene:358	1052	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:55768	NCBIGene:358	1052	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:55768	NCBIGene:358	1052	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:55768	NCBIGene:358	1052	pheno	Leukopenia::HP:0001882	16
-NCBIGene:55768	NCBIGene:358	1052	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:55768	NCBIGene:358	1052	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:55768	NCBIGene:358	1052	ortho	Pngl::FlyBase:FBgn0033050	1036
+NCBIGene:55768	NCBIGene:358	1052	ortho	Egfr::FlyBase:FBgn0003731	540
+NCBIGene:55768	NCBIGene:358	1052	ortho	Hcf::FlyBase:FBgn0039904	48
+NCBIGene:55768	NCBIGene:358	1052	ortho	TER94::FlyBase:FBgn0261014	48
+NCBIGene:55768	NCBIGene:358	1052	ortho	sgg::FlyBase:FBgn0003371	168
+NCBIGene:55768	NCBIGene:358	1052	ortho	bchs::FlyBase:FBgn0043362	8
+NCBIGene:55768	NCBIGene:358	1052	ortho	beta4GalNAcTA::FlyBase:FBgn0027538	24
+NCBIGene:55768	NCBIGene:358	1052	ortho	Jra::FlyBase:FBgn0001291	112
+NCBIGene:55768	NCBIGene:358	1052	ortho	RpS27A::FlyBase:FBgn0003942	32
+NCBIGene:55768	NCBIGene:358	1052	ortho	AQP::FlyBase:FBgn0033807	32
+NCBIGene:55768	NCBIGene:358	1052	ortho	Ngly1::MGI:1913276	16
+NCBIGene:55768	NCBIGene:358	1052	ortho	Traf2::MGI:101835	12
+NCBIGene:55768	NCBIGene:358	1052	ortho	App::MGI:88059	4
+NCBIGene:55768	NCBIGene:358	1052	ortho	Ubi-p5E::FlyBase:FBgn0086558	4
+NCBIGene:55768	NCBIGene:358	1052	ortho	RpL40::FlyBase:FBgn0003941	8
+NCBIGene:55768	NCBIGene:358	1052	ortho	Rpt2::FlyBase:FBgn0015282	4
+NCBIGene:55768	NCBIGene:358	1052	ortho	sinah::FlyBase:FBgn0259794	8
+NCBIGene:55768	NCBIGene:358	1052	pheno	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	60
+NCBIGene:55768	NCBIGene:358	1052	pheno	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	60
+NCBIGene:55768	NCBIGene:358	1052	pheno	wing vein phenotype::FBbt:00004751PHENOTYPE	108
+NCBIGene:55768	NCBIGene:358	1052	pheno	short lived::FBcv:0000385	84
+NCBIGene:55768	NCBIGene:358	1052	pheno	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	172
+NCBIGene:55768	NCBIGene:358	1052	pheno	developmental rate defective::FBcv:0000450	104
+NCBIGene:55768	NCBIGene:358	1052	pheno	female sterile::FBcv:0000366	96
+NCBIGene:55768	NCBIGene:358	1052	pheno	wing margin phenotype::FBbt:00005378PHENOTYPE	60
+NCBIGene:55768	NCBIGene:358	1052	pheno	lethal - all die before end of P-stage::FBcv:0002000	40
+NCBIGene:55768	NCBIGene:358	1052	pheno	male sterile::FBcv:0000370	40
+NCBIGene:55768	NCBIGene:358	1052	pheno	Drosophila wing blade phenotype::FBbt:00006015PHENOTYPE	28
+NCBIGene:55768	NCBIGene:358	1052	pheno	partially lethal - majority die::FBcv:0000352	148
+NCBIGene:55768	NCBIGene:358	1052	pheno	partially lethal - majority live::FBcv:0000350	8
+NCBIGene:55768	NCBIGene:358	1052	pheno	Abnormality of cell physiology::HP:0011017	16
+NCBIGene:55768	NCBIGene:358	1052	pheno	some die during pharate adult stage::FBcv:0002038	28
+NCBIGene:55768	NCBIGene:358	1052	gene	Egfr::MGI:95294	252
+NCBIGene:55768	NCBIGene:358	1052	gene	EGFR::NCBIGene:1956	180
+NCBIGene:55768	NCBIGene:358	1052	gene	Hcfc1::MGI:105942	24
+NCBIGene:55768	NCBIGene:358	1052	gene	Vcp::MGI:99919	16
+NCBIGene:55768	NCBIGene:358	1052	gene	Egfr::RGD:2543	108
+NCBIGene:55768	NCBIGene:358	1052	gene	Gsk3b::MGI:1861437	96
+NCBIGene:55768	NCBIGene:358	1052	gene	WDFY3::NCBIGene:23001	8
+NCBIGene:55768	NCBIGene:358	1052	gene	GSK3B::NCBIGene:2932	24
+NCBIGene:55768	NCBIGene:358	1052	gene	B4GALT1::NCBIGene:2683	24
+NCBIGene:55768	NCBIGene:358	1052	gene	Gsk3b::RGD:70982	48
+NCBIGene:55768	NCBIGene:358	1052	gene	Jun::MGI:96646	56
+NCBIGene:55768	NCBIGene:358	1052	gene	VCP::NCBIGene:7415	32
+NCBIGene:55768	NCBIGene:358	1052	gene	RPS27A::NCBIGene:6233	32
+NCBIGene:55768	NCBIGene:358	1052	gene	AQP12A::NCBIGene:375318	32
+NCBIGene:55768	NCBIGene:358	1052	gene	HCFC1::NCBIGene:3054	24
+NCBIGene:55768	NCBIGene:358	1052	gene	TRAF2::NCBIGene:7186	8
+NCBIGene:55768	NCBIGene:358	1052	gene	App::RGD:2139	4
+NCBIGene:55768	NCBIGene:358	1052	gene	JUN::NCBIGene:3725	32
+NCBIGene:55768	NCBIGene:358	1052	gene	jun::ZFIN:ZDB-GENE-030131-7859	8
+NCBIGene:55768	NCBIGene:358	1052	gene	Traf2::RGD:1310457	4
+NCBIGene:55768	NCBIGene:358	1052	gene	Jun::RGD:2943	16
+NCBIGene:55768	NCBIGene:358	1052	gene	UBC::NCBIGene:7316	4
+NCBIGene:55768	NCBIGene:358	1052	gene	UBA52::NCBIGene:7311	8
+NCBIGene:55768	NCBIGene:358	1052	gene	PSMC1::NCBIGene:5700	4
+NCBIGene:55768	NCBIGene:358	1052	gene	Siah1a::MGI:108064	4
+NCBIGene:55768	NCBIGene:358	1052	gene	SIAH1::NCBIGene:6477	4
+NCBIGene:55768	NCBIGene:358	1052	phys	positive regulation of fibroblast proliferation::GO:0048146	140
+NCBIGene:55768	NCBIGene:358	1052	phys	cellular response to dexamethasone stimulus::GO:0071549	72
+NCBIGene:55768	NCBIGene:358	1052	phys	identical protein binding::GO:0042802	120
+NCBIGene:55768	NCBIGene:358	1052	phys	cellular response to mechanical stimulus::GO:0071260	108
+NCBIGene:55768	NCBIGene:358	1052	phys	apical plasma membrane::GO:0016324	72
+NCBIGene:55768	NCBIGene:358	1052	phys	nuclear membrane::GO:0031965	44
+NCBIGene:55768	NCBIGene:358	1052	phys	basolateral plasma membrane::GO:0016323	84
+NCBIGene:55768	NCBIGene:358	1052	phys	negative regulation of apoptotic process::GO:0043066	112
+NCBIGene:55768	NCBIGene:358	1052	phys	cellular response to hydrogen peroxide::GO:0070301	24
+NCBIGene:55768	NCBIGene:358	1052	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	8
+NCBIGene:55768	NCBIGene:358	1052	phys	axon::GO:0030424	48
+NCBIGene:55768	NCBIGene:358	1052	phys	wound healing::GO:0042060	72
+NCBIGene:55768	NCBIGene:358	1052	phys	cellular response to cAMP::GO:0071320	4
+NCBIGene:55768	NCBIGene:358	1052	phys	response to drug::GO:0042493	24
+NCBIGene:55768	NCBIGene:358	1052	phys	brush border membrane::GO:0031526	12
+NCBIGene:55768	NCBIGene:358	1052	phys	positive regulation of epithelial cell migration::GO:0010634	32
+NCBIGene:55768	NCBIGene:358	1052	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	52
+NCBIGene:55768	NCBIGene:358	1052	phys	cellular response to nitric oxide::GO:0071732	8
+NCBIGene:55768	NCBIGene:358	1052	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	16
 NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:11826	0	NA	NA	0
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp2::MGI:1096865	304
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp3::MGI:1333777	160
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp1::MGI:103201	96
-NCBIGene:55768	NCBIGene:4779	852	ortho	Cav1::MGI:102709	32
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp8::MGI:1195271	40
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp7::MGI:1314647	72
-NCBIGene:55768	NCBIGene:4779	852	ortho	Aqp4::MGI:107387	152
-NCBIGene:55768	NCBIGene:4779	852	ortho	Psmc1::MGI:106054	8
-NCBIGene:55768	NCBIGene:4779	852	ortho	Egfr::MGI:95294	72
-NCBIGene:55768	NCBIGene:4779	852	ortho	Avp::MGI:88121	72
-NCBIGene:55768	NCBIGene:4779	852	ortho	Vcp::MGI:99919	8
-NCBIGene:55768	NCBIGene:4779	852	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:55768	NCBIGene:4779	852	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:55768	NCBIGene:4779	852	pheno	premature death::MP:0002083	96
-NCBIGene:55768	NCBIGene:4779	852	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:55768	NCBIGene:4779	852	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:55768	NCBIGene:4779	852	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:55768	NCBIGene:4779	852	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:55768	NCBIGene:4779	852	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:55768	NCBIGene:4779	852	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:55768	NCBIGene:4779	852	pheno	Leukopenia::HP:0001882	16
-NCBIGene:55768	NCBIGene:4779	852	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:55768	NCBIGene:4779	852	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp2::MGI:1096865	304
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp3::MGI:1333777	160
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp1::MGI:103201	96
-NCBIGene:55768	NCBIGene:64772	72	ortho	Cav1::MGI:102709	32
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp8::MGI:1195271	40
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp7::MGI:1314647	72
-NCBIGene:55768	NCBIGene:64772	72	ortho	Aqp4::MGI:107387	152
-NCBIGene:55768	NCBIGene:64772	72	ortho	Psmc1::MGI:106054	8
-NCBIGene:55768	NCBIGene:64772	72	ortho	Egfr::MGI:95294	72
-NCBIGene:55768	NCBIGene:64772	72	ortho	Avp::MGI:88121	72
-NCBIGene:55768	NCBIGene:64772	72	ortho	Vcp::MGI:99919	8
-NCBIGene:55768	NCBIGene:64772	72	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:55768	NCBIGene:64772	72	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:55768	NCBIGene:64772	72	pheno	premature death::MP:0002083	96
-NCBIGene:55768	NCBIGene:64772	72	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:55768	NCBIGene:64772	72	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:55768	NCBIGene:64772	72	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:55768	NCBIGene:64772	72	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:55768	NCBIGene:64772	72	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:55768	NCBIGene:64772	72	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:55768	NCBIGene:64772	72	pheno	Leukopenia::HP:0001882	16
-NCBIGene:55768	NCBIGene:64772	72	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:55768	NCBIGene:64772	72	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp2::MGI:1096865	304
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp3::MGI:1333777	160
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp1::MGI:103201	96
-NCBIGene:55768	NCBIGene:360	404	ortho	Cav1::MGI:102709	32
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp8::MGI:1195271	40
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp7::MGI:1314647	72
-NCBIGene:55768	NCBIGene:360	404	ortho	Aqp4::MGI:107387	152
-NCBIGene:55768	NCBIGene:360	404	ortho	Psmc1::MGI:106054	8
-NCBIGene:55768	NCBIGene:360	404	ortho	Egfr::MGI:95294	72
-NCBIGene:55768	NCBIGene:360	404	ortho	Avp::MGI:88121	72
-NCBIGene:55768	NCBIGene:360	404	ortho	Vcp::MGI:99919	8
-NCBIGene:55768	NCBIGene:360	404	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:55768	NCBIGene:360	404	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:55768	NCBIGene:360	404	pheno	premature death::MP:0002083	96
-NCBIGene:55768	NCBIGene:360	404	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:55768	NCBIGene:360	404	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:55768	NCBIGene:360	404	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:55768	NCBIGene:360	404	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:55768	NCBIGene:360	404	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:55768	NCBIGene:360	404	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:55768	NCBIGene:360	404	pheno	Leukopenia::HP:0001882	16
-NCBIGene:55768	NCBIGene:360	404	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:55768	NCBIGene:360	404	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp2::MGI:1096865	304
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp3::MGI:1333777	160
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp1::MGI:103201	96
-NCBIGene:55768	NCBIGene:282679	356	ortho	Cav1::MGI:102709	32
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp8::MGI:1195271	40
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp7::MGI:1314647	72
-NCBIGene:55768	NCBIGene:282679	356	ortho	Aqp4::MGI:107387	152
-NCBIGene:55768	NCBIGene:282679	356	ortho	Psmc1::MGI:106054	8
-NCBIGene:55768	NCBIGene:282679	356	ortho	Egfr::MGI:95294	72
-NCBIGene:55768	NCBIGene:282679	356	ortho	Avp::MGI:88121	72
-NCBIGene:55768	NCBIGene:282679	356	ortho	Vcp::MGI:99919	8
-NCBIGene:55768	NCBIGene:282679	356	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:55768	NCBIGene:282679	356	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:55768	NCBIGene:282679	356	pheno	premature death::MP:0002083	96
-NCBIGene:55768	NCBIGene:282679	356	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:55768	NCBIGene:282679	356	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:55768	NCBIGene:282679	356	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:55768	NCBIGene:282679	356	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:55768	NCBIGene:282679	356	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:55768	NCBIGene:282679	356	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:55768	NCBIGene:282679	356	pheno	Leukopenia::HP:0001882	16
-NCBIGene:55768	NCBIGene:282679	356	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:55768	NCBIGene:282679	356	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp2::MGI:1096865	304
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp3::MGI:1333777	160
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp1::MGI:103201	96
-NCBIGene:358	NCBIGene:55768	16	ortho	Cav1::MGI:102709	32
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp8::MGI:1195271	40
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp7::MGI:1314647	72
-NCBIGene:358	NCBIGene:55768	16	ortho	Aqp4::MGI:107387	152
-NCBIGene:358	NCBIGene:55768	16	ortho	Psmc1::MGI:106054	8
-NCBIGene:358	NCBIGene:55768	16	ortho	Egfr::MGI:95294	72
-NCBIGene:358	NCBIGene:55768	16	ortho	Avp::MGI:88121	72
-NCBIGene:358	NCBIGene:55768	16	ortho	Vcp::MGI:99919	8
-NCBIGene:358	NCBIGene:55768	16	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:358	NCBIGene:55768	16	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:358	NCBIGene:55768	16	pheno	premature death::MP:0002083	96
-NCBIGene:358	NCBIGene:55768	16	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:358	NCBIGene:55768	16	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:358	NCBIGene:55768	16	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:358	NCBIGene:55768	16	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:358	NCBIGene:55768	16	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:358	NCBIGene:55768	16	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:358	NCBIGene:55768	16	pheno	Leukopenia::HP:0001882	16
-NCBIGene:358	NCBIGene:55768	16	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:358	NCBIGene:55768	16	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:55768	NCBIGene:4779	852	ortho	Pngl::FlyBase:FBgn0033050	848
+NCBIGene:55768	NCBIGene:4779	852	ortho	Hcf::FlyBase:FBgn0039904	72
+NCBIGene:55768	NCBIGene:4779	852	ortho	Sec8::FlyBase:FBgn0266672	8
+NCBIGene:55768	NCBIGene:4779	852	ortho	Jra::FlyBase:FBgn0001291	96
+NCBIGene:55768	NCBIGene:4779	852	ortho	Stat92E::FlyBase:FBgn0016917	48
+NCBIGene:55768	NCBIGene:4779	852	ortho	TER94::FlyBase:FBgn0261014	112
+NCBIGene:55768	NCBIGene:4779	852	ortho	cnc::FlyBase:FBgn0262975	176
+NCBIGene:55768	NCBIGene:4779	852	ortho	Atf6::FlyBase:FBgn0033010	28
+NCBIGene:55768	NCBIGene:4779	852	ortho	Egfr::FlyBase:FBgn0003731	216
+NCBIGene:55768	NCBIGene:4779	852	ortho	CG3815::FlyBase:FBgn0029861	8
+NCBIGene:55768	NCBIGene:4779	852	ortho	sgg::FlyBase:FBgn0003371	48
+NCBIGene:55768	NCBIGene:4779	852	ortho	Rad23::FlyBase:FBgn0026777	8
+NCBIGene:55768	NCBIGene:4779	852	ortho	RpS27A::FlyBase:FBgn0003942	16
+NCBIGene:55768	NCBIGene:4779	852	ortho	Ngly1::MGI:1913276	4
+NCBIGene:55768	NCBIGene:4779	852	ortho	Traf2::MGI:101835	4
+NCBIGene:55768	NCBIGene:4779	852	ortho	RpL40::FlyBase:FBgn0003941	4
+NCBIGene:55768	NCBIGene:4779	852	ortho	inc::FlyBase:FBgn0025394	4
+NCBIGene:55768	NCBIGene:4779	852	ortho	sinah::FlyBase:FBgn0259794	4
+NCBIGene:55768	NCBIGene:4779	852	pheno	partially lethal - majority die::FBcv:0000352	160
+NCBIGene:55768	NCBIGene:4779	852	pheno	developmental rate defective::FBcv:0000450	84
+NCBIGene:55768	NCBIGene:4779	852	pheno	female sterile::FBcv:0000366	144
+NCBIGene:55768	NCBIGene:4779	852	pheno	short lived::FBcv:0000385	60
+NCBIGene:55768	NCBIGene:4779	852	pheno	male sterile::FBcv:0000370	92
+NCBIGene:55768	NCBIGene:4779	852	pheno	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	108
+NCBIGene:55768	NCBIGene:4779	852	pheno	wing vein phenotype::FBbt:00004751PHENOTYPE	76
+NCBIGene:55768	NCBIGene:4779	852	pheno	some die during pharate adult stage::FBcv:0002038	8
+NCBIGene:55768	NCBIGene:4779	852	pheno	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	24
+NCBIGene:55768	NCBIGene:4779	852	pheno	lethal - all die before end of P-stage::FBcv:0002000	36
+NCBIGene:55768	NCBIGene:4779	852	pheno	wing margin phenotype::FBbt:00005378PHENOTYPE	24
+NCBIGene:55768	NCBIGene:4779	852	pheno	Abnormality of cell physiology::HP:0011017	4
+NCBIGene:55768	NCBIGene:4779	852	pheno	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	24
+NCBIGene:55768	NCBIGene:4779	852	pheno	Drosophila wing blade phenotype::FBbt:00006015PHENOTYPE	8
+NCBIGene:55768	NCBIGene:4779	852	gene	Hcfc1::MGI:105942	24
+NCBIGene:55768	NCBIGene:4779	852	gene	Exoc4::MGI:1096376	8
+NCBIGene:55768	NCBIGene:4779	852	gene	Jun::RGD:2943	8
+NCBIGene:55768	NCBIGene:4779	852	gene	stat5a::ZFIN:ZDB-GENE-030820-2	48
+NCBIGene:55768	NCBIGene:4779	852	gene	VCP::NCBIGene:7415	48
+NCBIGene:55768	NCBIGene:4779	852	gene	Nfe2::MGI:97308	48
+NCBIGene:55768	NCBIGene:4779	852	gene	Jun::MGI:96646	40
+NCBIGene:55768	NCBIGene:4779	852	gene	Creb3::MGI:99946	12
+NCBIGene:55768	NCBIGene:4779	852	gene	Egfr::MGI:95294	108
+NCBIGene:55768	NCBIGene:4779	852	gene	phf12b::ZFIN:ZDB-GENE-110628-2	4
+NCBIGene:55768	NCBIGene:4779	852	gene	Gsk3b::MGI:1861437	48
+NCBIGene:55768	NCBIGene:4779	852	gene	RAD23A::NCBIGene:5886	4
+NCBIGene:55768	NCBIGene:4779	852	gene	nfe2::ZFIN:ZDB-GENE-030124-1	80
+NCBIGene:55768	NCBIGene:4779	852	gene	Vcp::MGI:99919	64
+NCBIGene:55768	NCBIGene:4779	852	gene	EGFR::NCBIGene:1956	108
+NCBIGene:55768	NCBIGene:4779	852	gene	jun::ZFIN:ZDB-GENE-030131-7859	8
+NCBIGene:55768	NCBIGene:4779	852	gene	HCFC1::NCBIGene:3054	36
+NCBIGene:55768	NCBIGene:4779	852	gene	NFE2::NCBIGene:4778	48
+NCBIGene:55768	NCBIGene:4779	852	gene	JUN::NCBIGene:3725	40
+NCBIGene:55768	NCBIGene:4779	852	gene	RPS27A::NCBIGene:6233	16
+NCBIGene:55768	NCBIGene:4779	852	gene	TRAF2::NCBIGene:7186	4
+NCBIGene:55768	NCBIGene:4779	852	gene	UBA52::NCBIGene:7311	4
+NCBIGene:55768	NCBIGene:4779	852	gene	CREB3::NCBIGene:10488	12
+NCBIGene:55768	NCBIGene:4779	852	gene	creb3l3l::ZFIN:ZDB-GENE-040426-2942	4
+NCBIGene:55768	NCBIGene:4779	852	gene	Phf12::MGI:1924057	4
+NCBIGene:55768	NCBIGene:4779	852	gene	Hcfc1::RGD:1563804	12
+NCBIGene:55768	NCBIGene:4779	852	gene	Rad23a::MGI:105126	4
+NCBIGene:55768	NCBIGene:4779	852	gene	kctd5a::ZFIN:ZDB-GENE-030131-727	4
+NCBIGene:55768	NCBIGene:4779	852	gene	SIAH1::NCBIGene:6477	4
+NCBIGene:55768	NCBIGene:4779	852	phys	transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific binding::GO:0001205	48
+NCBIGene:55768	NCBIGene:4779	852	phys	protein complex::GO:0043234	104
+NCBIGene:55768	NCBIGene:4779	852	phys	RNA polymerase II distal enhancer sequence-specific DNA binding::GO:0000980	32
+NCBIGene:55768	NCBIGene:4779	852	phys	positive regulation of transcription from RNA polymerase II promoter::GO:0045944	144
+NCBIGene:55768	NCBIGene:4779	852	phys	transcription regulatory region sequence-specific DNA binding::GO:0000976	48
+NCBIGene:55768	NCBIGene:4779	852	phys	transcription from RNA polymerase II promoter::GO:0006366	32
+NCBIGene:55768	NCBIGene:4779	852	phys	positive regulation of transcription, DNA-templated::GO:0045893	140
+NCBIGene:55768	NCBIGene:4779	852	phys	transcription cofactor activity::GO:0003712	8
+NCBIGene:55768	NCBIGene:4779	852	phys	protein domain specific binding::GO:0019904	32
+NCBIGene:55768	NCBIGene:4779	852	phys	protein complex binding::GO:0032403	28
+NCBIGene:55768	NCBIGene:4779	852	phys	endoplasmic reticulum membrane::GO:0005789	92
+NCBIGene:55768	NCBIGene:4779	852	phys	regulation of transcription from RNA polymerase II promoter::GO:0006357	84
+NCBIGene:55768	NCBIGene:4779	852	phys	transcriptional activator activity, RNA polymerase II transcription factor binding::GO:0001190	8
+NCBIGene:55768	NCBIGene:4779	852	phys	cellular response to oxidative stress::GO:0034599	16
+NCBIGene:55768	NCBIGene:4779	852	phys	erythrocyte differentiation::GO:0030218	32
+NCBIGene:55768	NCBIGene:4779	852	phys	anatomical structure morphogenesis::GO:0009653	4
+NCBIGene:55768	NCBIGene:64772	72	ortho	Pngl::FlyBase:FBgn0033050	72
+NCBIGene:55768	NCBIGene:64772	72	ortho	TER94::FlyBase:FBgn0261014	16
+NCBIGene:55768	NCBIGene:64772	72	ortho	RpL40::FlyBase:FBgn0003941	4
+NCBIGene:55768	NCBIGene:64772	72	ortho	RpS27A::FlyBase:FBgn0003942	16
+NCBIGene:55768	NCBIGene:64772	72	ortho	CG10694::FlyBase:FBgn0039147	4
+NCBIGene:55768	NCBIGene:64772	72	ortho	Ubi-p5E::FlyBase:FBgn0086558	4
+NCBIGene:55768	NCBIGene:64772	72	ortho	CG18278::FlyBase:FBgn0033836	24
+NCBIGene:55768	NCBIGene:64772	72	ortho	Rpt2::FlyBase:FBgn0015282	4
+NCBIGene:55768	NCBIGene:64772	72	pheno	male sterile::FBcv:0000370	20
+NCBIGene:55768	NCBIGene:64772	72	pheno	partially lethal - majority die::FBcv:0000352	16
+NCBIGene:55768	NCBIGene:64772	72	pheno	female sterile::FBcv:0000366	12
+NCBIGene:55768	NCBIGene:64772	72	pheno	partially lethal - majority live::FBcv:0000350	4
+NCBIGene:55768	NCBIGene:64772	72	pheno	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	4
+NCBIGene:55768	NCBIGene:64772	72	pheno	wing vein phenotype::FBbt:00004751PHENOTYPE	4
+NCBIGene:55768	NCBIGene:64772	72	pheno	lethal - all die before end of P-stage::FBcv:0002000	4
+NCBIGene:55768	NCBIGene:64772	72	pheno	short lived::FBcv:0000385	8
+NCBIGene:55768	NCBIGene:64772	72	gene	VCP::NCBIGene:7415	16
+NCBIGene:55768	NCBIGene:64772	72	gene	UBA52::NCBIGene:7311	4
+NCBIGene:55768	NCBIGene:64772	72	gene	RPS27A::NCBIGene:6233	16
+NCBIGene:55768	NCBIGene:64772	72	gene	RAD23B::NCBIGene:5887	4
+NCBIGene:55768	NCBIGene:64772	72	gene	UBC::NCBIGene:7316	4
+NCBIGene:55768	NCBIGene:64772	72	gene	Gns::MGI:1922862	12
+NCBIGene:55768	NCBIGene:64772	72	gene	PSMC1::NCBIGene:5700	4
+NCBIGene:55768	NCBIGene:64772	72	gene	gnsa::ZFIN:ZDB-GENE-050107-5	12
+NCBIGene:55768	NCBIGene:64772	72	phys	protein folding::GO:0006457	48
+NCBIGene:55768	NCBIGene:64772	72	phys	lysosome::GO:0005764	24
+NCBIGene:55768	NCBIGene:360	404	ortho	Pngl::FlyBase:FBgn0033050	404
+NCBIGene:55768	NCBIGene:360	404	ortho	Sec6::FlyBase:FBgn0266671	12
+NCBIGene:55768	NCBIGene:360	404	ortho	AQP::FlyBase:FBgn0033807	80
+NCBIGene:55768	NCBIGene:360	404	ortho	Egfr::FlyBase:FBgn0003731	216
+NCBIGene:55768	NCBIGene:360	404	ortho	TER94::FlyBase:FBgn0261014	48
+NCBIGene:55768	NCBIGene:360	404	ortho	beta4GalNAcTA::FlyBase:FBgn0027538	12
+NCBIGene:55768	NCBIGene:360	404	ortho	RpS27A::FlyBase:FBgn0003942	16
+NCBIGene:55768	NCBIGene:360	404	ortho	Ubi-p5E::FlyBase:FBgn0086558	4
+NCBIGene:55768	NCBIGene:360	404	ortho	Atf6::FlyBase:FBgn0033010	4
+NCBIGene:55768	NCBIGene:360	404	ortho	Rpt2::FlyBase:FBgn0015282	4
+NCBIGene:55768	NCBIGene:360	404	ortho	RpL40::FlyBase:FBgn0003941	4
+NCBIGene:55768	NCBIGene:360	404	ortho	Sec8::FlyBase:FBgn0266672	4
+NCBIGene:55768	NCBIGene:360	404	pheno	developmental rate defective::FBcv:0000450	72
+NCBIGene:55768	NCBIGene:360	404	pheno	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	76
+NCBIGene:55768	NCBIGene:360	404	pheno	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	24
+NCBIGene:55768	NCBIGene:360	404	pheno	wing margin phenotype::FBbt:00005378PHENOTYPE	24
+NCBIGene:55768	NCBIGene:360	404	pheno	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	24
+NCBIGene:55768	NCBIGene:360	404	pheno	short lived::FBcv:0000385	40
+NCBIGene:55768	NCBIGene:360	404	pheno	female sterile::FBcv:0000366	40
+NCBIGene:55768	NCBIGene:360	404	pheno	male sterile::FBcv:0000370	24
+NCBIGene:55768	NCBIGene:360	404	pheno	wing vein phenotype::FBbt:00004751PHENOTYPE	28
+NCBIGene:55768	NCBIGene:360	404	pheno	lethal - all die before end of P-stage::FBcv:0002000	12
+NCBIGene:55768	NCBIGene:360	404	pheno	partially lethal - majority die::FBcv:0000352	36
+NCBIGene:55768	NCBIGene:360	404	pheno	partially lethal - majority live::FBcv:0000350	4
+NCBIGene:55768	NCBIGene:360	404	gene	Exoc3::MGI:2443972	12
+NCBIGene:55768	NCBIGene:360	404	gene	AQP12A::NCBIGene:375318	48
+NCBIGene:55768	NCBIGene:360	404	gene	Egfr::MGI:95294	108
+NCBIGene:55768	NCBIGene:360	404	gene	Aqp12::MGI:2664636	16
+NCBIGene:55768	NCBIGene:360	404	gene	Egfr::RGD:2543	36
+NCBIGene:55768	NCBIGene:360	404	gene	EGFR::NCBIGene:1956	72
+NCBIGene:55768	NCBIGene:360	404	gene	VCP::NCBIGene:7415	16
+NCBIGene:55768	NCBIGene:360	404	gene	B4GALT1::NCBIGene:2683	12
+NCBIGene:55768	NCBIGene:360	404	gene	RPS27A::NCBIGene:6233	16
+NCBIGene:55768	NCBIGene:360	404	gene	aqp12::ZFIN:ZDB-GENE-040718-310	16
+NCBIGene:55768	NCBIGene:360	404	gene	vcp::ZFIN:ZDB-GENE-030131-5408	16
+NCBIGene:55768	NCBIGene:360	404	gene	UBC::NCBIGene:7316	4
+NCBIGene:55768	NCBIGene:360	404	gene	CREB3::NCBIGene:10488	4
+NCBIGene:55768	NCBIGene:360	404	gene	Vcp::MGI:99919	16
+NCBIGene:55768	NCBIGene:360	404	gene	PSMC1::NCBIGene:5700	4
+NCBIGene:55768	NCBIGene:360	404	gene	UBA52::NCBIGene:7311	4
+NCBIGene:55768	NCBIGene:360	404	gene	Exoc4::MGI:1096376	4
+NCBIGene:55768	NCBIGene:360	404	phys	transport::GO:0006810	72
+NCBIGene:55768	NCBIGene:360	404	phys	transporter activity::GO:0005215	24
+NCBIGene:55768	NCBIGene:360	404	phys	response to calcium ion::GO:0051592	144
+NCBIGene:55768	NCBIGene:360	404	phys	basolateral plasma membrane::GO:0016323	84
+NCBIGene:55768	NCBIGene:360	404	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	52
+NCBIGene:55768	NCBIGene:360	404	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	8
+NCBIGene:55768	NCBIGene:360	404	phys	Vasopressin-regulated water reabsorption::KEGG-path:maphsa04962	4
+NCBIGene:55768	NCBIGene:360	404	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	16
+NCBIGene:55768	NCBIGene:282679	356	ortho	Pngl::FlyBase:FBgn0033050	356
+NCBIGene:55768	NCBIGene:282679	356	ortho	Egfr::FlyBase:FBgn0003731	108
+NCBIGene:55768	NCBIGene:282679	356	ortho	TER94::FlyBase:FBgn0261014	96
+NCBIGene:55768	NCBIGene:282679	356	ortho	AQP::FlyBase:FBgn0033807	48
+NCBIGene:55768	NCBIGene:282679	356	ortho	sgg::FlyBase:FBgn0003371	24
+NCBIGene:55768	NCBIGene:282679	356	ortho	RpS27A::FlyBase:FBgn0003942	16
+NCBIGene:55768	NCBIGene:282679	356	ortho	beta4GalNAcTA::FlyBase:FBgn0027538	12
+NCBIGene:55768	NCBIGene:282679	356	ortho	inc::FlyBase:FBgn0025394	4
+NCBIGene:55768	NCBIGene:282679	356	ortho	Hcf::FlyBase:FBgn0039904	24
+NCBIGene:55768	NCBIGene:282679	356	ortho	Rpt2::FlyBase:FBgn0015282	4
+NCBIGene:55768	NCBIGene:282679	356	ortho	RpL40::FlyBase:FBgn0003941	8
+NCBIGene:55768	NCBIGene:282679	356	ortho	Atf6::FlyBase:FBgn0033010	8
+NCBIGene:55768	NCBIGene:282679	356	ortho	Ubi-p5E::FlyBase:FBgn0086558	4
+NCBIGene:55768	NCBIGene:282679	356	pheno	partially lethal - majority die::FBcv:0000352	32
+NCBIGene:55768	NCBIGene:282679	356	pheno	lethal - all die before end of P-stage::FBcv:0002000	28
+NCBIGene:55768	NCBIGene:282679	356	pheno	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	64
+NCBIGene:55768	NCBIGene:282679	356	pheno	Drosophila wing blade phenotype::FBbt:00006015PHENOTYPE	4
+NCBIGene:55768	NCBIGene:282679	356	pheno	short lived::FBcv:0000385	44
+NCBIGene:55768	NCBIGene:282679	356	pheno	developmental rate defective::FBcv:0000450	40
+NCBIGene:55768	NCBIGene:282679	356	pheno	partially lethal - majority live::FBcv:0000350	4
+NCBIGene:55768	NCBIGene:282679	356	pheno	some die during pharate adult stage::FBcv:0002038	4
+NCBIGene:55768	NCBIGene:282679	356	pheno	wing margin phenotype::FBbt:00005378PHENOTYPE	12
+NCBIGene:55768	NCBIGene:282679	356	pheno	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	12
+NCBIGene:55768	NCBIGene:282679	356	pheno	wing vein phenotype::FBbt:00004751PHENOTYPE	28
+NCBIGene:55768	NCBIGene:282679	356	pheno	male sterile::FBcv:0000370	36
+NCBIGene:55768	NCBIGene:282679	356	pheno	female sterile::FBcv:0000366	36
+NCBIGene:55768	NCBIGene:282679	356	pheno	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	12
+NCBIGene:55768	NCBIGene:282679	356	gene	Egfr::MGI:95294	72
+NCBIGene:55768	NCBIGene:282679	356	gene	VCP::NCBIGene:7415	48
+NCBIGene:55768	NCBIGene:282679	356	gene	AQP12A::NCBIGene:375318	32
+NCBIGene:55768	NCBIGene:282679	356	gene	Gsk3b::MGI:1861437	24
+NCBIGene:55768	NCBIGene:282679	356	gene	RPS27A::NCBIGene:6233	16
+NCBIGene:55768	NCBIGene:282679	356	gene	vcp::ZFIN:ZDB-GENE-030131-5408	16
+NCBIGene:55768	NCBIGene:282679	356	gene	Vcp::MGI:99919	32
+NCBIGene:55768	NCBIGene:282679	356	gene	B4GALT1::NCBIGene:2683	12
+NCBIGene:55768	NCBIGene:282679	356	gene	kctd5a::ZFIN:ZDB-GENE-030131-727	4
+NCBIGene:55768	NCBIGene:282679	356	gene	EGFR::NCBIGene:1956	36
+NCBIGene:55768	NCBIGene:282679	356	gene	Hcfc1::MGI:105942	12
+NCBIGene:55768	NCBIGene:282679	356	gene	PSMC1::NCBIGene:5700	4
+NCBIGene:55768	NCBIGene:282679	356	gene	Aqp12::MGI:2664636	8
+NCBIGene:55768	NCBIGene:282679	356	gene	HCFC1::NCBIGene:3054	12
+NCBIGene:55768	NCBIGene:282679	356	gene	Gm11808::MGI:3649356	4
+NCBIGene:55768	NCBIGene:282679	356	gene	aqp12::ZFIN:ZDB-GENE-040718-310	8
+NCBIGene:55768	NCBIGene:282679	356	gene	Creb3::MGI:99946	4
+NCBIGene:55768	NCBIGene:282679	356	gene	CREB3::NCBIGene:10488	4
+NCBIGene:55768	NCBIGene:282679	356	gene	UBC::NCBIGene:7316	4
+NCBIGene:55768	NCBIGene:282679	356	gene	UBA52::NCBIGene:7311	4
+NCBIGene:55768	NCBIGene:282679	356	phys	cell surface::GO:0009986	72
+NCBIGene:55768	NCBIGene:282679	356	phys	protein homooligomerization::GO:0051260	48
+NCBIGene:55768	NCBIGene:282679	356	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	52
+NCBIGene:55768	NCBIGene:282679	356	phys	dendrite::GO:0030425	48
+NCBIGene:55768	NCBIGene:282679	356	phys	endoplasmic reticulum::GO:0005783	92
+NCBIGene:55768	NCBIGene:282679	356	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	8
+NCBIGene:55768	NCBIGene:282679	356	phys	transporter activity::GO:0005215	24
+NCBIGene:55768	NCBIGene:282679	356	phys	molecular function::GO:0003674	4
+NCBIGene:55768	NCBIGene:282679	356	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	8
+NCBIGene:358	NCBIGene:55768	16	ortho	Aqp1::MGI:103201	16
+NCBIGene:358	NCBIGene:55768	16	ortho	Vcp::MGI:99919	16
+NCBIGene:358	NCBIGene:55768	16	pheno	decreased grip strength::MP:0010053	8
+NCBIGene:358	NCBIGene:55768	16	pheno	behavior/neurological phenotype::MP:0005386	8
+NCBIGene:358	NCBIGene:55768	16	gene	VCP::NCBIGene:7415	16
+NCBIGene:358	NCBIGene:55768	16	phys	protein folding::GO:0006457	8
+NCBIGene:358	NCBIGene:55768	16	phys	REACT:R-HSA-8850594::REACT:R-HSA-8850594	8
 NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:11826	0	NA	NA	0
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp2::MGI:1096865	304
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp3::MGI:1333777	160
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp1::MGI:103201	96
-NCBIGene:358	NCBIGene:4779	380	ortho	Cav1::MGI:102709	32
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp8::MGI:1195271	40
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp7::MGI:1314647	72
-NCBIGene:358	NCBIGene:4779	380	ortho	Aqp4::MGI:107387	152
-NCBIGene:358	NCBIGene:4779	380	ortho	Psmc1::MGI:106054	8
-NCBIGene:358	NCBIGene:4779	380	ortho	Egfr::MGI:95294	72
-NCBIGene:358	NCBIGene:4779	380	ortho	Avp::MGI:88121	72
-NCBIGene:358	NCBIGene:4779	380	ortho	Vcp::MGI:99919	8
-NCBIGene:358	NCBIGene:4779	380	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:358	NCBIGene:4779	380	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:358	NCBIGene:4779	380	pheno	premature death::MP:0002083	96
-NCBIGene:358	NCBIGene:4779	380	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:358	NCBIGene:4779	380	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:358	NCBIGene:4779	380	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:358	NCBIGene:4779	380	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:358	NCBIGene:4779	380	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:358	NCBIGene:4779	380	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:358	NCBIGene:4779	380	pheno	Leukopenia::HP:0001882	16
-NCBIGene:358	NCBIGene:4779	380	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:358	NCBIGene:4779	380	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp2::MGI:1096865	304
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp3::MGI:1333777	160
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp1::MGI:103201	96
-NCBIGene:358	NCBIGene:64772	12	ortho	Cav1::MGI:102709	32
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp8::MGI:1195271	40
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp7::MGI:1314647	72
-NCBIGene:358	NCBIGene:64772	12	ortho	Aqp4::MGI:107387	152
-NCBIGene:358	NCBIGene:64772	12	ortho	Psmc1::MGI:106054	8
-NCBIGene:358	NCBIGene:64772	12	ortho	Egfr::MGI:95294	72
-NCBIGene:358	NCBIGene:64772	12	ortho	Avp::MGI:88121	72
+NCBIGene:358	NCBIGene:4779	380	ortho	Aqp1::MGI:103201	380
+NCBIGene:358	NCBIGene:4779	380	ortho	Fos::MGI:95574	64
+NCBIGene:358	NCBIGene:4779	380	ortho	Jun::MGI:96646	56
+NCBIGene:358	NCBIGene:4779	380	ortho	Btrc::MGI:1338871	4
+NCBIGene:358	NCBIGene:4779	380	ortho	Nfe2l2::MGI:108420	112
+NCBIGene:358	NCBIGene:4779	380	ortho	Egfr::MGI:95294	36
+NCBIGene:358	NCBIGene:4779	380	ortho	Bach2::MGI:894679	24
+NCBIGene:358	NCBIGene:4779	380	ortho	Cav1::MGI:102709	16
+NCBIGene:358	NCBIGene:4779	380	ortho	AQP2::NCBIGene:359	4
+NCBIGene:358	NCBIGene:4779	380	ortho	VCP::NCBIGene:7415	16
+NCBIGene:358	NCBIGene:4779	380	ortho	FBXW7::NCBIGene:55294	4
+NCBIGene:358	NCBIGene:4779	380	ortho	Vcp::MGI:99919	24
+NCBIGene:358	NCBIGene:4779	380	ortho	Mafg::MGI:96911	16
+NCBIGene:358	NCBIGene:4779	380	ortho	CAV1::NCBIGene:857	4
+NCBIGene:358	NCBIGene:4779	380	pheno	behavior/neurological phenotype::MP:0005386	44
+NCBIGene:358	NCBIGene:4779	380	pheno	prenatal lethality, incomplete penetrance::MP:0011101	44
+NCBIGene:358	NCBIGene:4779	380	pheno	decreased bone mineral content::MP:0010124	28
+NCBIGene:358	NCBIGene:4779	380	pheno	Functional respiratory abnormality::HP:0002795	56
+NCBIGene:358	NCBIGene:4779	380	pheno	nervous system phenotype::MP:0003631	40
+NCBIGene:358	NCBIGene:4779	380	pheno	Behavioral abnormality::HP:0000708	104
+NCBIGene:358	NCBIGene:4779	380	pheno	Dehydration::HP:0001944	16
+NCBIGene:358	NCBIGene:4779	380	pheno	decreased grip strength::MP:0010053	20
+NCBIGene:358	NCBIGene:4779	380	pheno	Lethargy::HP:0001254	4
+NCBIGene:358	NCBIGene:4779	380	pheno	endocrine/exocrine gland phenotype::MP:0005379	12
+NCBIGene:358	NCBIGene:4779	380	pheno	hypoactivity::MP:0001402	8
+NCBIGene:358	NCBIGene:4779	380	pheno	Glucose intolerance::HP:0000833	4
+NCBIGene:358	NCBIGene:4779	380	gene	FOS::NCBIGene:2353	48
+NCBIGene:358	NCBIGene:4779	380	gene	JUN::NCBIGene:3725	40
+NCBIGene:358	NCBIGene:4779	380	gene	BTRC::NCBIGene:8945	4
+NCBIGene:358	NCBIGene:4779	380	gene	NFE2L2::NCBIGene:4780	64
+NCBIGene:358	NCBIGene:4779	380	gene	EGFR::NCBIGene:1956	36
+NCBIGene:358	NCBIGene:4779	380	gene	Nfe2l2::RGD:620360	16
+NCBIGene:358	NCBIGene:4779	380	gene	bach2b::ZFIN:ZDB-GENE-041001-139	12
+NCBIGene:358	NCBIGene:4779	380	gene	CAV1::NCBIGene:857	16
+NCBIGene:358	NCBIGene:4779	380	gene	Aqp2::MGI:1096865	4
+NCBIGene:358	NCBIGene:4779	380	gene	Vcp::MGI:99919	16
+NCBIGene:358	NCBIGene:4779	380	gene	Fbxw7::MGI:1354695	4
+NCBIGene:358	NCBIGene:4779	380	gene	VCP::NCBIGene:7415	24
+NCBIGene:358	NCBIGene:4779	380	gene	jun::ZFIN:ZDB-GENE-030131-7859	8
+NCBIGene:358	NCBIGene:4779	380	gene	MAFG::NCBIGene:4097	8
+NCBIGene:358	NCBIGene:4779	380	gene	nfe2l2a::ZFIN:ZDB-GENE-030723-2	32
+NCBIGene:358	NCBIGene:4779	380	gene	Jun::RGD:2943	8
+NCBIGene:358	NCBIGene:4779	380	gene	Bach2::RGD:1562865	4
+NCBIGene:358	NCBIGene:4779	380	gene	fosab::ZFIN:ZDB-GENE-031222-4	8
+NCBIGene:358	NCBIGene:4779	380	gene	BACH2::NCBIGene:60468	8
+NCBIGene:358	NCBIGene:4779	380	gene	Fos::RGD:2626	8
+NCBIGene:358	NCBIGene:4779	380	gene	mafgb::ZFIN:ZDB-GENE-040426-2403	4
+NCBIGene:358	NCBIGene:4779	380	gene	Cav1::MGI:102709	4
+NCBIGene:358	NCBIGene:4779	380	gene	mafga::ZFIN:ZDB-GENE-040624-7	4
+NCBIGene:358	NCBIGene:4779	380	phys	positive regulation of transcription from RNA polymerase II promoter::GO:0045944	36
+NCBIGene:358	NCBIGene:4779	380	phys	positive regulation of transcription, DNA-templated::GO:0045893	48
+NCBIGene:358	NCBIGene:4779	380	phys	RNA polymerase II distal enhancer sequence-specific DNA binding::GO:0000980	48
+NCBIGene:358	NCBIGene:4779	380	phys	cellular response to oxidative stress::GO:0034599	16
+NCBIGene:358	NCBIGene:4779	380	phys	regulation of transcription from RNA polymerase II promoter::GO:0006357	36
+NCBIGene:358	NCBIGene:4779	380	phys	inflammatory response::GO:0006954	16
+NCBIGene:358	NCBIGene:4779	380	phys	transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific binding::GO:0001205	16
+NCBIGene:358	NCBIGene:4779	380	phys	protein domain specific binding::GO:0019904	20
+NCBIGene:358	NCBIGene:4779	380	phys	transcriptional activator activity, RNA polymerase II transcription factor binding::GO:0001190	24
+NCBIGene:358	NCBIGene:4779	380	phys	transcription from RNA polymerase II promoter::GO:0006366	36
+NCBIGene:358	NCBIGene:4779	380	phys	endoplasmic reticulum membrane::GO:0005789	32
+NCBIGene:358	NCBIGene:4779	380	phys	protein complex::GO:0043234	32
+NCBIGene:358	NCBIGene:4779	380	phys	transcription regulatory region sequence-specific DNA binding::GO:0000976	16
+NCBIGene:358	NCBIGene:4779	380	phys	protein complex binding::GO:0032403	4
+NCBIGene:358	NCBIGene:64772	12	ortho	Aqp1::MGI:103201	12
 NCBIGene:358	NCBIGene:64772	12	ortho	Vcp::MGI:99919	8
-NCBIGene:358	NCBIGene:64772	12	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:358	NCBIGene:64772	12	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:358	NCBIGene:64772	12	pheno	premature death::MP:0002083	96
-NCBIGene:358	NCBIGene:64772	12	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:358	NCBIGene:64772	12	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:358	NCBIGene:64772	12	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:358	NCBIGene:64772	12	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:358	NCBIGene:64772	12	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:358	NCBIGene:64772	12	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:358	NCBIGene:64772	12	pheno	Leukopenia::HP:0001882	16
-NCBIGene:358	NCBIGene:64772	12	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:358	NCBIGene:64772	12	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:358	NCBIGene:360	1588	ortho	Aqp11::MGI:1913583	1040
+NCBIGene:358	NCBIGene:64772	12	ortho	AQP2::NCBIGene:359	4
+NCBIGene:358	NCBIGene:64772	12	pheno	behavior/neurological phenotype::MP:0005386	4
+NCBIGene:358	NCBIGene:64772	12	pheno	decreased grip strength::MP:0010053	4
+NCBIGene:358	NCBIGene:64772	12	pheno	Dehydration::HP:0001944	4
+NCBIGene:358	NCBIGene:64772	12	gene	VCP::NCBIGene:7415	8
+NCBIGene:358	NCBIGene:64772	12	gene	Aqp2::MGI:1096865	4
+NCBIGene:358	NCBIGene:64772	12	phys	protein folding::GO:0006457	8
+NCBIGene:358	NCBIGene:64772	12	phys	lysosome::GO:0005764	4
+NCBIGene:358	NCBIGene:360	1588	ortho	Aqp1::MGI:103201	1588
+NCBIGene:358	NCBIGene:360	1588	ortho	Aqp3::MGI:1333777	320
+NCBIGene:358	NCBIGene:360	1588	ortho	VCP::NCBIGene:7415	4
+NCBIGene:358	NCBIGene:360	1588	ortho	Aqp5::MGI:106215	200
+NCBIGene:358	NCBIGene:360	1588	ortho	Aqp4::MGI:107387	456
 NCBIGene:358	NCBIGene:360	1588	ortho	Aqp2::MGI:1096865	304
-NCBIGene:358	NCBIGene:360	1588	ortho	Aqp3::MGI:1333777	160
-NCBIGene:358	NCBIGene:360	1588	ortho	Aqp1::MGI:103201	96
-NCBIGene:358	NCBIGene:360	1588	ortho	Cav1::MGI:102709	32
-NCBIGene:358	NCBIGene:360	1588	ortho	Aqp8::MGI:1195271	40
-NCBIGene:358	NCBIGene:360	1588	ortho	Aqp7::MGI:1314647	72
-NCBIGene:358	NCBIGene:360	1588	ortho	Aqp4::MGI:107387	152
-NCBIGene:358	NCBIGene:360	1588	ortho	Psmc1::MGI:106054	8
-NCBIGene:358	NCBIGene:360	1588	ortho	Egfr::MGI:95294	72
+NCBIGene:358	NCBIGene:360	1588	ortho	AQP2::NCBIGene:359	40
 NCBIGene:358	NCBIGene:360	1588	ortho	Avp::MGI:88121	72
-NCBIGene:358	NCBIGene:360	1588	ortho	Vcp::MGI:99919	8
-NCBIGene:358	NCBIGene:360	1588	ortho	NFE2L2::NCBIGene:4780	8
+NCBIGene:358	NCBIGene:360	1588	ortho	Cav1::MGI:102709	16
+NCBIGene:358	NCBIGene:360	1588	ortho	Aqp11::MGI:1913583	36
+NCBIGene:358	NCBIGene:360	1588	ortho	Aqp8::MGI:1195271	40
+NCBIGene:358	NCBIGene:360	1588	ortho	Vcp::MGI:99919	16
+NCBIGene:358	NCBIGene:360	1588	ortho	Stx4a::MGI:893577	12
 NCBIGene:358	NCBIGene:360	1588	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:358	NCBIGene:360	1588	pheno	premature death::MP:0002083	96
-NCBIGene:358	NCBIGene:360	1588	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:358	NCBIGene:360	1588	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:358	NCBIGene:360	1588	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:358	NCBIGene:360	1588	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:358	NCBIGene:360	1588	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:358	NCBIGene:360	1588	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:358	NCBIGene:360	1588	pheno	Leukopenia::HP:0001882	16
-NCBIGene:358	NCBIGene:360	1588	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:358	NCBIGene:360	1588	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp2::MGI:1096865	304
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp3::MGI:1333777	160
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp1::MGI:103201	96
-NCBIGene:358	NCBIGene:282679	636	ortho	Cav1::MGI:102709	32
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp8::MGI:1195271	40
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp7::MGI:1314647	72
-NCBIGene:358	NCBIGene:282679	636	ortho	Aqp4::MGI:107387	152
-NCBIGene:358	NCBIGene:282679	636	ortho	Psmc1::MGI:106054	8
-NCBIGene:358	NCBIGene:282679	636	ortho	Egfr::MGI:95294	72
-NCBIGene:358	NCBIGene:282679	636	ortho	Avp::MGI:88121	72
-NCBIGene:358	NCBIGene:282679	636	ortho	Vcp::MGI:99919	8
-NCBIGene:358	NCBIGene:282679	636	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:358	NCBIGene:282679	636	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:358	NCBIGene:282679	636	pheno	premature death::MP:0002083	96
-NCBIGene:358	NCBIGene:282679	636	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:358	NCBIGene:282679	636	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:358	NCBIGene:282679	636	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:358	NCBIGene:282679	636	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:358	NCBIGene:282679	636	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:358	NCBIGene:282679	636	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:358	NCBIGene:282679	636	pheno	Leukopenia::HP:0001882	16
-NCBIGene:358	NCBIGene:282679	636	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:358	NCBIGene:282679	636	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
-NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
+NCBIGene:358	NCBIGene:360	1588	ortho	CAV1::NCBIGene:857	20
+NCBIGene:358	NCBIGene:360	1588	ortho	Egfr::MGI:95294	36
+NCBIGene:358	NCBIGene:360	1588	pheno	increased blood osmolality::MP:0008997	116
+NCBIGene:358	NCBIGene:360	1588	pheno	decreased urine osmolality::MP:0002988	264
+NCBIGene:358	NCBIGene:360	1588	pheno	decreased bone mineral content::MP:0010124	40
+NCBIGene:358	NCBIGene:360	1588	pheno	Behavioral abnormality::HP:0000708	12
+NCBIGene:358	NCBIGene:360	1588	pheno	prenatal lethality, incomplete penetrance::MP:0011101	40
+NCBIGene:358	NCBIGene:360	1588	pheno	behavior/neurological phenotype::MP:0005386	124
+NCBIGene:358	NCBIGene:360	1588	pheno	endocrine/exocrine gland phenotype::MP:0005379	168
+NCBIGene:358	NCBIGene:360	1588	pheno	vision/eye phenotype::MP:0005391	156
+NCBIGene:358	NCBIGene:360	1588	pheno	hearing/vestibular/ear phenotype::MP:0005377	80
+NCBIGene:358	NCBIGene:360	1588	pheno	Dehydration::HP:0001944	164
+NCBIGene:358	NCBIGene:360	1588	pheno	Elevated tissue non-specific alkaline phosphatase::HP:0010679	40
+NCBIGene:358	NCBIGene:360	1588	pheno	hypoactivity::MP:0001402	8
+NCBIGene:358	NCBIGene:360	1588	pheno	Lethargy::HP:0001254	76
+NCBIGene:358	NCBIGene:360	1588	pheno	nervous system phenotype::MP:0003631	88
+NCBIGene:358	NCBIGene:360	1588	pheno	abnormal renal water transport::MP:0011443	116
+NCBIGene:358	NCBIGene:360	1588	pheno	Hyperproteinemia::HP:0002152	40
+NCBIGene:358	NCBIGene:360	1588	pheno	Glucose intolerance::HP:0000833	32
+NCBIGene:358	NCBIGene:360	1588	pheno	Functional respiratory abnormality::HP:0002795	8
+NCBIGene:358	NCBIGene:360	1588	pheno	decreased grip strength::MP:0010053	16
+NCBIGene:358	NCBIGene:360	1588	gene	aqp3b::ZFIN:ZDB-GENE-040724-66	64
+NCBIGene:358	NCBIGene:360	1588	gene	Aqp3::RGD:68428	256
+NCBIGene:358	NCBIGene:360	1588	gene	Vcp::MGI:99919	4
+NCBIGene:358	NCBIGene:360	1588	gene	AQP5::NCBIGene:362	180
+NCBIGene:358	NCBIGene:360	1588	gene	AQP4::NCBIGene:361	360
+NCBIGene:358	NCBIGene:360	1588	gene	AQP2::NCBIGene:359	256
+NCBIGene:358	NCBIGene:360	1588	gene	aqp4::ZFIN:ZDB-GENE-040724-152	72
+NCBIGene:358	NCBIGene:360	1588	gene	Aqp2::MGI:1096865	28
+NCBIGene:358	NCBIGene:360	1588	gene	AVP::NCBIGene:551	72
+NCBIGene:358	NCBIGene:360	1588	gene	Cav1::RGD:2280	12
+NCBIGene:358	NCBIGene:360	1588	gene	Aqp2::RGD:2142	60
+NCBIGene:358	NCBIGene:360	1588	gene	Aqp11::RGD:628763	8
+NCBIGene:358	NCBIGene:360	1588	gene	AQP8::NCBIGene:343	32
+NCBIGene:358	NCBIGene:360	1588	gene	vcp::ZFIN:ZDB-GENE-030131-5408	8
+NCBIGene:358	NCBIGene:360	1588	gene	STX4::NCBIGene:6810	8
+NCBIGene:358	NCBIGene:360	1588	gene	NFE2L2::NCBIGene:4780	8
+NCBIGene:358	NCBIGene:360	1588	gene	Aqp4::RGD:2143	24
+NCBIGene:358	NCBIGene:360	1588	gene	AQP11::NCBIGene:282679	20
+NCBIGene:358	NCBIGene:360	1588	gene	VCP::NCBIGene:7415	8
+NCBIGene:358	NCBIGene:360	1588	gene	EGFR::NCBIGene:1956	24
+NCBIGene:358	NCBIGene:360	1588	gene	Aqp5::RGD:2144	20
+NCBIGene:358	NCBIGene:360	1588	gene	Cav1::MGI:102709	16
+NCBIGene:358	NCBIGene:360	1588	gene	Nfe2l2::RGD:620360	8
+NCBIGene:358	NCBIGene:360	1588	gene	aqp11::ZFIN:ZDB-GENE-080418-1	8
+NCBIGene:358	NCBIGene:360	1588	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	8
+NCBIGene:358	NCBIGene:360	1588	gene	Egfr::RGD:2543	12
+NCBIGene:358	NCBIGene:360	1588	gene	CAV1::NCBIGene:857	8
+NCBIGene:358	NCBIGene:360	1588	gene	Stx4::RGD:621019	4
+NCBIGene:358	NCBIGene:360	1588	phys	transport::GO:0006810	108
+NCBIGene:358	NCBIGene:360	1588	phys	renal water absorption::GO:0070295	56
+NCBIGene:358	NCBIGene:360	1588	phys	odontogenesis::GO:0042476	72
+NCBIGene:358	NCBIGene:360	1588	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	76
+NCBIGene:358	NCBIGene:360	1588	phys	water transport::GO:0006833	100
+NCBIGene:358	NCBIGene:360	1588	phys	cellular response to hypoxia::GO:0071456	48
+NCBIGene:358	NCBIGene:360	1588	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	264
+NCBIGene:358	NCBIGene:360	1588	phys	Vasopressin regulates renal water homeostasis via Aquaporins::REACT:R-HSA-432040	192
+NCBIGene:358	NCBIGene:360	1588	phys	basolateral plasma membrane::GO:0016323	96
+NCBIGene:358	NCBIGene:360	1588	phys	response to retinoic acid::GO:0032526	32
+NCBIGene:358	NCBIGene:360	1588	phys	urea transport::GO:0015840	36
+NCBIGene:358	NCBIGene:360	1588	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	84
+NCBIGene:358	NCBIGene:360	1588	phys	response to calcium ion::GO:0051592	72
+NCBIGene:358	NCBIGene:360	1588	phys	renal water homeostasis::GO:0003091	48
+NCBIGene:358	NCBIGene:360	1588	phys	glycerol transport::GO:0015793	80
+NCBIGene:358	NCBIGene:360	1588	phys	cellular response to oxygen-glucose deprivation::GO:0090650	32
+NCBIGene:358	NCBIGene:360	1588	phys	transporter activity::GO:0005215	72
+NCBIGene:358	NCBIGene:360	1588	phys	excretion::GO:0007588	36
+NCBIGene:358	NCBIGene:360	1588	phys	Vasopressin-regulated water reabsorption::KEGG-path:maphsa04962	52
+NCBIGene:358	NCBIGene:360	1588	phys	glycerol channel activity::GO:0015254	32
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp1::MGI:103201	636
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp8::MGI:1195271	20
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp4::MGI:107387	120
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp3::MGI:1333777	192
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp2::MGI:1096865	64
+NCBIGene:358	NCBIGene:282679	636	ortho	Stx4a::MGI:893577	4
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp5::MGI:106215	100
+NCBIGene:358	NCBIGene:282679	636	ortho	CAV1::NCBIGene:857	12
+NCBIGene:358	NCBIGene:282679	636	ortho	AQP2::NCBIGene:359	4
+NCBIGene:358	NCBIGene:282679	636	ortho	Cav1::MGI:102709	16
+NCBIGene:358	NCBIGene:282679	636	ortho	Vcp::MGI:99919	32
+NCBIGene:358	NCBIGene:282679	636	ortho	Egfr::MGI:95294	12
+NCBIGene:358	NCBIGene:282679	636	ortho	FBXW7::NCBIGene:55294	4
+NCBIGene:358	NCBIGene:282679	636	ortho	Avp::MGI:88121	24
+NCBIGene:358	NCBIGene:282679	636	ortho	Fos::MGI:95574	8
+NCBIGene:358	NCBIGene:282679	636	ortho	Aqp11::MGI:1913583	12
+NCBIGene:358	NCBIGene:282679	636	ortho	VCP::NCBIGene:7415	8
+NCBIGene:358	NCBIGene:282679	636	ortho	AVP::NCBIGene:551	4
+NCBIGene:358	NCBIGene:282679	636	pheno	endocrine/exocrine gland phenotype::MP:0005379	64
+NCBIGene:358	NCBIGene:282679	636	pheno	decreased urine osmolality::MP:0002988	84
+NCBIGene:358	NCBIGene:282679	636	pheno	Elevated tissue non-specific alkaline phosphatase::HP:0010679	24
+NCBIGene:358	NCBIGene:282679	636	pheno	nervous system phenotype::MP:0003631	24
+NCBIGene:358	NCBIGene:282679	636	pheno	Dehydration::HP:0001944	36
+NCBIGene:358	NCBIGene:282679	636	pheno	Glucose intolerance::HP:0000833	16
+NCBIGene:358	NCBIGene:282679	636	pheno	behavior/neurological phenotype::MP:0005386	60
+NCBIGene:358	NCBIGene:282679	636	pheno	Lethargy::HP:0001254	24
+NCBIGene:358	NCBIGene:282679	636	pheno	hypoactivity::MP:0001402	8
+NCBIGene:358	NCBIGene:282679	636	pheno	Hyperproteinemia::HP:0002152	24
+NCBIGene:358	NCBIGene:282679	636	pheno	vision/eye phenotype::MP:0005391	64
+NCBIGene:358	NCBIGene:282679	636	pheno	hearing/vestibular/ear phenotype::MP:0005377	44
+NCBIGene:358	NCBIGene:282679	636	pheno	abnormal renal water transport::MP:0011443	44
+NCBIGene:358	NCBIGene:282679	636	pheno	increased blood osmolality::MP:0008997	40
+NCBIGene:358	NCBIGene:282679	636	pheno	decreased grip strength::MP:0010053	24
+NCBIGene:358	NCBIGene:282679	636	pheno	decreased bone mineral content::MP:0010124	24
+NCBIGene:358	NCBIGene:282679	636	pheno	prenatal lethality, incomplete penetrance::MP:0011101	20
+NCBIGene:358	NCBIGene:282679	636	pheno	Behavioral abnormality::HP:0000708	12
+NCBIGene:358	NCBIGene:282679	636	gene	AQP8::NCBIGene:343	16
+NCBIGene:358	NCBIGene:282679	636	gene	AQP4::NCBIGene:361	96
+NCBIGene:358	NCBIGene:282679	636	gene	AQP3::NCBIGene:360	160
+NCBIGene:358	NCBIGene:282679	636	gene	AQP2::NCBIGene:359	64
+NCBIGene:358	NCBIGene:282679	636	gene	STX4::NCBIGene:6810	4
+NCBIGene:358	NCBIGene:282679	636	gene	AQP5::NCBIGene:362	100
+NCBIGene:358	NCBIGene:282679	636	gene	aqp4::ZFIN:ZDB-GENE-040724-152	24
+NCBIGene:358	NCBIGene:282679	636	gene	Cav1::MGI:102709	12
+NCBIGene:358	NCBIGene:282679	636	gene	Aqp2::MGI:1096865	4
+NCBIGene:358	NCBIGene:282679	636	gene	CAV1::NCBIGene:857	16
+NCBIGene:358	NCBIGene:282679	636	gene	aqp3b::ZFIN:ZDB-GENE-040724-66	32
+NCBIGene:358	NCBIGene:282679	636	gene	VCP::NCBIGene:7415	24
+NCBIGene:358	NCBIGene:282679	636	gene	EGFR::NCBIGene:1956	12
+NCBIGene:358	NCBIGene:282679	636	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	4
+NCBIGene:358	NCBIGene:282679	636	gene	Fbxw7::MGI:1354695	4
+NCBIGene:358	NCBIGene:282679	636	gene	AVP::NCBIGene:551	24
+NCBIGene:358	NCBIGene:282679	636	gene	FOS::NCBIGene:2353	8
+NCBIGene:358	NCBIGene:282679	636	gene	vcp::ZFIN:ZDB-GENE-030131-5408	8
+NCBIGene:358	NCBIGene:282679	636	gene	Aqp11::RGD:628763	8
+NCBIGene:358	NCBIGene:282679	636	gene	Vcp::MGI:99919	8
+NCBIGene:358	NCBIGene:282679	636	gene	aqp11::ZFIN:ZDB-GENE-080418-1	4
+NCBIGene:358	NCBIGene:282679	636	gene	Avp::MGI:88121	4
+NCBIGene:358	NCBIGene:282679	636	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	192
+NCBIGene:358	NCBIGene:282679	636	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	112
+NCBIGene:358	NCBIGene:282679	636	phys	transporter activity::GO:0005215	100
+NCBIGene:358	NCBIGene:282679	636	phys	cell surface::GO:0009986	20
+NCBIGene:358	NCBIGene:282679	636	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	104
+NCBIGene:358	NCBIGene:282679	636	phys	endoplasmic reticulum::GO:0005783	64
+NCBIGene:358	NCBIGene:282679	636	phys	protein homooligomerization::GO:0051260	24
+NCBIGene:358	NCBIGene:282679	636	phys	dendrite::GO:0030425	12
+NCBIGene:358	NCBIGene:282679	636	phys	endosomal lumen acidification::GO:0048388	4
+NCBIGene:358	NCBIGene:282679	636	phys	proximal tubule development::GO:0072014	4
 NCBIGene:11826	NCBIGene:55768	0	NA	NA	0
 NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:358	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
-NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
 NCBIGene:11826	NCBIGene:4779	0	NA	NA	0
 NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:64772	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
-NCBIGene:11826	NCBIGene:360	0	NA	NA	0
 NCBIGene:11826	NCBIGene:360	0	NA	NA	0
 NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:11826	NCBIGene:282679	0	NA	NA	0
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp2::MGI:1096865	304
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp3::MGI:1333777	160
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp1::MGI:103201	96
-NCBIGene:4779	NCBIGene:55768	32	ortho	Cav1::MGI:102709	32
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp8::MGI:1195271	40
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp7::MGI:1314647	72
-NCBIGene:4779	NCBIGene:55768	32	ortho	Aqp4::MGI:107387	152
-NCBIGene:4779	NCBIGene:55768	32	ortho	Psmc1::MGI:106054	8
-NCBIGene:4779	NCBIGene:55768	32	ortho	Egfr::MGI:95294	72
-NCBIGene:4779	NCBIGene:55768	32	ortho	Avp::MGI:88121	72
-NCBIGene:4779	NCBIGene:55768	32	ortho	Vcp::MGI:99919	8
-NCBIGene:4779	NCBIGene:55768	32	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:4779	NCBIGene:55768	32	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:4779	NCBIGene:55768	32	pheno	premature death::MP:0002083	96
-NCBIGene:4779	NCBIGene:55768	32	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:4779	NCBIGene:55768	32	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:4779	NCBIGene:55768	32	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:4779	NCBIGene:55768	32	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:4779	NCBIGene:55768	32	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:4779	NCBIGene:55768	32	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:4779	NCBIGene:55768	32	pheno	Leukopenia::HP:0001882	16
-NCBIGene:4779	NCBIGene:55768	32	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:4779	NCBIGene:55768	32	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp2::MGI:1096865	304
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp3::MGI:1333777	160
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp1::MGI:103201	96
-NCBIGene:4779	NCBIGene:358	1672	ortho	Cav1::MGI:102709	32
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp8::MGI:1195271	40
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp7::MGI:1314647	72
-NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp4::MGI:107387	152
-NCBIGene:4779	NCBIGene:358	1672	ortho	Psmc1::MGI:106054	8
-NCBIGene:4779	NCBIGene:358	1672	ortho	Egfr::MGI:95294	72
-NCBIGene:4779	NCBIGene:358	1672	ortho	Avp::MGI:88121	72
-NCBIGene:4779	NCBIGene:358	1672	ortho	Vcp::MGI:99919	8
-NCBIGene:4779	NCBIGene:358	1672	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:4779	NCBIGene:358	1672	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:4779	NCBIGene:358	1672	pheno	premature death::MP:0002083	96
-NCBIGene:4779	NCBIGene:358	1672	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:4779	NCBIGene:358	1672	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:4779	NCBIGene:358	1672	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:4779	NCBIGene:358	1672	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:4779	NCBIGene:358	1672	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:4779	NCBIGene:358	1672	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:4779	NCBIGene:358	1672	pheno	Leukopenia::HP:0001882	16
-NCBIGene:4779	NCBIGene:358	1672	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:4779	NCBIGene:358	1672	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:4779	NCBIGene:55768	32	ortho	Nfe2l1::MGI:99421	32
+NCBIGene:4779	NCBIGene:55768	32	ortho	Derl1::MGI:1915069	8
+NCBIGene:4779	NCBIGene:55768	32	ortho	Amfr::MGI:1345634	24
+NCBIGene:4779	NCBIGene:55768	32	pheno	embryonic growth retardation::MP:0003984	8
+NCBIGene:4779	NCBIGene:55768	32	pheno	Hepatitis::HP:0012115	8
+NCBIGene:4779	NCBIGene:55768	32	pheno	Hepatic fibrosis::HP:0001395	8
+NCBIGene:4779	NCBIGene:55768	32	pheno	Hepatic steatosis::HP:0001397	8
+NCBIGene:4779	NCBIGene:55768	32	gene	DERL1::NCBIGene:79139	8
+NCBIGene:4779	NCBIGene:55768	32	gene	AMFR::NCBIGene:267	24
+NCBIGene:4779	NCBIGene:55768	32	phys	protein folding::GO:0006457	16
+NCBIGene:4779	NCBIGene:55768	32	phys	REACT:R-HSA-8850594::REACT:R-HSA-8850594	16
+NCBIGene:4779	NCBIGene:358	1672	ortho	Nfe2l1::MGI:99421	1672
+NCBIGene:4779	NCBIGene:358	1672	ortho	Egfr::MGI:95294	224
+NCBIGene:4779	NCBIGene:358	1672	ortho	Nfe2l2::MGI:108420	144
+NCBIGene:4779	NCBIGene:358	1672	ortho	Jun::MGI:96646	168
+NCBIGene:4779	NCBIGene:358	1672	ortho	CAV1::NCBIGene:857	300
+NCBIGene:4779	NCBIGene:358	1672	ortho	NFE2L2::NCBIGene:4780	140
+NCBIGene:4779	NCBIGene:358	1672	ortho	Gsk3b::MGI:1861437	60
+NCBIGene:4779	NCBIGene:358	1672	ortho	Cav1::MGI:102709	192
+NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp7::MGI:1314647	64
+NCBIGene:4779	NCBIGene:358	1672	ortho	Tcf4::MGI:98506	4
+NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp4::MGI:107387	104
+NCBIGene:4779	NCBIGene:358	1672	ortho	FOS::NCBIGene:2353	20
+NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp8::MGI:1195271	56
+NCBIGene:4779	NCBIGene:358	1672	ortho	Stx4a::MGI:893577	24
+NCBIGene:4779	NCBIGene:358	1672	ortho	Siah1a::MGI:108064	4
+NCBIGene:4779	NCBIGene:358	1672	ortho	Aqp11::MGI:1913583	40
+NCBIGene:4779	NCBIGene:358	1672	ortho	Derl1::MGI:1915069	4
+NCBIGene:4779	NCBIGene:358	1672	ortho	App::MGI:88059	8
+NCBIGene:4779	NCBIGene:358	1672	ortho	Fbxw7::MGI:1354695	40
+NCBIGene:4779	NCBIGene:358	1672	ortho	Exoc4::MGI:1096376	16
+NCBIGene:4779	NCBIGene:358	1672	ortho	Amfr::MGI:1345634	12
+NCBIGene:4779	NCBIGene:358	1672	ortho	Elavl1::MGI:1100851	8
+NCBIGene:4779	NCBIGene:358	1672	ortho	Hcfc1::MGI:105942	8
+NCBIGene:4779	NCBIGene:358	1672	ortho	Mdfi::MGI:107687	8
+NCBIGene:4779	NCBIGene:358	1672	ortho	Traf2::MGI:101835	12
+NCBIGene:4779	NCBIGene:358	1672	ortho	TCF4::NCBIGene:6925	12
+NCBIGene:4779	NCBIGene:358	1672	pheno	decreased embryo size::MP:0001698	56
+NCBIGene:4779	NCBIGene:358	1672	pheno	increased circulating alanine transaminase level::MP:0002941	24
+NCBIGene:4779	NCBIGene:358	1672	pheno	neonatal lethality, complete penetrance::MP:0011087	52
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hepatic steatosis::HP:0001397	120
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hepatitis::HP:0012115	32
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hepatic fibrosis::HP:0001395	100
+NCBIGene:4779	NCBIGene:358	1672	pheno	Insulin resistance::HP:0000855	128
+NCBIGene:4779	NCBIGene:358	1672	pheno	increased liver weight::MP:0002981	24
+NCBIGene:4779	NCBIGene:358	1672	pheno	homeostasis/metabolism phenotype::MP:0005376	276
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hyperglycemia::HP:0003074	88
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hyperinsulinemia::HP:0000842	164
+NCBIGene:4779	NCBIGene:358	1672	pheno	abnormal blood homeostasis::MP:0009642	24
+NCBIGene:4779	NCBIGene:358	1672	pheno	decreased hematocrit::MP:0000208	24
+NCBIGene:4779	NCBIGene:358	1672	pheno	embryonic growth retardation::MP:0003984	52
+NCBIGene:4779	NCBIGene:358	1672	pheno	embryonic lethality during organogenesis, complete penetrance::MP:0011098	80
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hepatic necrosis::HP:0002605	56
+NCBIGene:4779	NCBIGene:358	1672	pheno	Abnormal glucose homeostasis::HP:0011014	36
+NCBIGene:4779	NCBIGene:358	1672	pheno	growth/size/body region phenotype::MP:0005378	36
+NCBIGene:4779	NCBIGene:358	1672	pheno	embryonic lethality between implantation and somite formation, incomplete penetrance::MP:0011106	32
+NCBIGene:4779	NCBIGene:358	1672	pheno	lethality throughout fetal growth and development, incomplete penetrance::MP:0011109	44
+NCBIGene:4779	NCBIGene:358	1672	pheno	oxidative stress::MP:0003674	52
+NCBIGene:4779	NCBIGene:358	1672	pheno	small liver::MP:0000601	4
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hypoinsulinemia::HP:0040216	12
+NCBIGene:4779	NCBIGene:358	1672	pheno	increased circulating aspartate transaminase level::MP:0005343	20
+NCBIGene:4779	NCBIGene:358	1672	pheno	decreased circulating glucose level::MP:0005560	36
+NCBIGene:4779	NCBIGene:358	1672	pheno	Hepatocellular carcinoma::HP:0001402	32
+NCBIGene:4779	NCBIGene:358	1672	pheno	increased nucleated erythrocyte cell number::MP:0009395	28
+NCBIGene:4779	NCBIGene:358	1672	pheno	abnormal pancreatic beta cell morphology::MP:0005217	32
+NCBIGene:4779	NCBIGene:358	1672	pheno	Pallor::HP:0000980	8
+NCBIGene:4779	NCBIGene:358	1672	gene	Egfr::RGD:2543	84
+NCBIGene:4779	NCBIGene:358	1672	gene	NFE2L2::NCBIGene:4780	72
+NCBIGene:4779	NCBIGene:358	1672	gene	Jun::RGD:2943	48
+NCBIGene:4779	NCBIGene:358	1672	gene	Cav1::MGI:102709	240
+NCBIGene:4779	NCBIGene:358	1672	gene	Nfe2l2::MGI:108420	80
+NCBIGene:4779	NCBIGene:358	1672	gene	Gsk3b::RGD:70982	40
+NCBIGene:4779	NCBIGene:358	1672	gene	CAV1::NCBIGene:857	96
+NCBIGene:4779	NCBIGene:358	1672	gene	Cav1::RGD:2280	156
+NCBIGene:4779	NCBIGene:358	1672	gene	Aqp7::RGD:2145	16
+NCBIGene:4779	NCBIGene:358	1672	gene	EGFR::NCBIGene:1956	140
+NCBIGene:4779	NCBIGene:358	1672	gene	Nfe2l2::RGD:620360	132
+NCBIGene:4779	NCBIGene:358	1672	gene	TCF4::NCBIGene:6925	4
+NCBIGene:4779	NCBIGene:358	1672	gene	Aqp4::RGD:2143	24
+NCBIGene:4779	NCBIGene:358	1672	gene	Fos::MGI:95574	20
+NCBIGene:4779	NCBIGene:358	1672	gene	jun::ZFIN:ZDB-GENE-030131-7859	24
+NCBIGene:4779	NCBIGene:358	1672	gene	JUN::NCBIGene:3725	96
+NCBIGene:4779	NCBIGene:358	1672	gene	AQP8::NCBIGene:343	44
+NCBIGene:4779	NCBIGene:358	1672	gene	AQP7::NCBIGene:364	36
+NCBIGene:4779	NCBIGene:358	1672	gene	Stx4::RGD:621019	16
+NCBIGene:4779	NCBIGene:358	1672	gene	SIAH1::NCBIGene:6477	4
+NCBIGene:4779	NCBIGene:358	1672	gene	aqp4::ZFIN:ZDB-GENE-040724-152	12
+NCBIGene:4779	NCBIGene:358	1672	gene	Aqp11::RGD:628763	8
+NCBIGene:4779	NCBIGene:358	1672	gene	AQP4::NCBIGene:361	68
+NCBIGene:4779	NCBIGene:358	1672	gene	DERL1::NCBIGene:79139	4
+NCBIGene:4779	NCBIGene:358	1672	gene	AQP11::NCBIGene:282679	32
+NCBIGene:4779	NCBIGene:358	1672	gene	App::RGD:2139	8
+NCBIGene:4779	NCBIGene:358	1672	gene	FBXW7::NCBIGene:55294	20
+NCBIGene:4779	NCBIGene:358	1672	gene	Sec8::FlyBase:FBgn0266672	16
+NCBIGene:4779	NCBIGene:358	1672	gene	AMFR::NCBIGene:267	12
+NCBIGene:4779	NCBIGene:358	1672	gene	Aqp8::RGD:2146	4
+NCBIGene:4779	NCBIGene:358	1672	gene	Fbxw7::RGD:2321145	20
+NCBIGene:4779	NCBIGene:358	1672	gene	aqp7::ZFIN:ZDB-GENE-030131-6461	12
+NCBIGene:4779	NCBIGene:358	1672	gene	elavl1a::ZFIN:ZDB-GENE-990415-245	8
+NCBIGene:4779	NCBIGene:358	1672	gene	HCFC1::NCBIGene:3054	8
+NCBIGene:4779	NCBIGene:358	1672	gene	GSK3B::NCBIGene:2932	20
+NCBIGene:4779	NCBIGene:358	1672	gene	MDFI::NCBIGene:4188	8
+NCBIGene:4779	NCBIGene:358	1672	gene	Traf2::RGD:1310457	4
+NCBIGene:4779	NCBIGene:358	1672	gene	STX4::NCBIGene:6810	8
+NCBIGene:4779	NCBIGene:358	1672	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	8
+NCBIGene:4779	NCBIGene:358	1672	gene	TRAF2::NCBIGene:7186	8
+NCBIGene:4779	NCBIGene:358	1672	gene	Tcf4::MGI:98506	12
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to dexamethasone stimulus::GO:0071549	56
+NCBIGene:4779	NCBIGene:358	1672	phys	positive regulation of angiogenesis::GO:0045766	116
+NCBIGene:4779	NCBIGene:358	1672	phys	positive regulation of fibroblast proliferation::GO:0048146	76
+NCBIGene:4779	NCBIGene:358	1672	phys	identical protein binding::GO:0042802	144
+NCBIGene:4779	NCBIGene:358	1672	phys	wound healing::GO:0042060	48
+NCBIGene:4779	NCBIGene:358	1672	phys	basolateral plasma membrane::GO:0016323	92
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to hydrogen peroxide::GO:0070301	128
+NCBIGene:4779	NCBIGene:358	1672	phys	response to estrogen::GO:0043627	124
+NCBIGene:4779	NCBIGene:358	1672	phys	apical plasma membrane::GO:0016324	56
+NCBIGene:4779	NCBIGene:358	1672	phys	basal plasma membrane::GO:0009925	104
+NCBIGene:4779	NCBIGene:358	1672	phys	brush border membrane::GO:0031526	4
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to hypoxia::GO:0071456	68
+NCBIGene:4779	NCBIGene:358	1672	phys	sarcolemma::GO:0042383	12
+NCBIGene:4779	NCBIGene:358	1672	phys	response to drug::GO:0042493	68
+NCBIGene:4779	NCBIGene:358	1672	phys	integral component of plasma membrane::GO:0005887	72
+NCBIGene:4779	NCBIGene:358	1672	phys	positive regulation of epithelial cell migration::GO:0010634	48
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to mechanical stimulus::GO:0071260	140
+NCBIGene:4779	NCBIGene:358	1672	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	64
+NCBIGene:4779	NCBIGene:358	1672	phys	nuclear membrane::GO:0031965	28
+NCBIGene:4779	NCBIGene:358	1672	phys	renal water absorption::GO:0070295	8
+NCBIGene:4779	NCBIGene:358	1672	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	20
+NCBIGene:4779	NCBIGene:358	1672	phys	glycerol transport::GO:0015793	16
+NCBIGene:4779	NCBIGene:358	1672	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	24
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to cAMP::GO:0071320	16
+NCBIGene:4779	NCBIGene:358	1672	phys	hyperosmotic salinity response::GO:0042538	4
+NCBIGene:4779	NCBIGene:358	1672	phys	Vasopressin regulates renal water homeostasis via Aquaporins::REACT:R-HSA-432040	16
+NCBIGene:4779	NCBIGene:358	1672	phys	water transport::GO:0006833	16
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to UV::GO:0034644	20
+NCBIGene:4779	NCBIGene:358	1672	phys	multicellular organismal water homeostasis::GO:0050891	8
+NCBIGene:4779	NCBIGene:358	1672	phys	Bile secretion::KEGG-path:maphsa04976	8
+NCBIGene:4779	NCBIGene:358	1672	phys	glycerol transmembrane transporter activity::GO:0015168	8
+NCBIGene:4779	NCBIGene:358	1672	phys	renal water homeostasis::GO:0003091	4
+NCBIGene:4779	NCBIGene:358	1672	phys	axon::GO:0030424	4
+NCBIGene:4779	NCBIGene:358	1672	phys	carbon dioxide transport::GO:0015670	4
+NCBIGene:4779	NCBIGene:358	1672	phys	negative regulation of apoptotic process::GO:0043066	20
+NCBIGene:4779	NCBIGene:358	1672	phys	cellular response to nitric oxide::GO:0071732	8
+NCBIGene:4779	NCBIGene:358	1672	phys	water transmembrane transporter activity::GO:0005372	16
+NCBIGene:4779	NCBIGene:358	1672	phys	apical part of cell::GO:0045177	4
 NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:11826	0	NA	NA	0
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp2::MGI:1096865	304
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp3::MGI:1333777	160
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp1::MGI:103201	96
-NCBIGene:4779	NCBIGene:64772	16	ortho	Cav1::MGI:102709	32
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp8::MGI:1195271	40
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp7::MGI:1314647	72
-NCBIGene:4779	NCBIGene:64772	16	ortho	Aqp4::MGI:107387	152
-NCBIGene:4779	NCBIGene:64772	16	ortho	Psmc1::MGI:106054	8
-NCBIGene:4779	NCBIGene:64772	16	ortho	Egfr::MGI:95294	72
-NCBIGene:4779	NCBIGene:64772	16	ortho	Avp::MGI:88121	72
-NCBIGene:4779	NCBIGene:64772	16	ortho	Vcp::MGI:99919	8
-NCBIGene:4779	NCBIGene:64772	16	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:4779	NCBIGene:64772	16	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:4779	NCBIGene:64772	16	pheno	premature death::MP:0002083	96
-NCBIGene:4779	NCBIGene:64772	16	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:4779	NCBIGene:64772	16	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:4779	NCBIGene:64772	16	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:4779	NCBIGene:64772	16	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:4779	NCBIGene:64772	16	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:4779	NCBIGene:64772	16	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:4779	NCBIGene:64772	16	pheno	Leukopenia::HP:0001882	16
-NCBIGene:4779	NCBIGene:64772	16	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:4779	NCBIGene:64772	16	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:4779	NCBIGene:360	604	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:4779	NCBIGene:360	604	ortho	Aqp2::MGI:1096865	304
-NCBIGene:4779	NCBIGene:360	604	ortho	Aqp3::MGI:1333777	160
-NCBIGene:4779	NCBIGene:360	604	ortho	Aqp1::MGI:103201	96
-NCBIGene:4779	NCBIGene:360	604	ortho	Cav1::MGI:102709	32
-NCBIGene:4779	NCBIGene:360	604	ortho	Aqp8::MGI:1195271	40
+NCBIGene:4779	NCBIGene:64772	16	ortho	Nfe2l1::MGI:99421	16
+NCBIGene:4779	NCBIGene:64772	16	ortho	Amfr::MGI:1345634	12
+NCBIGene:4779	NCBIGene:64772	16	ortho	Derl1::MGI:1915069	4
+NCBIGene:4779	NCBIGene:64772	16	pheno	Hepatitis::HP:0012115	4
+NCBIGene:4779	NCBIGene:64772	16	pheno	embryonic growth retardation::MP:0003984	4
+NCBIGene:4779	NCBIGene:64772	16	pheno	Hepatic steatosis::HP:0001397	4
+NCBIGene:4779	NCBIGene:64772	16	pheno	Hepatic fibrosis::HP:0001395	4
+NCBIGene:4779	NCBIGene:64772	16	gene	AMFR::NCBIGene:267	12
+NCBIGene:4779	NCBIGene:64772	16	gene	DERL1::NCBIGene:79139	4
+NCBIGene:4779	NCBIGene:64772	16	phys	protein folding::GO:0006457	16
+NCBIGene:4779	NCBIGene:360	604	ortho	Nfe2l1::MGI:99421	604
+NCBIGene:4779	NCBIGene:360	604	ortho	Aqp11::MGI:1913583	72
+NCBIGene:4779	NCBIGene:360	604	ortho	Cav1::MGI:102709	64
 NCBIGene:4779	NCBIGene:360	604	ortho	Aqp7::MGI:1314647	72
-NCBIGene:4779	NCBIGene:360	604	ortho	Aqp4::MGI:107387	152
-NCBIGene:4779	NCBIGene:360	604	ortho	Psmc1::MGI:106054	8
-NCBIGene:4779	NCBIGene:360	604	ortho	Egfr::MGI:95294	72
-NCBIGene:4779	NCBIGene:360	604	ortho	Avp::MGI:88121	72
-NCBIGene:4779	NCBIGene:360	604	ortho	Vcp::MGI:99919	8
-NCBIGene:4779	NCBIGene:360	604	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:4779	NCBIGene:360	604	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:4779	NCBIGene:360	604	pheno	premature death::MP:0002083	96
-NCBIGene:4779	NCBIGene:360	604	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:4779	NCBIGene:360	604	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:4779	NCBIGene:360	604	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:4779	NCBIGene:360	604	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:4779	NCBIGene:360	604	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:4779	NCBIGene:360	604	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:4779	NCBIGene:360	604	pheno	Leukopenia::HP:0001882	16
-NCBIGene:4779	NCBIGene:360	604	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:4779	NCBIGene:360	604	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp2::MGI:1096865	304
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp3::MGI:1333777	160
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp1::MGI:103201	96
-NCBIGene:4779	NCBIGene:282679	320	ortho	Cav1::MGI:102709	32
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp8::MGI:1195271	40
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp7::MGI:1314647	72
-NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp4::MGI:107387	152
-NCBIGene:4779	NCBIGene:282679	320	ortho	Psmc1::MGI:106054	8
-NCBIGene:4779	NCBIGene:282679	320	ortho	Egfr::MGI:95294	72
-NCBIGene:4779	NCBIGene:282679	320	ortho	Avp::MGI:88121	72
-NCBIGene:4779	NCBIGene:282679	320	ortho	Vcp::MGI:99919	8
-NCBIGene:4779	NCBIGene:282679	320	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:4779	NCBIGene:282679	320	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:4779	NCBIGene:282679	320	pheno	premature death::MP:0002083	96
-NCBIGene:4779	NCBIGene:282679	320	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:4779	NCBIGene:282679	320	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:4779	NCBIGene:282679	320	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:4779	NCBIGene:282679	320	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:4779	NCBIGene:282679	320	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:4779	NCBIGene:282679	320	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:4779	NCBIGene:282679	320	pheno	Leukopenia::HP:0001882	16
-NCBIGene:4779	NCBIGene:282679	320	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:4779	NCBIGene:282679	320	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
-NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
+NCBIGene:4779	NCBIGene:360	604	ortho	Derl1::MGI:1915069	4
+NCBIGene:4779	NCBIGene:360	604	ortho	Stx4a::MGI:893577	24
+NCBIGene:4779	NCBIGene:360	604	ortho	Egfr::MGI:95294	84
+NCBIGene:4779	NCBIGene:360	604	ortho	Nfe2l2::MGI:108420	48
+NCBIGene:4779	NCBIGene:360	604	ortho	CAV1::NCBIGene:857	100
+NCBIGene:4779	NCBIGene:360	604	ortho	Aqp8::MGI:1195271	40
+NCBIGene:4779	NCBIGene:360	604	ortho	Aqp4::MGI:107387	76
+NCBIGene:4779	NCBIGene:360	604	ortho	NFE2L2::NCBIGene:4780	20
+NCBIGene:4779	NCBIGene:360	604	pheno	homeostasis/metabolism phenotype::MP:0005376	180
+NCBIGene:4779	NCBIGene:360	604	pheno	abnormal blood homeostasis::MP:0009642	8
+NCBIGene:4779	NCBIGene:360	604	pheno	Hyperinsulinemia::HP:0000842	112
+NCBIGene:4779	NCBIGene:360	604	pheno	embryonic growth retardation::MP:0003984	4
+NCBIGene:4779	NCBIGene:360	604	pheno	embryonic lethality between implantation and somite formation, incomplete penetrance::MP:0011106	12
+NCBIGene:4779	NCBIGene:360	604	pheno	Insulin resistance::HP:0000855	44
+NCBIGene:4779	NCBIGene:360	604	pheno	decreased embryo size::MP:0001698	12
+NCBIGene:4779	NCBIGene:360	604	pheno	oxidative stress::MP:0003674	8
+NCBIGene:4779	NCBIGene:360	604	pheno	abnormal pancreatic beta cell morphology::MP:0005217	12
+NCBIGene:4779	NCBIGene:360	604	pheno	decreased hematocrit::MP:0000208	8
+NCBIGene:4779	NCBIGene:360	604	pheno	Hepatitis::HP:0012115	8
+NCBIGene:4779	NCBIGene:360	604	pheno	increased circulating aspartate transaminase level::MP:0005343	36
+NCBIGene:4779	NCBIGene:360	604	pheno	Hyperglycemia::HP:0003074	28
+NCBIGene:4779	NCBIGene:360	604	pheno	decreased circulating glucose level::MP:0005560	8
+NCBIGene:4779	NCBIGene:360	604	pheno	increased circulating alanine transaminase level::MP:0002941	8
+NCBIGene:4779	NCBIGene:360	604	pheno	lethality throughout fetal growth and development, incomplete penetrance::MP:0011109	12
+NCBIGene:4779	NCBIGene:360	604	pheno	Hepatic steatosis::HP:0001397	32
+NCBIGene:4779	NCBIGene:360	604	pheno	Hepatic fibrosis::HP:0001395	24
+NCBIGene:4779	NCBIGene:360	604	pheno	Hepatocellular carcinoma::HP:0001402	4
+NCBIGene:4779	NCBIGene:360	604	pheno	Abnormal glucose homeostasis::HP:0011014	8
+NCBIGene:4779	NCBIGene:360	604	pheno	growth/size/body region phenotype::MP:0005378	12
+NCBIGene:4779	NCBIGene:360	604	pheno	increased liver weight::MP:0002981	8
+NCBIGene:4779	NCBIGene:360	604	pheno	embryonic lethality during organogenesis, complete penetrance::MP:0011098	12
+NCBIGene:4779	NCBIGene:360	604	pheno	Hepatic necrosis::HP:0002605	4
+NCBIGene:4779	NCBIGene:360	604	gene	AQP11::NCBIGene:282679	40
+NCBIGene:4779	NCBIGene:360	604	gene	Cav1::RGD:2280	52
+NCBIGene:4779	NCBIGene:360	604	gene	AQP7::NCBIGene:364	44
+NCBIGene:4779	NCBIGene:360	604	gene	aqp7::ZFIN:ZDB-GENE-030131-6461	8
+NCBIGene:4779	NCBIGene:360	604	gene	DERL1::NCBIGene:79139	4
+NCBIGene:4779	NCBIGene:360	604	gene	STX4::NCBIGene:6810	16
+NCBIGene:4779	NCBIGene:360	604	gene	EGFR::NCBIGene:1956	56
+NCBIGene:4779	NCBIGene:360	604	gene	Stx4::RGD:621019	8
+NCBIGene:4779	NCBIGene:360	604	gene	NFE2L2::NCBIGene:4780	24
+NCBIGene:4779	NCBIGene:360	604	gene	Egfr::RGD:2543	28
+NCBIGene:4779	NCBIGene:360	604	gene	Nfe2l2::RGD:620360	44
+NCBIGene:4779	NCBIGene:360	604	gene	Aqp7::RGD:2145	20
+NCBIGene:4779	NCBIGene:360	604	gene	AQP8::NCBIGene:343	32
+NCBIGene:4779	NCBIGene:360	604	gene	Cav1::MGI:102709	80
+NCBIGene:4779	NCBIGene:360	604	gene	CAV1::NCBIGene:857	32
+NCBIGene:4779	NCBIGene:360	604	gene	AQP4::NCBIGene:361	60
+NCBIGene:4779	NCBIGene:360	604	gene	aqp11::ZFIN:ZDB-GENE-080418-1	16
+NCBIGene:4779	NCBIGene:360	604	gene	Aqp11::RGD:628763	16
+NCBIGene:4779	NCBIGene:360	604	gene	Aqp4::RGD:2143	4
+NCBIGene:4779	NCBIGene:360	604	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	8
+NCBIGene:4779	NCBIGene:360	604	gene	aqp4::ZFIN:ZDB-GENE-040724-152	12
+NCBIGene:4779	NCBIGene:360	604	phys	transporter activity::GO:0005215	28
+NCBIGene:4779	NCBIGene:360	604	phys	response to calcium ion::GO:0051592	180
+NCBIGene:4779	NCBIGene:360	604	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	24
+NCBIGene:4779	NCBIGene:360	604	phys	transport::GO:0006810	28
+NCBIGene:4779	NCBIGene:360	604	phys	Vasopressin-regulated water reabsorption::KEGG-path:maphsa04962	12
+NCBIGene:4779	NCBIGene:360	604	phys	basolateral plasma membrane::GO:0016323	92
+NCBIGene:4779	NCBIGene:360	604	phys	cellular response to hypoxia::GO:0071456	68
+NCBIGene:4779	NCBIGene:360	604	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	64
+NCBIGene:4779	NCBIGene:360	604	phys	water transport::GO:0006833	16
+NCBIGene:4779	NCBIGene:360	604	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	20
+NCBIGene:4779	NCBIGene:360	604	phys	renal water homeostasis::GO:0003091	4
+NCBIGene:4779	NCBIGene:360	604	phys	cell-cell junction::GO:0005911	4
+NCBIGene:4779	NCBIGene:360	604	phys	glycerol transport::GO:0015793	16
+NCBIGene:4779	NCBIGene:360	604	phys	renal water absorption::GO:0070295	8
+NCBIGene:4779	NCBIGene:360	604	phys	Vasopressin regulates renal water homeostasis via Aquaporins::REACT:R-HSA-432040	16
+NCBIGene:4779	NCBIGene:360	604	phys	glycerol channel activity::GO:0015254	8
+NCBIGene:4779	NCBIGene:360	604	phys	urea transport::GO:0015840	12
+NCBIGene:4779	NCBIGene:360	604	phys	excretion::GO:0007588	4
+NCBIGene:4779	NCBIGene:282679	320	ortho	Nfe2l1::MGI:99421	320
+NCBIGene:4779	NCBIGene:282679	320	ortho	Egfr::MGI:95294	28
+NCBIGene:4779	NCBIGene:282679	320	ortho	FOS::NCBIGene:2353	20
+NCBIGene:4779	NCBIGene:282679	320	ortho	Stx4a::MGI:893577	8
+NCBIGene:4779	NCBIGene:282679	320	ortho	Cav1::MGI:102709	64
+NCBIGene:4779	NCBIGene:282679	320	ortho	Amfr::MGI:1345634	36
+NCBIGene:4779	NCBIGene:282679	320	ortho	CAV1::NCBIGene:857	60
+NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp7::MGI:1314647	20
+NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp4::MGI:107387	20
+NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp11::MGI:1913583	24
+NCBIGene:4779	NCBIGene:282679	320	ortho	Derl1::MGI:1915069	16
+NCBIGene:4779	NCBIGene:282679	320	ortho	Aqp8::MGI:1195271	20
+NCBIGene:4779	NCBIGene:282679	320	ortho	Hcfc1::MGI:105942	4
+NCBIGene:4779	NCBIGene:282679	320	pheno	growth/size/body region phenotype::MP:0005378	4
+NCBIGene:4779	NCBIGene:282679	320	pheno	Hepatic steatosis::HP:0001397	28
+NCBIGene:4779	NCBIGene:282679	320	pheno	Insulin resistance::HP:0000855	28
+NCBIGene:4779	NCBIGene:282679	320	pheno	homeostasis/metabolism phenotype::MP:0005376	64
+NCBIGene:4779	NCBIGene:282679	320	pheno	Hyperinsulinemia::HP:0000842	48
+NCBIGene:4779	NCBIGene:282679	320	pheno	Hyperglycemia::HP:0003074	24
+NCBIGene:4779	NCBIGene:282679	320	pheno	Abnormal glucose homeostasis::HP:0011014	8
+NCBIGene:4779	NCBIGene:282679	320	pheno	increased circulating aspartate transaminase level::MP:0005343	12
+NCBIGene:4779	NCBIGene:282679	320	pheno	embryonic growth retardation::MP:0003984	16
+NCBIGene:4779	NCBIGene:282679	320	pheno	embryonic lethality during organogenesis, complete penetrance::MP:0011098	4
+NCBIGene:4779	NCBIGene:282679	320	pheno	Hepatic fibrosis::HP:0001395	28
+NCBIGene:4779	NCBIGene:282679	320	pheno	lethality throughout fetal growth and development, incomplete penetrance::MP:0011109	4
+NCBIGene:4779	NCBIGene:282679	320	pheno	Hepatitis::HP:0012115	12
+NCBIGene:4779	NCBIGene:282679	320	pheno	increased liver weight::MP:0002981	8
+NCBIGene:4779	NCBIGene:282679	320	pheno	abnormal blood homeostasis::MP:0009642	8
+NCBIGene:4779	NCBIGene:282679	320	pheno	abnormal pancreatic beta cell morphology::MP:0005217	4
+NCBIGene:4779	NCBIGene:282679	320	pheno	decreased circulating glucose level::MP:0005560	8
+NCBIGene:4779	NCBIGene:282679	320	pheno	decreased embryo size::MP:0001698	8
+NCBIGene:4779	NCBIGene:282679	320	pheno	embryonic lethality between implantation and somite formation, incomplete penetrance::MP:0011106	4
+NCBIGene:4779	NCBIGene:282679	320	gene	EGFR::NCBIGene:1956	28
+NCBIGene:4779	NCBIGene:282679	320	gene	Fos::MGI:95574	20
+NCBIGene:4779	NCBIGene:282679	320	gene	STX4::NCBIGene:6810	8
+NCBIGene:4779	NCBIGene:282679	320	gene	CAV1::NCBIGene:857	64
+NCBIGene:4779	NCBIGene:282679	320	gene	AMFR::NCBIGene:267	24
+NCBIGene:4779	NCBIGene:282679	320	gene	Cav1::MGI:102709	60
+NCBIGene:4779	NCBIGene:282679	320	gene	AQP7::NCBIGene:364	16
+NCBIGene:4779	NCBIGene:282679	320	gene	AQP4::NCBIGene:361	16
+NCBIGene:4779	NCBIGene:282679	320	gene	Aqp11::RGD:628763	16
+NCBIGene:4779	NCBIGene:282679	320	gene	DERL1::NCBIGene:79139	12
+NCBIGene:4779	NCBIGene:282679	320	gene	aqp11::ZFIN:ZDB-GENE-080418-1	8
+NCBIGene:4779	NCBIGene:282679	320	gene	amfra::ZFIN:ZDB-GENE-040426-2190	12
+NCBIGene:4779	NCBIGene:282679	320	gene	AQP8::NCBIGene:343	16
+NCBIGene:4779	NCBIGene:282679	320	gene	derl1::ZFIN:ZDB-GENE-040426-2793	4
+NCBIGene:4779	NCBIGene:282679	320	gene	aqp7::ZFIN:ZDB-GENE-030131-6461	4
+NCBIGene:4779	NCBIGene:282679	320	gene	aqp4::ZFIN:ZDB-GENE-040724-152	4
+NCBIGene:4779	NCBIGene:282679	320	gene	HCFC1::NCBIGene:3054	4
+NCBIGene:4779	NCBIGene:282679	320	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	4
+NCBIGene:4779	NCBIGene:282679	320	phys	cell surface::GO:0009986	56
+NCBIGene:4779	NCBIGene:282679	320	phys	endoplasmic reticulum::GO:0005783	104
+NCBIGene:4779	NCBIGene:282679	320	phys	protein homooligomerization::GO:0051260	56
+NCBIGene:4779	NCBIGene:282679	320	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	24
+NCBIGene:4779	NCBIGene:282679	320	phys	proximal tubule development::GO:0072014	8
+NCBIGene:4779	NCBIGene:282679	320	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	16
+NCBIGene:4779	NCBIGene:282679	320	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	12
+NCBIGene:4779	NCBIGene:282679	320	phys	endosomal lumen acidification::GO:0048388	8
+NCBIGene:4779	NCBIGene:282679	320	phys	transporter activity::GO:0005215	20
+NCBIGene:4779	NCBIGene:282679	320	phys	dendrite::GO:0030425	16
 NCBIGene:64772	NCBIGene:55768	0	NA	NA	0
 NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:358	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
-NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
 NCBIGene:64772	NCBIGene:11826	0	NA	NA	0
 NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:4779	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
-NCBIGene:64772	NCBIGene:360	0	NA	NA	0
 NCBIGene:64772	NCBIGene:360	0	NA	NA	0
 NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
-NCBIGene:64772	NCBIGene:282679	0	NA	NA	0
 NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:55768	0	NA	NA	0
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp2::MGI:1096865	304
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp3::MGI:1333777	160
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp1::MGI:103201	96
-NCBIGene:360	NCBIGene:358	3952	ortho	Cav1::MGI:102709	32
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp8::MGI:1195271	40
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp7::MGI:1314647	72
-NCBIGene:360	NCBIGene:358	3952	ortho	Aqp4::MGI:107387	152
-NCBIGene:360	NCBIGene:358	3952	ortho	Psmc1::MGI:106054	8
-NCBIGene:360	NCBIGene:358	3952	ortho	Egfr::MGI:95294	72
-NCBIGene:360	NCBIGene:358	3952	ortho	Avp::MGI:88121	72
-NCBIGene:360	NCBIGene:358	3952	ortho	Vcp::MGI:99919	8
-NCBIGene:360	NCBIGene:358	3952	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:360	NCBIGene:358	3952	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:360	NCBIGene:358	3952	pheno	premature death::MP:0002083	96
-NCBIGene:360	NCBIGene:358	3952	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:360	NCBIGene:358	3952	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:360	NCBIGene:358	3952	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:360	NCBIGene:358	3952	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:360	NCBIGene:358	3952	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:360	NCBIGene:358	3952	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:360	NCBIGene:358	3952	pheno	Leukopenia::HP:0001882	16
-NCBIGene:360	NCBIGene:358	3952	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:360	NCBIGene:358	3952	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:360	NCBIGene:358	3952	ortho	Aqp3::MGI:1333777	3952
+NCBIGene:360	NCBIGene:358	3952	ortho	Aqp1::MGI:103201	2176
+NCBIGene:360	NCBIGene:358	3952	ortho	AQP2::NCBIGene:359	216
+NCBIGene:360	NCBIGene:358	3952	ortho	Aqp2::MGI:1096865	580
+NCBIGene:360	NCBIGene:358	3952	ortho	AVP::NCBIGene:551	64
+NCBIGene:360	NCBIGene:358	3952	ortho	Aqp4::MGI:107387	312
+NCBIGene:360	NCBIGene:358	3952	ortho	Egfr::MGI:95294	96
+NCBIGene:360	NCBIGene:358	3952	ortho	NFE2L2::NCBIGene:4780	56
+NCBIGene:360	NCBIGene:358	3952	ortho	Aqp11::MGI:1913583	80
+NCBIGene:360	NCBIGene:358	3952	ortho	Aqp5::MGI:106215	160
+NCBIGene:360	NCBIGene:358	3952	ortho	Avp::MGI:88121	112
+NCBIGene:360	NCBIGene:358	3952	ortho	Cav1::MGI:102709	48
+NCBIGene:360	NCBIGene:358	3952	ortho	Nfe2l2::MGI:108420	24
+NCBIGene:360	NCBIGene:358	3952	ortho	Ikzf3::MGI:1342542	4
+NCBIGene:360	NCBIGene:358	3952	ortho	Fos::MGI:95574	4
+NCBIGene:360	NCBIGene:358	3952	ortho	Elavl1::MGI:1100851	8
+NCBIGene:360	NCBIGene:358	3952	ortho	App::MGI:88059	8
+NCBIGene:360	NCBIGene:358	3952	ortho	TCF4::NCBIGene:6925	4
+NCBIGene:360	NCBIGene:358	3952	pheno	decreased urine osmolality::MP:0002988	568
+NCBIGene:360	NCBIGene:358	3952	pheno	Polydipsia::HP:0001959	256
+NCBIGene:360	NCBIGene:358	3952	pheno	hearing/vestibular/ear phenotype::MP:0005377	352
+NCBIGene:360	NCBIGene:358	3952	pheno	abnormal renal water transport::MP:0011443	376
+NCBIGene:360	NCBIGene:358	3952	pheno	increased blood osmolality::MP:0008997	388
+NCBIGene:360	NCBIGene:358	3952	pheno	Increased blood urea nitrogen::HP:0003138	196
+NCBIGene:360	NCBIGene:358	3952	pheno	Osteopenia::HP:0000938	36
+NCBIGene:360	NCBIGene:358	3952	pheno	Polyuria::HP:0000103	280
+NCBIGene:360	NCBIGene:358	3952	pheno	Elevated tissue non-specific alkaline phosphatase::HP:0010679	272
+NCBIGene:360	NCBIGene:358	3952	pheno	decreased bone mineral content::MP:0010124	272
+NCBIGene:360	NCBIGene:358	3952	pheno	increased sensitivity to induced morbidity/mortality::MP:0009763	60
+NCBIGene:360	NCBIGene:358	3952	pheno	vision/eye phenotype::MP:0005391	456
+NCBIGene:360	NCBIGene:358	3952	pheno	Elevated serum creatinine::HP:0003259	84
+NCBIGene:360	NCBIGene:358	3952	pheno	Hyperproteinemia::HP:0002152	272
+NCBIGene:360	NCBIGene:358	3952	pheno	Hypotriglyceridemia::HP:0012153	20
+NCBIGene:360	NCBIGene:358	3952	pheno	increased susceptibility to induced colitis::MP:0008537	32
+NCBIGene:360	NCBIGene:358	3952	pheno	Gastrointestinal hemorrhage::HP:0002239	28
+NCBIGene:360	NCBIGene:358	3952	pheno	abnormal olfactory epithelium morphology::MP:0008789	4
+NCBIGene:360	NCBIGene:358	3952	gene	Aqp1::RGD:2141	1888
+NCBIGene:360	NCBIGene:358	3952	gene	Aqp2::MGI:1096865	152
+NCBIGene:360	NCBIGene:358	3952	gene	aqp1a.1::ZFIN:ZDB-GENE-030131-7764	288
+NCBIGene:360	NCBIGene:358	3952	gene	Aqp2::RGD:2142	224
+NCBIGene:360	NCBIGene:358	3952	gene	Avp::RGD:2184	48
+NCBIGene:360	NCBIGene:358	3952	gene	Aqp4::RGD:2143	72
+NCBIGene:360	NCBIGene:358	3952	gene	AQP4::NCBIGene:361	204
+NCBIGene:360	NCBIGene:358	3952	gene	AQP2::NCBIGene:359	420
+NCBIGene:360	NCBIGene:358	3952	gene	EGFR::NCBIGene:1956	60
+NCBIGene:360	NCBIGene:358	3952	gene	Nfe2l2::MGI:108420	32
+NCBIGene:360	NCBIGene:358	3952	gene	aqp4::ZFIN:ZDB-GENE-040724-152	36
+NCBIGene:360	NCBIGene:358	3952	gene	Avp::MGI:88121	40
+NCBIGene:360	NCBIGene:358	3952	gene	AQP11::NCBIGene:282679	64
+NCBIGene:360	NCBIGene:358	3952	gene	AQP5::NCBIGene:362	120
+NCBIGene:360	NCBIGene:358	3952	gene	AVP::NCBIGene:551	88
+NCBIGene:360	NCBIGene:358	3952	gene	Cav1::RGD:2280	24
+NCBIGene:360	NCBIGene:358	3952	gene	NFE2L2::NCBIGene:4780	12
+NCBIGene:360	NCBIGene:358	3952	gene	IKZF3::NCBIGene:22806	4
+NCBIGene:360	NCBIGene:358	3952	gene	Aqp5::RGD:2144	40
+NCBIGene:360	NCBIGene:358	3952	gene	Egfr::RGD:2543	36
+NCBIGene:360	NCBIGene:358	3952	gene	Nfe2l2::RGD:620360	36
+NCBIGene:360	NCBIGene:358	3952	gene	FOS::NCBIGene:2353	4
+NCBIGene:360	NCBIGene:358	3952	gene	CAV1::NCBIGene:857	24
+NCBIGene:360	NCBIGene:358	3952	gene	elavl1a::ZFIN:ZDB-GENE-990415-245	8
+NCBIGene:360	NCBIGene:358	3952	gene	Aqp11::RGD:628763	16
+NCBIGene:360	NCBIGene:358	3952	gene	App::RGD:2139	8
+NCBIGene:360	NCBIGene:358	3952	gene	Tcf4::MGI:98506	4
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to copper ion::GO:0071280	96
+NCBIGene:360	NCBIGene:358	3952	phys	water transport::GO:0006833	92
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to hypoxia::GO:0071456	48
+NCBIGene:360	NCBIGene:358	3952	phys	response to estrogen::GO:0043627	48
+NCBIGene:360	NCBIGene:358	3952	phys	nitric oxide transport::GO:0030185	32
+NCBIGene:360	NCBIGene:358	3952	phys	water transmembrane transporter activity::GO:0005372	152
+NCBIGene:360	NCBIGene:358	3952	phys	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process::GO:0043154	72
+NCBIGene:360	NCBIGene:358	3952	phys	sarcolemma::GO:0042383	44
+NCBIGene:360	NCBIGene:358	3952	phys	establishment or maintenance of actin cytoskeleton polarity::GO:0030950	32
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to mercury ion::GO:0071288	96
+NCBIGene:360	NCBIGene:358	3952	phys	axon terminus::GO:0043679	32
+NCBIGene:360	NCBIGene:358	3952	phys	Vasopressin regulates renal water homeostasis via Aquaporins::REACT:R-HSA-432040	160
+NCBIGene:360	NCBIGene:358	3952	phys	cell volume homeostasis::GO:0006884	76
+NCBIGene:360	NCBIGene:358	3952	phys	metanephric proximal convoluted tubule segment 2 development::GO:0072232	32
+NCBIGene:360	NCBIGene:358	3952	phys	positive regulation of angiogenesis::GO:0045766	72
+NCBIGene:360	NCBIGene:358	3952	phys	carbon dioxide transmembrane transporter activity::GO:0035379	96
+NCBIGene:360	NCBIGene:358	3952	phys	transepithelial water transport::GO:0035377	32
+NCBIGene:360	NCBIGene:358	3952	phys	renal water transport::GO:0003097	96
+NCBIGene:360	NCBIGene:358	3952	phys	integral component of plasma membrane::GO:0005887	100
+NCBIGene:360	NCBIGene:358	3952	phys	wound healing::GO:0042060	12
+NCBIGene:360	NCBIGene:358	3952	phys	brush border membrane::GO:0031526	32
+NCBIGene:360	NCBIGene:358	3952	phys	basolateral plasma membrane::GO:0016323	96
+NCBIGene:360	NCBIGene:358	3952	phys	glycerol transport::GO:0015793	112
+NCBIGene:360	NCBIGene:358	3952	phys	odontogenesis::GO:0042476	48
+NCBIGene:360	NCBIGene:358	3952	phys	ephrin receptor binding::GO:0046875	32
+NCBIGene:360	NCBIGene:358	3952	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	192
+NCBIGene:360	NCBIGene:358	3952	phys	maintenance of symbiont-containing vacuole by host::GO:0085018	32
+NCBIGene:360	NCBIGene:358	3952	phys	brush border::GO:0005903	32
+NCBIGene:360	NCBIGene:358	3952	phys	glycerol transmembrane transporter activity::GO:0015168	96
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to hydrogen peroxide::GO:0070301	64
+NCBIGene:360	NCBIGene:358	3952	phys	lateral ventricle development::GO:0021670	32
+NCBIGene:360	NCBIGene:358	3952	phys	ammonium transport::GO:0015696	32
+NCBIGene:360	NCBIGene:358	3952	phys	glomerular filtration::GO:0003094	32
+NCBIGene:360	NCBIGene:358	3952	phys	multicellular organismal water homeostasis::GO:0050891	88
+NCBIGene:360	NCBIGene:358	3952	phys	positive regulation of epithelial cell migration::GO:0010634	32
+NCBIGene:360	NCBIGene:358	3952	phys	apical plasma membrane::GO:0016324	48
+NCBIGene:360	NCBIGene:358	3952	phys	symbiont-containing vacuole::GO:0020003	32
+NCBIGene:360	NCBIGene:358	3952	phys	carbon dioxide transport::GO:0015670	124
+NCBIGene:360	NCBIGene:358	3952	phys	basal plasma membrane::GO:0009925	68
+NCBIGene:360	NCBIGene:358	3952	phys	secretory granule organization::GO:0033363	32
+NCBIGene:360	NCBIGene:358	3952	phys	ammonium transmembrane transporter activity::GO:0008519	64
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to nitric oxide::GO:0071732	32
+NCBIGene:360	NCBIGene:358	3952	phys	nitric oxide transmembrane transporter activity::GO:0030184	32
+NCBIGene:360	NCBIGene:358	3952	phys	renal water homeostasis::GO:0003091	40
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to dexamethasone stimulus::GO:0071549	56
+NCBIGene:360	NCBIGene:358	3952	phys	positive regulation of lamellipodium assembly::GO:0010592	32
+NCBIGene:360	NCBIGene:358	3952	phys	cellular hyperosmotic response::GO:0071474	32
+NCBIGene:360	NCBIGene:358	3952	phys	identical protein binding::GO:0042802	24
+NCBIGene:360	NCBIGene:358	3952	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	64
+NCBIGene:360	NCBIGene:358	3952	phys	corticotropin secretion::GO:0051458	32
+NCBIGene:360	NCBIGene:358	3952	phys	sensory perception of pain::GO:0019233	32
+NCBIGene:360	NCBIGene:358	3952	phys	pancreatic juice secretion::GO:0030157	48
+NCBIGene:360	NCBIGene:358	3952	phys	intracellular cGMP activated cation channel activity::GO:0005223	32
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to UV::GO:0034644	32
+NCBIGene:360	NCBIGene:358	3952	phys	metanephric proximal straight tubule development::GO:0072230	32
+NCBIGene:360	NCBIGene:358	3952	phys	hyperosmotic salinity response::GO:0042538	68
+NCBIGene:360	NCBIGene:358	3952	phys	positive regulation of fibroblast proliferation::GO:0048146	44
+NCBIGene:360	NCBIGene:358	3952	phys	camera-type eye morphogenesis::GO:0048593	48
+NCBIGene:360	NCBIGene:358	3952	phys	carbon dioxide transmembrane transport::GO:0035378	32
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to mechanical stimulus::GO:0071260	52
+NCBIGene:360	NCBIGene:358	3952	phys	metanephric descending thin limb development::GO:0072220	32
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to salt stress::GO:0071472	32
+NCBIGene:360	NCBIGene:358	3952	phys	positive regulation of saliva secretion::GO:0046878	32
+NCBIGene:360	NCBIGene:358	3952	phys	negative regulation of apoptotic process::GO:0043066	16
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to retinoic acid::GO:0071300	32
+NCBIGene:360	NCBIGene:358	3952	phys	Bile secretion::KEGG-path:maphsa04976	12
+NCBIGene:360	NCBIGene:358	3952	phys	metanephric glomerulus vasculature development::GO:0072239	32
+NCBIGene:360	NCBIGene:358	3952	phys	lipid digestion::GO:0044241	32
+NCBIGene:360	NCBIGene:358	3952	phys	symbiont-containing vacuole membrane::GO:0020005	32
+NCBIGene:360	NCBIGene:358	3952	phys	response to drug::GO:0042493	4
+NCBIGene:360	NCBIGene:358	3952	phys	cerebrospinal fluid secretion::GO:0033326	32
+NCBIGene:360	NCBIGene:358	3952	phys	nuclear membrane::GO:0031965	12
+NCBIGene:360	NCBIGene:358	3952	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	64
+NCBIGene:360	NCBIGene:358	3952	phys	renal water absorption::GO:0070295	44
+NCBIGene:360	NCBIGene:358	3952	phys	cellular response to cAMP::GO:0071320	40
 NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:11826	0	NA	NA	0
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp2::MGI:1096865	304
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp3::MGI:1333777	160
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp1::MGI:103201	96
-NCBIGene:360	NCBIGene:4779	348	ortho	Cav1::MGI:102709	32
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp8::MGI:1195271	40
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp7::MGI:1314647	72
-NCBIGene:360	NCBIGene:4779	348	ortho	Aqp4::MGI:107387	152
-NCBIGene:360	NCBIGene:4779	348	ortho	Psmc1::MGI:106054	8
-NCBIGene:360	NCBIGene:4779	348	ortho	Egfr::MGI:95294	72
-NCBIGene:360	NCBIGene:4779	348	ortho	Avp::MGI:88121	72
-NCBIGene:360	NCBIGene:4779	348	ortho	Vcp::MGI:99919	8
-NCBIGene:360	NCBIGene:4779	348	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:360	NCBIGene:4779	348	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:360	NCBIGene:4779	348	pheno	premature death::MP:0002083	96
-NCBIGene:360	NCBIGene:4779	348	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:360	NCBIGene:4779	348	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:360	NCBIGene:4779	348	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:360	NCBIGene:4779	348	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:360	NCBIGene:4779	348	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:360	NCBIGene:4779	348	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:360	NCBIGene:4779	348	pheno	Leukopenia::HP:0001882	16
-NCBIGene:360	NCBIGene:4779	348	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:360	NCBIGene:4779	348	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp2::MGI:1096865	304
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp3::MGI:1333777	160
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp1::MGI:103201	96
-NCBIGene:360	NCBIGene:64772	8	ortho	Cav1::MGI:102709	32
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp8::MGI:1195271	40
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp7::MGI:1314647	72
-NCBIGene:360	NCBIGene:64772	8	ortho	Aqp4::MGI:107387	152
-NCBIGene:360	NCBIGene:64772	8	ortho	Psmc1::MGI:106054	8
-NCBIGene:360	NCBIGene:64772	8	ortho	Egfr::MGI:95294	72
-NCBIGene:360	NCBIGene:64772	8	ortho	Avp::MGI:88121	72
-NCBIGene:360	NCBIGene:64772	8	ortho	Vcp::MGI:99919	8
-NCBIGene:360	NCBIGene:64772	8	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:360	NCBIGene:64772	8	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:360	NCBIGene:64772	8	pheno	premature death::MP:0002083	96
-NCBIGene:360	NCBIGene:64772	8	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:360	NCBIGene:64772	8	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:360	NCBIGene:64772	8	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:360	NCBIGene:64772	8	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:360	NCBIGene:64772	8	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:360	NCBIGene:64772	8	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:360	NCBIGene:64772	8	pheno	Leukopenia::HP:0001882	16
-NCBIGene:360	NCBIGene:64772	8	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:360	NCBIGene:64772	8	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp2::MGI:1096865	304
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp3::MGI:1333777	160
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp1::MGI:103201	96
-NCBIGene:360	NCBIGene:282679	460	ortho	Cav1::MGI:102709	32
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp8::MGI:1195271	40
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp7::MGI:1314647	72
-NCBIGene:360	NCBIGene:282679	460	ortho	Aqp4::MGI:107387	152
-NCBIGene:360	NCBIGene:282679	460	ortho	Psmc1::MGI:106054	8
-NCBIGene:360	NCBIGene:282679	460	ortho	Egfr::MGI:95294	72
-NCBIGene:360	NCBIGene:282679	460	ortho	Avp::MGI:88121	72
-NCBIGene:360	NCBIGene:282679	460	ortho	Vcp::MGI:99919	8
-NCBIGene:360	NCBIGene:282679	460	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:360	NCBIGene:282679	460	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:360	NCBIGene:282679	460	pheno	premature death::MP:0002083	96
-NCBIGene:360	NCBIGene:282679	460	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:360	NCBIGene:282679	460	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:360	NCBIGene:282679	460	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:360	NCBIGene:282679	460	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:360	NCBIGene:282679	460	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:360	NCBIGene:282679	460	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:360	NCBIGene:282679	460	pheno	Leukopenia::HP:0001882	16
-NCBIGene:360	NCBIGene:282679	460	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:360	NCBIGene:282679	460	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp2::MGI:1096865	304
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp3::MGI:1333777	160
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp1::MGI:103201	96
-NCBIGene:282679	NCBIGene:55768	40	ortho	Cav1::MGI:102709	32
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp8::MGI:1195271	40
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp7::MGI:1314647	72
-NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp4::MGI:107387	152
-NCBIGene:282679	NCBIGene:55768	40	ortho	Psmc1::MGI:106054	8
-NCBIGene:282679	NCBIGene:55768	40	ortho	Egfr::MGI:95294	72
-NCBIGene:282679	NCBIGene:55768	40	ortho	Avp::MGI:88121	72
+NCBIGene:360	NCBIGene:4779	348	ortho	Aqp3::MGI:1333777	348
+NCBIGene:360	NCBIGene:4779	348	ortho	Nfe2::MGI:97308	32
+NCBIGene:360	NCBIGene:4779	348	ortho	NFE2L2::NCBIGene:4780	96
+NCBIGene:360	NCBIGene:4779	348	ortho	Nfe2l2::MGI:108420	56
+NCBIGene:360	NCBIGene:4779	348	ortho	Bach2::MGI:894679	48
+NCBIGene:360	NCBIGene:4779	348	ortho	Fos::MGI:95574	32
+NCBIGene:360	NCBIGene:4779	348	ortho	Cav1::MGI:102709	16
+NCBIGene:360	NCBIGene:4779	348	ortho	Egfr::MGI:95294	36
+NCBIGene:360	NCBIGene:4779	348	ortho	Ikzf3::MGI:1342542	12
+NCBIGene:360	NCBIGene:4779	348	ortho	AQP2::NCBIGene:359	8
+NCBIGene:360	NCBIGene:4779	348	ortho	TCF4::NCBIGene:6925	8
+NCBIGene:360	NCBIGene:4779	348	ortho	Btrc::MGI:1338871	4
+NCBIGene:360	NCBIGene:4779	348	pheno	increased sensitivity to induced morbidity/mortality::MP:0009763	84
+NCBIGene:360	NCBIGene:4779	348	pheno	Elevated serum creatinine::HP:0003259	72
+NCBIGene:360	NCBIGene:4779	348	pheno	increased susceptibility to induced colitis::MP:0008537	56
+NCBIGene:360	NCBIGene:4779	348	pheno	Gastrointestinal hemorrhage::HP:0002239	48
+NCBIGene:360	NCBIGene:4779	348	pheno	Osteopenia::HP:0000938	32
+NCBIGene:360	NCBIGene:4779	348	pheno	Increased blood urea nitrogen::HP:0003138	20
+NCBIGene:360	NCBIGene:4779	348	pheno	decreased bone mineral content::MP:0010124	28
+NCBIGene:360	NCBIGene:4779	348	pheno	Polyuria::HP:0000103	4
+NCBIGene:360	NCBIGene:4779	348	pheno	Polydipsia::HP:0001959	4
+NCBIGene:360	NCBIGene:4779	348	gene	NFE2::NCBIGene:4778	12
+NCBIGene:360	NCBIGene:4779	348	gene	Nfe2l2::MGI:108420	80
+NCBIGene:360	NCBIGene:4779	348	gene	nfe2l2a::ZFIN:ZDB-GENE-030723-2	16
+NCBIGene:360	NCBIGene:4779	348	gene	NFE2L2::NCBIGene:4780	32
+NCBIGene:360	NCBIGene:4779	348	gene	Nfe2l2::RGD:620360	24
+NCBIGene:360	NCBIGene:4779	348	gene	bach2b::ZFIN:ZDB-GENE-041001-139	24
+NCBIGene:360	NCBIGene:4779	348	gene	FOS::NCBIGene:2353	24
+NCBIGene:360	NCBIGene:4779	348	gene	CAV1::NCBIGene:857	16
+NCBIGene:360	NCBIGene:4779	348	gene	EGFR::NCBIGene:1956	36
+NCBIGene:360	NCBIGene:4779	348	gene	IKZF3::NCBIGene:22806	12
+NCBIGene:360	NCBIGene:4779	348	gene	Bach2::RGD:1562865	8
+NCBIGene:360	NCBIGene:4779	348	gene	Fos::RGD:2626	4
+NCBIGene:360	NCBIGene:4779	348	gene	Aqp2::MGI:1096865	8
+NCBIGene:360	NCBIGene:4779	348	gene	nfe2::ZFIN:ZDB-GENE-030124-1	20
+NCBIGene:360	NCBIGene:4779	348	gene	Tcf4::MGI:98506	8
+NCBIGene:360	NCBIGene:4779	348	gene	BACH2::NCBIGene:60468	16
+NCBIGene:360	NCBIGene:4779	348	gene	fosab::ZFIN:ZDB-GENE-031222-4	4
+NCBIGene:360	NCBIGene:4779	348	gene	BTRC::NCBIGene:8945	4
+NCBIGene:360	NCBIGene:4779	348	phys	transcription regulatory region sequence-specific DNA binding::GO:0000976	24
+NCBIGene:360	NCBIGene:4779	348	phys	inflammatory response::GO:0006954	16
+NCBIGene:360	NCBIGene:4779	348	phys	protein domain specific binding::GO:0019904	12
+NCBIGene:360	NCBIGene:4779	348	phys	RNA polymerase II distal enhancer sequence-specific DNA binding::GO:0000980	64
+NCBIGene:360	NCBIGene:4779	348	phys	positive regulation of transcription, DNA-templated::GO:0045893	44
+NCBIGene:360	NCBIGene:4779	348	phys	cellular response to oxidative stress::GO:0034599	20
+NCBIGene:360	NCBIGene:4779	348	phys	transcription from RNA polymerase II promoter::GO:0006366	28
+NCBIGene:360	NCBIGene:4779	348	phys	protein complex::GO:0043234	16
+NCBIGene:360	NCBIGene:4779	348	phys	endoplasmic reticulum membrane::GO:0005789	20
+NCBIGene:360	NCBIGene:4779	348	phys	transcriptional activator activity, RNA polymerase II transcription factor binding::GO:0001190	8
+NCBIGene:360	NCBIGene:4779	348	phys	transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific binding::GO:0001205	32
+NCBIGene:360	NCBIGene:4779	348	phys	regulation of transcription from RNA polymerase II promoter::GO:0006357	36
+NCBIGene:360	NCBIGene:4779	348	phys	positive regulation of transcription from RNA polymerase II promoter::GO:0045944	28
+NCBIGene:360	NCBIGene:64772	8	ortho	Aqp3::MGI:1333777	8
+NCBIGene:360	NCBIGene:64772	8	ortho	AQP2::NCBIGene:359	8
+NCBIGene:360	NCBIGene:64772	8	pheno	Polyuria::HP:0000103	4
+NCBIGene:360	NCBIGene:64772	8	pheno	Polydipsia::HP:0001959	4
+NCBIGene:360	NCBIGene:64772	8	gene	Aqp2::MGI:1096865	8
+NCBIGene:360	NCBIGene:64772	8	phys	lysosome::GO:0005764	8
+NCBIGene:360	NCBIGene:282679	460	ortho	Aqp3::MGI:1333777	460
+NCBIGene:360	NCBIGene:282679	460	ortho	Aqp1::MGI:103201	160
+NCBIGene:360	NCBIGene:282679	460	ortho	Aqp2::MGI:1096865	80
+NCBIGene:360	NCBIGene:282679	460	ortho	AVP::NCBIGene:551	8
+NCBIGene:360	NCBIGene:282679	460	ortho	Aqp5::MGI:106215	40
+NCBIGene:360	NCBIGene:282679	460	ortho	Aqp4::MGI:107387	60
+NCBIGene:360	NCBIGene:282679	460	ortho	Cav1::MGI:102709	16
+NCBIGene:360	NCBIGene:282679	460	ortho	Aqp11::MGI:1913583	48
+NCBIGene:360	NCBIGene:282679	460	ortho	AQP2::NCBIGene:359	8
+NCBIGene:360	NCBIGene:282679	460	ortho	Egfr::MGI:95294	12
+NCBIGene:360	NCBIGene:282679	460	ortho	Avp::MGI:88121	24
+NCBIGene:360	NCBIGene:282679	460	ortho	Fos::MGI:95574	4
+NCBIGene:360	NCBIGene:282679	460	pheno	decreased bone mineral content::MP:0010124	20
+NCBIGene:360	NCBIGene:282679	460	pheno	increased blood osmolality::MP:0008997	36
+NCBIGene:360	NCBIGene:282679	460	pheno	decreased urine osmolality::MP:0002988	80
+NCBIGene:360	NCBIGene:282679	460	pheno	Increased blood urea nitrogen::HP:0003138	40
+NCBIGene:360	NCBIGene:282679	460	pheno	Polydipsia::HP:0001959	24
+NCBIGene:360	NCBIGene:282679	460	pheno	Hyperproteinemia::HP:0002152	20
+NCBIGene:360	NCBIGene:282679	460	pheno	Polyuria::HP:0000103	32
+NCBIGene:360	NCBIGene:282679	460	pheno	vision/eye phenotype::MP:0005391	60
+NCBIGene:360	NCBIGene:282679	460	pheno	abnormal renal water transport::MP:0011443	40
+NCBIGene:360	NCBIGene:282679	460	pheno	increased sensitivity to induced morbidity/mortality::MP:0009763	16
+NCBIGene:360	NCBIGene:282679	460	pheno	Elevated serum creatinine::HP:0003259	16
+NCBIGene:360	NCBIGene:282679	460	pheno	hearing/vestibular/ear phenotype::MP:0005377	40
+NCBIGene:360	NCBIGene:282679	460	pheno	Elevated tissue non-specific alkaline phosphatase::HP:0010679	20
+NCBIGene:360	NCBIGene:282679	460	pheno	Hypotriglyceridemia::HP:0012153	12
+NCBIGene:360	NCBIGene:282679	460	pheno	Osteopenia::HP:0000938	4
+NCBIGene:360	NCBIGene:282679	460	gene	AQP1::NCBIGene:358	128
+NCBIGene:360	NCBIGene:282679	460	gene	AQP2::NCBIGene:359	80
+NCBIGene:360	NCBIGene:282679	460	gene	Avp::MGI:88121	8
+NCBIGene:360	NCBIGene:282679	460	gene	aqp1a.1::ZFIN:ZDB-GENE-030131-7764	32
+NCBIGene:360	NCBIGene:282679	460	gene	AQP5::NCBIGene:362	40
+NCBIGene:360	NCBIGene:282679	460	gene	AQP4::NCBIGene:361	48
+NCBIGene:360	NCBIGene:282679	460	gene	CAV1::NCBIGene:857	16
+NCBIGene:360	NCBIGene:282679	460	gene	aqp11::ZFIN:ZDB-GENE-080418-1	16
+NCBIGene:360	NCBIGene:282679	460	gene	Aqp2::MGI:1096865	8
+NCBIGene:360	NCBIGene:282679	460	gene	Aqp11::RGD:628763	32
+NCBIGene:360	NCBIGene:282679	460	gene	EGFR::NCBIGene:1956	12
+NCBIGene:360	NCBIGene:282679	460	gene	AVP::NCBIGene:551	24
+NCBIGene:360	NCBIGene:282679	460	gene	aqp4::ZFIN:ZDB-GENE-040724-152	12
+NCBIGene:360	NCBIGene:282679	460	gene	FOS::NCBIGene:2353	4
+NCBIGene:360	NCBIGene:282679	460	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	144
+NCBIGene:360	NCBIGene:282679	460	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	80
+NCBIGene:360	NCBIGene:282679	460	phys	dendrite::GO:0030425	16
+NCBIGene:360	NCBIGene:282679	460	phys	transporter activity::GO:0005215	68
+NCBIGene:360	NCBIGene:282679	460	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	80
+NCBIGene:360	NCBIGene:282679	460	phys	endoplasmic reticulum::GO:0005783	20
+NCBIGene:360	NCBIGene:282679	460	phys	protein homooligomerization::GO:0051260	8
+NCBIGene:360	NCBIGene:282679	460	phys	endosomal lumen acidification::GO:0048388	16
+NCBIGene:360	NCBIGene:282679	460	phys	cell surface::GO:0009986	12
+NCBIGene:360	NCBIGene:282679	460	phys	proximal tubule development::GO:0072014	16
+NCBIGene:282679	NCBIGene:55768	40	ortho	Aqp11::MGI:1913583	40
+NCBIGene:282679	NCBIGene:55768	40	ortho	Rad23b::MGI:105128	8
+NCBIGene:282679	NCBIGene:55768	40	ortho	Psmc1::MGI:106054	16
 NCBIGene:282679	NCBIGene:55768	40	ortho	Vcp::MGI:99919	8
-NCBIGene:282679	NCBIGene:55768	40	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:282679	NCBIGene:55768	40	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:282679	NCBIGene:55768	40	pheno	premature death::MP:0002083	96
-NCBIGene:282679	NCBIGene:55768	40	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:282679	NCBIGene:55768	40	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:282679	NCBIGene:55768	40	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:282679	NCBIGene:55768	40	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:282679	NCBIGene:55768	40	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:282679	NCBIGene:55768	40	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:282679	NCBIGene:55768	40	pheno	Leukopenia::HP:0001882	16
-NCBIGene:282679	NCBIGene:55768	40	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:282679	NCBIGene:55768	40	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp2::MGI:1096865	304
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp3::MGI:1333777	160
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp1::MGI:103201	96
-NCBIGene:282679	NCBIGene:358	2116	ortho	Cav1::MGI:102709	32
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp8::MGI:1195271	40
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp7::MGI:1314647	72
-NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp4::MGI:107387	152
-NCBIGene:282679	NCBIGene:358	2116	ortho	Psmc1::MGI:106054	8
-NCBIGene:282679	NCBIGene:358	2116	ortho	Egfr::MGI:95294	72
-NCBIGene:282679	NCBIGene:358	2116	ortho	Avp::MGI:88121	72
+NCBIGene:282679	NCBIGene:55768	40	ortho	Amfr::MGI:1345634	8
+NCBIGene:282679	NCBIGene:55768	40	pheno	premature death::MP:0002083	16
+NCBIGene:282679	NCBIGene:55768	40	pheno	postnatal lethality, complete penetrance::MP:0011085	16
+NCBIGene:282679	NCBIGene:55768	40	pheno	abnormal hepatocyte morphology::MP:0000607	8
+NCBIGene:282679	NCBIGene:55768	40	gene	RAD23B::NCBIGene:5887	8
+NCBIGene:282679	NCBIGene:55768	40	gene	PSMC1::NCBIGene:5700	16
+NCBIGene:282679	NCBIGene:55768	40	gene	VCP::NCBIGene:7415	8
+NCBIGene:282679	NCBIGene:55768	40	gene	AMFR::NCBIGene:267	8
+NCBIGene:282679	NCBIGene:55768	40	phys	REACT:R-HSA-8850594::REACT:R-HSA-8850594	20
+NCBIGene:282679	NCBIGene:55768	40	phys	protein folding::GO:0006457	20
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp11::MGI:1913583	2116
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp1::MGI:103201	272
+NCBIGene:282679	NCBIGene:358	2116	ortho	Cav1::MGI:102709	96
+NCBIGene:282679	NCBIGene:358	2116	ortho	Egfr::MGI:95294	192
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp2::MGI:1096865	464
+NCBIGene:282679	NCBIGene:358	2116	ortho	Avp::MGI:88121	112
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp3::MGI:1333777	384
+NCBIGene:282679	NCBIGene:358	2116	ortho	Nfe2l2::MGI:108420	48
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp7::MGI:1314647	64
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp4::MGI:107387	208
 NCBIGene:282679	NCBIGene:358	2116	ortho	Vcp::MGI:99919	8
-NCBIGene:282679	NCBIGene:358	2116	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:282679	NCBIGene:358	2116	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:282679	NCBIGene:358	2116	pheno	premature death::MP:0002083	96
-NCBIGene:282679	NCBIGene:358	2116	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:282679	NCBIGene:358	2116	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:282679	NCBIGene:358	2116	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:282679	NCBIGene:358	2116	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:282679	NCBIGene:358	2116	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:282679	NCBIGene:358	2116	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:282679	NCBIGene:358	2116	pheno	Leukopenia::HP:0001882	16
-NCBIGene:282679	NCBIGene:358	2116	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:282679	NCBIGene:358	2116	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:282679	NCBIGene:358	2116	ortho	Gsk3b::MGI:1861437	48
+NCBIGene:282679	NCBIGene:358	2116	ortho	NFE2L2::NCBIGene:4780	56
+NCBIGene:282679	NCBIGene:358	2116	ortho	Aqp8::MGI:1195271	56
+NCBIGene:282679	NCBIGene:358	2116	ortho	Car12::MGI:1923709	4
+NCBIGene:282679	NCBIGene:358	2116	ortho	Elavl1::MGI:1100851	16
+NCBIGene:282679	NCBIGene:358	2116	ortho	Fbxw7::MGI:1354695	8
+NCBIGene:282679	NCBIGene:358	2116	ortho	Jun::MGI:96646	28
+NCBIGene:282679	NCBIGene:358	2116	ortho	Ikzf3::MGI:1342542	12
+NCBIGene:282679	NCBIGene:358	2116	ortho	Psmc1::MGI:106054	8
+NCBIGene:282679	NCBIGene:358	2116	ortho	Fos::MGI:95574	4
+NCBIGene:282679	NCBIGene:358	2116	ortho	Siah1a::MGI:108064	4
+NCBIGene:282679	NCBIGene:358	2116	ortho	App::MGI:88059	12
+NCBIGene:282679	NCBIGene:358	2116	ortho	Amfr::MGI:1345634	4
+NCBIGene:282679	NCBIGene:358	2116	ortho	Spry2::MGI:1345138	4
+NCBIGene:282679	NCBIGene:358	2116	ortho	Tcf4::MGI:98506	4
+NCBIGene:282679	NCBIGene:358	2116	pheno	decreased urine osmolality::MP:0002988	644
+NCBIGene:282679	NCBIGene:358	2116	pheno	premature death::MP:0002083	208
+NCBIGene:282679	NCBIGene:358	2116	pheno	Elevated serum creatinine::HP:0003259	160
+NCBIGene:282679	NCBIGene:358	2116	pheno	Increased blood urea nitrogen::HP:0003138	272
+NCBIGene:282679	NCBIGene:358	2116	pheno	postnatal lethality, complete penetrance::MP:0011085	248
+NCBIGene:282679	NCBIGene:358	2116	pheno	homeostasis/metabolism phenotype::MP:0005376	256
+NCBIGene:282679	NCBIGene:358	2116	pheno	decreased circulating glycerol level::MP:0003442	88
+NCBIGene:282679	NCBIGene:358	2116	pheno	Leukopenia::HP:0001882	72
+NCBIGene:282679	NCBIGene:358	2116	pheno	Hypotriglyceridemia::HP:0012153	96
+NCBIGene:282679	NCBIGene:358	2116	pheno	abnormal hepatocyte morphology::MP:0000607	48
+NCBIGene:282679	NCBIGene:358	2116	pheno	abnormal renal tubule morphology::MP:0002703	12
+NCBIGene:282679	NCBIGene:358	2116	pheno	abnormal proximal convoluted tubule morphology::MP:0004756	12
+NCBIGene:282679	NCBIGene:358	2116	gene	Aqp1::RGD:2141	236
+NCBIGene:282679	NCBIGene:358	2116	gene	CAV1::NCBIGene:857	48
+NCBIGene:282679	NCBIGene:358	2116	gene	EGFR::NCBIGene:1956	120
+NCBIGene:282679	NCBIGene:358	2116	gene	AQP2::NCBIGene:359	336
+NCBIGene:282679	NCBIGene:358	2116	gene	AVP::NCBIGene:551	88
+NCBIGene:282679	NCBIGene:358	2116	gene	Egfr::RGD:2543	72
+NCBIGene:282679	NCBIGene:358	2116	gene	AQP3::NCBIGene:360	272
+NCBIGene:282679	NCBIGene:358	2116	gene	Nfe2l2::RGD:620360	48
+NCBIGene:282679	NCBIGene:358	2116	gene	aqp7::ZFIN:ZDB-GENE-030131-6461	12
+NCBIGene:282679	NCBIGene:358	2116	gene	AQP7::NCBIGene:364	36
+NCBIGene:282679	NCBIGene:358	2116	gene	Aqp2::RGD:2142	128
+NCBIGene:282679	NCBIGene:358	2116	gene	AQP4::NCBIGene:361	136
+NCBIGene:282679	NCBIGene:358	2116	gene	VCP::NCBIGene:7415	8
+NCBIGene:282679	NCBIGene:358	2116	gene	aqp3b::ZFIN:ZDB-GENE-040724-66	48
+NCBIGene:282679	NCBIGene:358	2116	gene	Gsk3b::RGD:70982	32
+NCBIGene:282679	NCBIGene:358	2116	gene	Nfe2l2::MGI:108420	32
+NCBIGene:282679	NCBIGene:358	2116	gene	AQP8::NCBIGene:343	44
+NCBIGene:282679	NCBIGene:358	2116	gene	Aqp3::RGD:68428	64
+NCBIGene:282679	NCBIGene:358	2116	gene	Avp::RGD:2184	24
+NCBIGene:282679	NCBIGene:358	2116	gene	NFE2L2::NCBIGene:4780	24
+NCBIGene:282679	NCBIGene:358	2116	gene	Cav1::RGD:2280	48
+NCBIGene:282679	NCBIGene:358	2116	gene	CA12::NCBIGene:771	4
+NCBIGene:282679	NCBIGene:358	2116	gene	Aqp4::RGD:2143	48
+NCBIGene:282679	NCBIGene:358	2116	gene	elavl1a::ZFIN:ZDB-GENE-990415-245	16
+NCBIGene:282679	NCBIGene:358	2116	gene	FBXW7::NCBIGene:55294	4
+NCBIGene:282679	NCBIGene:358	2116	gene	JUN::NCBIGene:3725	16
+NCBIGene:282679	NCBIGene:358	2116	gene	Aqp7::RGD:2145	16
+NCBIGene:282679	NCBIGene:358	2116	gene	aqp1a.1::ZFIN:ZDB-GENE-030131-7764	36
+NCBIGene:282679	NCBIGene:358	2116	gene	aqp4::ZFIN:ZDB-GENE-040724-152	24
+NCBIGene:282679	NCBIGene:358	2116	gene	IKZF3::NCBIGene:22806	12
+NCBIGene:282679	NCBIGene:358	2116	gene	PSMC1::NCBIGene:5700	8
+NCBIGene:282679	NCBIGene:358	2116	gene	Jun::RGD:2943	8
+NCBIGene:282679	NCBIGene:358	2116	gene	GSK3B::NCBIGene:2932	16
+NCBIGene:282679	NCBIGene:358	2116	gene	FOS::NCBIGene:2353	4
+NCBIGene:282679	NCBIGene:358	2116	gene	SIAH1::NCBIGene:6477	4
+NCBIGene:282679	NCBIGene:358	2116	gene	Fbxw7::RGD:2321145	4
+NCBIGene:282679	NCBIGene:358	2116	gene	App::RGD:2139	12
+NCBIGene:282679	NCBIGene:358	2116	gene	AMFR::NCBIGene:267	4
+NCBIGene:282679	NCBIGene:358	2116	gene	SPRY2::NCBIGene:10253	4
+NCBIGene:282679	NCBIGene:358	2116	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	8
+NCBIGene:282679	NCBIGene:358	2116	gene	jun::ZFIN:ZDB-GENE-030131-7859	4
+NCBIGene:282679	NCBIGene:358	2116	gene	TCF4::NCBIGene:6925	4
+NCBIGene:282679	NCBIGene:358	2116	gene	Aqp8::RGD:2146	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to retinoic acid::GO:0071300	4
+NCBIGene:282679	NCBIGene:358	2116	phys	response to estrogen::GO:0043627	36
+NCBIGene:282679	NCBIGene:358	2116	phys	apical plasma membrane::GO:0016324	40
+NCBIGene:282679	NCBIGene:358	2116	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	68
+NCBIGene:282679	NCBIGene:358	2116	phys	Vasopressin regulates renal water homeostasis via Aquaporins::REACT:R-HSA-432040	192
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to mechanical stimulus::GO:0071260	60
+NCBIGene:282679	NCBIGene:358	2116	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	56
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to hydrogen peroxide::GO:0070301	60
+NCBIGene:282679	NCBIGene:358	2116	phys	water transport::GO:0006833	76
+NCBIGene:282679	NCBIGene:358	2116	phys	water transmembrane transporter activity::GO:0005372	80
+NCBIGene:282679	NCBIGene:358	2116	phys	glycerol transport::GO:0015793	76
+NCBIGene:282679	NCBIGene:358	2116	phys	glycerol transmembrane transporter activity::GO:0015168	76
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to hypoxia::GO:0071456	60
+NCBIGene:282679	NCBIGene:358	2116	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	192
+NCBIGene:282679	NCBIGene:358	2116	phys	identical protein binding::GO:0042802	52
+NCBIGene:282679	NCBIGene:358	2116	phys	basolateral plasma membrane::GO:0016323	76
+NCBIGene:282679	NCBIGene:358	2116	phys	positive regulation of angiogenesis::GO:0045766	60
+NCBIGene:282679	NCBIGene:358	2116	phys	integral component of plasma membrane::GO:0005887	64
+NCBIGene:282679	NCBIGene:358	2116	phys	secretory granule organization::GO:0033363	4
+NCBIGene:282679	NCBIGene:358	2116	phys	renal water absorption::GO:0070295	48
+NCBIGene:282679	NCBIGene:358	2116	phys	hyperosmotic salinity response::GO:0042538	28
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to dexamethasone stimulus::GO:0071549	52
+NCBIGene:282679	NCBIGene:358	2116	phys	basal plasma membrane::GO:0009925	28
+NCBIGene:282679	NCBIGene:358	2116	phys	renal water transport::GO:0003097	36
+NCBIGene:282679	NCBIGene:358	2116	phys	odontogenesis::GO:0042476	36
+NCBIGene:282679	NCBIGene:358	2116	phys	wound healing::GO:0042060	24
+NCBIGene:282679	NCBIGene:358	2116	phys	renal water homeostasis::GO:0003091	48
+NCBIGene:282679	NCBIGene:358	2116	phys	metanephric descending thin limb development::GO:0072220	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to mercury ion::GO:0071288	36
+NCBIGene:282679	NCBIGene:358	2116	phys	camera-type eye morphogenesis::GO:0048593	4
+NCBIGene:282679	NCBIGene:358	2116	phys	positive regulation of epithelial cell migration::GO:0010634	12
+NCBIGene:282679	NCBIGene:358	2116	phys	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process::GO:0043154	20
+NCBIGene:282679	NCBIGene:358	2116	phys	bicarbonate transport::GO:0015701	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to salt stress::GO:0071472	4
+NCBIGene:282679	NCBIGene:358	2116	phys	pancreatic juice secretion::GO:0030157	4
+NCBIGene:282679	NCBIGene:358	2116	phys	multicellular organismal water homeostasis::GO:0050891	28
+NCBIGene:282679	NCBIGene:358	2116	phys	axon terminus::GO:0043679	4
+NCBIGene:282679	NCBIGene:358	2116	phys	carbon dioxide transport::GO:0015670	20
+NCBIGene:282679	NCBIGene:358	2116	phys	nitric oxide transport::GO:0030185	4
+NCBIGene:282679	NCBIGene:358	2116	phys	positive regulation of saliva secretion::GO:0046878	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to copper ion::GO:0071280	36
+NCBIGene:282679	NCBIGene:358	2116	phys	cell volume homeostasis::GO:0006884	20
+NCBIGene:282679	NCBIGene:358	2116	phys	brush border::GO:0005903	4
+NCBIGene:282679	NCBIGene:358	2116	phys	lateral ventricle development::GO:0021670	4
+NCBIGene:282679	NCBIGene:358	2116	phys	sarcolemma::GO:0042383	12
+NCBIGene:282679	NCBIGene:358	2116	phys	positive regulation of fibroblast proliferation::GO:0048146	36
+NCBIGene:282679	NCBIGene:358	2116	phys	cerebrospinal fluid secretion::GO:0033326	4
+NCBIGene:282679	NCBIGene:358	2116	phys	symbiont-containing vacuole::GO:0020003	4
+NCBIGene:282679	NCBIGene:358	2116	phys	negative regulation of apoptotic process::GO:0043066	28
+NCBIGene:282679	NCBIGene:358	2116	phys	symbiont-containing vacuole membrane::GO:0020005	4
+NCBIGene:282679	NCBIGene:358	2116	phys	nuclear membrane::GO:0031965	24
+NCBIGene:282679	NCBIGene:358	2116	phys	carbon dioxide transmembrane transporter activity::GO:0035379	12
+NCBIGene:282679	NCBIGene:358	2116	phys	sensory perception of pain::GO:0019233	4
+NCBIGene:282679	NCBIGene:358	2116	phys	response to drug::GO:0042493	12
+NCBIGene:282679	NCBIGene:358	2116	phys	establishment or maintenance of actin cytoskeleton polarity::GO:0030950	4
+NCBIGene:282679	NCBIGene:358	2116	phys	Bile secretion::KEGG-path:maphsa04976	12
+NCBIGene:282679	NCBIGene:358	2116	phys	transepithelial water transport::GO:0035377	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to UV::GO:0034644	8
+NCBIGene:282679	NCBIGene:358	2116	phys	metanephric glomerulus vasculature development::GO:0072239	4
+NCBIGene:282679	NCBIGene:358	2116	phys	ammonium transmembrane transporter activity::GO:0008519	8
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to cAMP::GO:0071320	24
+NCBIGene:282679	NCBIGene:358	2116	phys	glomerular filtration::GO:0003094	4
+NCBIGene:282679	NCBIGene:358	2116	phys	brush border membrane::GO:0031526	8
+NCBIGene:282679	NCBIGene:358	2116	phys	carbon dioxide transmembrane transport::GO:0035378	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular response to nitric oxide::GO:0071732	4
+NCBIGene:282679	NCBIGene:358	2116	phys	metanephric proximal straight tubule development::GO:0072230	4
+NCBIGene:282679	NCBIGene:358	2116	phys	cellular hyperosmotic response::GO:0071474	4
+NCBIGene:282679	NCBIGene:358	2116	phys	metanephric proximal convoluted tubule segment 2 development::GO:0072232	4
+NCBIGene:282679	NCBIGene:358	2116	phys	corticotropin secretion::GO:0051458	4
+NCBIGene:282679	NCBIGene:358	2116	phys	nitric oxide transmembrane transporter activity::GO:0030184	4
+NCBIGene:282679	NCBIGene:358	2116	phys	lipid digestion::GO:0044241	4
+NCBIGene:282679	NCBIGene:358	2116	phys	ammonium transport::GO:0015696	4
+NCBIGene:282679	NCBIGene:358	2116	phys	positive regulation of lamellipodium assembly::GO:0010592	4
+NCBIGene:282679	NCBIGene:358	2116	phys	intracellular cGMP activated cation channel activity::GO:0005223	4
+NCBIGene:282679	NCBIGene:358	2116	phys	apical part of cell::GO:0045177	4
+NCBIGene:282679	NCBIGene:358	2116	phys	maintenance of symbiont-containing vacuole by host::GO:0085018	4
+NCBIGene:282679	NCBIGene:358	2116	phys	ephrin receptor binding::GO:0046875	4
 NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:11826	0	NA	NA	0
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp2::MGI:1096865	304
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp3::MGI:1333777	160
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp1::MGI:103201	96
-NCBIGene:282679	NCBIGene:4779	476	ortho	Cav1::MGI:102709	32
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp8::MGI:1195271	40
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp7::MGI:1314647	72
-NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp4::MGI:107387	152
-NCBIGene:282679	NCBIGene:4779	476	ortho	Psmc1::MGI:106054	8
+NCBIGene:282679	NCBIGene:4779	476	ortho	Aqp11::MGI:1913583	476
+NCBIGene:282679	NCBIGene:4779	476	ortho	Nfe2l2::MGI:108420	112
+NCBIGene:282679	NCBIGene:4779	476	ortho	Fos::MGI:95574	32
+NCBIGene:282679	NCBIGene:4779	476	ortho	NFE2L2::NCBIGene:4780	96
+NCBIGene:282679	NCBIGene:4779	476	ortho	Ikzf3::MGI:1342542	36
 NCBIGene:282679	NCBIGene:4779	476	ortho	Egfr::MGI:95294	72
-NCBIGene:282679	NCBIGene:4779	476	ortho	Avp::MGI:88121	72
-NCBIGene:282679	NCBIGene:4779	476	ortho	Vcp::MGI:99919	8
-NCBIGene:282679	NCBIGene:4779	476	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:282679	NCBIGene:4779	476	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:282679	NCBIGene:4779	476	pheno	premature death::MP:0002083	96
-NCBIGene:282679	NCBIGene:4779	476	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:282679	NCBIGene:4779	476	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:282679	NCBIGene:4779	476	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:282679	NCBIGene:4779	476	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:282679	NCBIGene:4779	476	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:282679	NCBIGene:4779	476	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:282679	NCBIGene:4779	476	pheno	Leukopenia::HP:0001882	16
-NCBIGene:282679	NCBIGene:4779	476	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:282679	NCBIGene:4779	476	pheno	abnormal hepatocyte morphology::MP:0000607	12
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp11::MGI:1913583	1040
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp2::MGI:1096865	304
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp3::MGI:1333777	160
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp1::MGI:103201	96
-NCBIGene:282679	NCBIGene:64772	24	ortho	Cav1::MGI:102709	32
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp8::MGI:1195271	40
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp7::MGI:1314647	72
-NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp4::MGI:107387	152
+NCBIGene:282679	NCBIGene:4779	476	ortho	Cav1::MGI:102709	32
+NCBIGene:282679	NCBIGene:4779	476	ortho	Nfe2l1::MGI:99421	32
+NCBIGene:282679	NCBIGene:4779	476	ortho	Tcf4::MGI:98506	8
+NCBIGene:282679	NCBIGene:4779	476	ortho	Jun::MGI:96646	28
+NCBIGene:282679	NCBIGene:4779	476	ortho	Amfr::MGI:1345634	8
+NCBIGene:282679	NCBIGene:4779	476	ortho	Vcp::MGI:99919	12
+NCBIGene:282679	NCBIGene:4779	476	ortho	Keap1::MGI:1858732	4
+NCBIGene:282679	NCBIGene:4779	476	ortho	Siah1a::MGI:108064	4
+NCBIGene:282679	NCBIGene:4779	476	pheno	premature death::MP:0002083	112
+NCBIGene:282679	NCBIGene:4779	476	pheno	homeostasis/metabolism phenotype::MP:0005376	92
+NCBIGene:282679	NCBIGene:4779	476	pheno	Elevated serum creatinine::HP:0003259	72
+NCBIGene:282679	NCBIGene:4779	476	pheno	Leukopenia::HP:0001882	72
+NCBIGene:282679	NCBIGene:4779	476	pheno	abnormal hepatocyte morphology::MP:0000607	20
+NCBIGene:282679	NCBIGene:4779	476	pheno	decreased circulating glycerol level::MP:0003442	8
+NCBIGene:282679	NCBIGene:4779	476	pheno	postnatal lethality, complete penetrance::MP:0011085	64
+NCBIGene:282679	NCBIGene:4779	476	pheno	Increased blood urea nitrogen::HP:0003138	20
+NCBIGene:282679	NCBIGene:4779	476	pheno	increased circulating aspartate transaminase level::MP:0005343	16
+NCBIGene:282679	NCBIGene:4779	476	gene	NFE2L2::NCBIGene:4780	64
+NCBIGene:282679	NCBIGene:4779	476	gene	nfe2l2a::ZFIN:ZDB-GENE-030723-2	32
+NCBIGene:282679	NCBIGene:4779	476	gene	FOS::NCBIGene:2353	24
+NCBIGene:282679	NCBIGene:4779	476	gene	Nfe2l2::MGI:108420	80
+NCBIGene:282679	NCBIGene:4779	476	gene	Nfe2l2::RGD:620360	32
+NCBIGene:282679	NCBIGene:4779	476	gene	IKZF3::NCBIGene:22806	36
+NCBIGene:282679	NCBIGene:4779	476	gene	EGFR::NCBIGene:1956	72
+NCBIGene:282679	NCBIGene:4779	476	gene	CAV1::NCBIGene:857	32
+NCBIGene:282679	NCBIGene:4779	476	gene	Nfe2l1::RGD:1311972	32
+NCBIGene:282679	NCBIGene:4779	476	gene	TCF4::NCBIGene:6925	8
+NCBIGene:282679	NCBIGene:4779	476	gene	JUN::NCBIGene:3725	20
+NCBIGene:282679	NCBIGene:4779	476	gene	AMFR::NCBIGene:267	8
+NCBIGene:282679	NCBIGene:4779	476	gene	VCP::NCBIGene:7415	12
+NCBIGene:282679	NCBIGene:4779	476	gene	Jun::RGD:2943	4
+NCBIGene:282679	NCBIGene:4779	476	gene	jun::ZFIN:ZDB-GENE-030131-7859	4
+NCBIGene:282679	NCBIGene:4779	476	gene	KEAP1::NCBIGene:9817	4
+NCBIGene:282679	NCBIGene:4779	476	gene	Fos::RGD:2626	4
+NCBIGene:282679	NCBIGene:4779	476	gene	fosab::ZFIN:ZDB-GENE-031222-4	4
+NCBIGene:282679	NCBIGene:4779	476	gene	SIAH1::NCBIGene:6477	4
+NCBIGene:282679	NCBIGene:4779	476	phys	positive regulation of transcription from RNA polymerase II promoter::GO:0045944	44
+NCBIGene:282679	NCBIGene:4779	476	phys	transcription from RNA polymerase II promoter::GO:0006366	28
+NCBIGene:282679	NCBIGene:4779	476	phys	regulation of transcription from RNA polymerase II promoter::GO:0006357	52
+NCBIGene:282679	NCBIGene:4779	476	phys	inflammatory response::GO:0006954	20
+NCBIGene:282679	NCBIGene:4779	476	phys	RNA polymerase II distal enhancer sequence-specific DNA binding::GO:0000980	56
+NCBIGene:282679	NCBIGene:4779	476	phys	transcription regulatory region sequence-specific DNA binding::GO:0000976	24
+NCBIGene:282679	NCBIGene:4779	476	phys	transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific binding::GO:0001205	48
+NCBIGene:282679	NCBIGene:4779	476	phys	protein complex::GO:0043234	28
+NCBIGene:282679	NCBIGene:4779	476	phys	cellular response to oxidative stress::GO:0034599	24
+NCBIGene:282679	NCBIGene:4779	476	phys	transcriptional activator activity, RNA polymerase II transcription factor binding::GO:0001190	20
+NCBIGene:282679	NCBIGene:4779	476	phys	endoplasmic reticulum membrane::GO:0005789	48
+NCBIGene:282679	NCBIGene:4779	476	phys	positive regulation of transcription, DNA-templated::GO:0045893	52
+NCBIGene:282679	NCBIGene:4779	476	phys	protein domain specific binding::GO:0019904	20
+NCBIGene:282679	NCBIGene:4779	476	phys	erythrocyte differentiation::GO:0030218	8
+NCBIGene:282679	NCBIGene:4779	476	phys	anatomical structure morphogenesis::GO:0009653	4
+NCBIGene:282679	NCBIGene:64772	24	ortho	Aqp11::MGI:1913583	24
+NCBIGene:282679	NCBIGene:64772	24	ortho	Vcp::MGI:99919	4
+NCBIGene:282679	NCBIGene:64772	24	ortho	Rad23b::MGI:105128	4
 NCBIGene:282679	NCBIGene:64772	24	ortho	Psmc1::MGI:106054	8
-NCBIGene:282679	NCBIGene:64772	24	ortho	Egfr::MGI:95294	72
-NCBIGene:282679	NCBIGene:64772	24	ortho	Avp::MGI:88121	72
-NCBIGene:282679	NCBIGene:64772	24	ortho	Vcp::MGI:99919	8
-NCBIGene:282679	NCBIGene:64772	24	ortho	NFE2L2::NCBIGene:4780	8
-NCBIGene:282679	NCBIGene:64772	24	ortho	Nfe2l2::MGI:108420	16
-NCBIGene:282679	NCBIGene:64772	24	pheno	premature death::MP:0002083	96
-NCBIGene:282679	NCBIGene:64772	24	pheno	decreased urine osmolality::MP:0002988	324
-NCBIGene:282679	NCBIGene:64772	24	pheno	Increased blood urea nitrogen::HP:0003138	136
-NCBIGene:282679	NCBIGene:64772	24	pheno	postnatal lethality, complete penetrance::MP:0011085	136
-NCBIGene:282679	NCBIGene:64772	24	pheno	homeostasis/metabolism phenotype::MP:0005376	144
-NCBIGene:282679	NCBIGene:64772	24	pheno	decreased circulating glycerol level::MP:0003442	80
-NCBIGene:282679	NCBIGene:64772	24	pheno	Hypotriglyceridemia::HP:0012153	40
-NCBIGene:282679	NCBIGene:64772	24	pheno	Leukopenia::HP:0001882	16
-NCBIGene:282679	NCBIGene:64772	24	pheno	Elevated serum creatinine::HP:0003259	56
-NCBIGene:282679	NCBIGene:64772	24	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:282679	NCBIGene:64772	24	ortho	Amfr::MGI:1345634	4
+NCBIGene:282679	NCBIGene:64772	24	ortho	Capn1::MGI:88263	4
+NCBIGene:282679	NCBIGene:64772	24	pheno	postnatal lethality, complete penetrance::MP:0011085	8
+NCBIGene:282679	NCBIGene:64772	24	pheno	premature death::MP:0002083	12
+NCBIGene:282679	NCBIGene:64772	24	pheno	abnormal hepatocyte morphology::MP:0000607	4
+NCBIGene:282679	NCBIGene:64772	24	gene	VCP::NCBIGene:7415	4
+NCBIGene:282679	NCBIGene:64772	24	gene	RAD23B::NCBIGene:5887	4
+NCBIGene:282679	NCBIGene:64772	24	gene	PSMC1::NCBIGene:5700	8
+NCBIGene:282679	NCBIGene:64772	24	gene	AMFR::NCBIGene:267	4
+NCBIGene:282679	NCBIGene:64772	24	gene	CAPN1::NCBIGene:823	4
+NCBIGene:282679	NCBIGene:64772	24	phys	protein folding::GO:0006457	20
+NCBIGene:282679	NCBIGene:64772	24	phys	lysosome::GO:0005764	4
 NCBIGene:282679	NCBIGene:360	1040	ortho	Aqp11::MGI:1913583	1040
 NCBIGene:282679	NCBIGene:360	1040	ortho	Aqp2::MGI:1096865	304
 NCBIGene:282679	NCBIGene:360	1040	ortho	Aqp3::MGI:1333777	160
@@ -827,3 +1339,49 @@ NCBIGene:282679	NCBIGene:360	1040	pheno	Hypotriglyceridemia::HP:0012153	40
 NCBIGene:282679	NCBIGene:360	1040	pheno	Leukopenia::HP:0001882	16
 NCBIGene:282679	NCBIGene:360	1040	pheno	Elevated serum creatinine::HP:0003259	56
 NCBIGene:282679	NCBIGene:360	1040	pheno	abnormal hepatocyte morphology::MP:0000607	12
+NCBIGene:282679	NCBIGene:360	1040	gene	AQP2::NCBIGene:359	256
+NCBIGene:282679	NCBIGene:360	1040	gene	Aqp3::RGD:68428	128
+NCBIGene:282679	NCBIGene:360	1040	gene	Aqp1::RGD:2141	16
+NCBIGene:282679	NCBIGene:360	1040	gene	Cav1::RGD:2280	16
+NCBIGene:282679	NCBIGene:360	1040	gene	aqp1a.1::ZFIN:ZDB-GENE-030131-7764	12
+NCBIGene:282679	NCBIGene:360	1040	gene	Aqp2::RGD:2142	48
+NCBIGene:282679	NCBIGene:360	1040	gene	aqp3b::ZFIN:ZDB-GENE-040724-66	32
+NCBIGene:282679	NCBIGene:360	1040	gene	AQP8::NCBIGene:343	32
+NCBIGene:282679	NCBIGene:360	1040	gene	AQP7::NCBIGene:364	44
+NCBIGene:282679	NCBIGene:360	1040	gene	Aqp7::RGD:2145	20
+NCBIGene:282679	NCBIGene:360	1040	gene	AQP4::NCBIGene:361	120
+NCBIGene:282679	NCBIGene:360	1040	gene	PSMC1::NCBIGene:5700	8
+NCBIGene:282679	NCBIGene:360	1040	gene	EGFR::NCBIGene:1956	48
+NCBIGene:282679	NCBIGene:360	1040	gene	AVP::NCBIGene:551	72
+NCBIGene:282679	NCBIGene:360	1040	gene	AQP1::NCBIGene:358	68
+NCBIGene:282679	NCBIGene:360	1040	gene	vcp::ZFIN:ZDB-GENE-030131-5408	4
+NCBIGene:282679	NCBIGene:360	1040	gene	Egfr::RGD:2543	24
+NCBIGene:282679	NCBIGene:360	1040	gene	CAV1::NCBIGene:857	16
+NCBIGene:282679	NCBIGene:360	1040	gene	aqp4::ZFIN:ZDB-GENE-040724-152	24
+NCBIGene:282679	NCBIGene:360	1040	gene	Nfe2l2::RGD:620360	16
+NCBIGene:282679	NCBIGene:360	1040	gene	Aqp4::RGD:2143	8
+NCBIGene:282679	NCBIGene:360	1040	gene	VCP::NCBIGene:7415	4
+NCBIGene:282679	NCBIGene:360	1040	gene	NFE2L2::NCBIGene:4780	8
+NCBIGene:282679	NCBIGene:360	1040	gene	aqp8a.1::ZFIN:ZDB-GENE-040912-106	8
+NCBIGene:282679	NCBIGene:360	1040	gene	aqp7::ZFIN:ZDB-GENE-030131-6461	8
+NCBIGene:282679	NCBIGene:360	1040	phys	renal water homeostasis::GO:0003091	36
+NCBIGene:282679	NCBIGene:360	1040	phys	glycerol transport::GO:0015793	64
+NCBIGene:282679	NCBIGene:360	1040	phys	renal water absorption::GO:0070295	36
+NCBIGene:282679	NCBIGene:360	1040	phys	glycerol channel activity::GO:0015254	24
+NCBIGene:282679	NCBIGene:360	1040	phys	excretion::GO:0007588	20
+NCBIGene:282679	NCBIGene:360	1040	phys	response to calcium ion::GO:0051592	96
+NCBIGene:282679	NCBIGene:360	1040	phys	transporter activity::GO:0005215	36
+NCBIGene:282679	NCBIGene:360	1040	phys	Vasopressin regulates renal water homeostasis via Aquaporins::REACT:R-HSA-432040	144
+NCBIGene:282679	NCBIGene:360	1040	phys	Passive transport by Aquaporins::REACT:R-HSA-432047	144
+NCBIGene:282679	NCBIGene:360	1040	phys	cell-cell junction::GO:0005911	4
+NCBIGene:282679	NCBIGene:360	1040	phys	water transport::GO:0006833	64
+NCBIGene:282679	NCBIGene:360	1040	phys	Transmembrane transport of small molecules::REACT:R-HSA-382551	56
+NCBIGene:282679	NCBIGene:360	1040	phys	cellular response to hypoxia::GO:0071456	48
+NCBIGene:282679	NCBIGene:360	1040	phys	Aquaporin-mediated transport::REACT:R-HSA-445717	44
+NCBIGene:282679	NCBIGene:360	1040	phys	Vasopressin-regulated water reabsorption::KEGG-path:maphsa04962	32
+NCBIGene:282679	NCBIGene:360	1040	phys	transport::GO:0006810	52
+NCBIGene:282679	NCBIGene:360	1040	phys	basolateral plasma membrane::GO:0016323	64
+NCBIGene:282679	NCBIGene:360	1040	phys	odontogenesis::GO:0042476	24
+NCBIGene:282679	NCBIGene:360	1040	phys	cellular response to oxygen-glucose deprivation::GO:0090650	16
+NCBIGene:282679	NCBIGene:360	1040	phys	urea transport::GO:0015840	20
+NCBIGene:282679	NCBIGene:360	1040	phys	response to retinoic acid::GO:0032526	16
