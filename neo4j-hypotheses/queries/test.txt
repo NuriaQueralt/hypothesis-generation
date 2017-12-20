@@ -1,4 +1,72 @@
 
+// dill drown into each pair
+
+MATCH path=(source:GENE)-[:`RO:HOM0000020`]-(o:GENE)--(ds:DISO)--(o:GENE)-[:`RO:HOM0000020`]-(g1:GENE)--(pw:PHYS)--(target:GENE)
+MATCH (source { id: 'NCBIGene:358'}), (target { id: 'NCBIGene:55768'})
+// no loops or only one pass per node
+WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x))
+WITH o, g1, ds, pw, path,
+     // count animal models
+     size( (source)-[:`RO:HOM0000020`]->() ) AS source_ortho,
+     size( (g1)-[:`RO:HOM0000020`]->() ) AS other_ortho,
+     // count node degree
+     max(size( (pw)-[]-() )) AS pwDegree,
+     max(size( (ds)-[]-() )) AS dsDegree,
+     // mark general nodes to filter path that contain them out
+     [n IN nodes(path) WHERE n.preflabel IN ['cytoplasm','cytosol','nucleus','metabolism','membrane','protein binding','visible','viable','phenotype']] AS nodes_marked,
+     // mark promiscuous edges to filter path that contain them out, 
+     [r IN relationships(path) WHERE r.property_label IN ['interacts with','in paralogy relationship with','in orthology relationship with','colocalizes with']] AS edges_marked
+// condition to filter paths that do contain marked nodes and edges out
+WHERE size(nodes_marked) = 0 AND size(edges_marked) = 0 AND pwDegree <= 50 AND dsDegree <= 20
+//RETURN count(distinct path) AS paths, count(distinct pw) as pathways, count(distinct ds) as diseases, count( distinct source_ortho ) AS source_ortho, count( distinct other_ortho ) AS other_ortho
+//RETURN path 
+RETURN DISTINCT LABELS(o) AS node_type, o.id AS node_id, count(*) AS ortho_freq
+// ORDER BY source_ortho, other_ortho DESC
+
+MATCH path=(source:GENE)-[:`RO:HOM0000020`]-(sourceortho:GENE)--(ds:DISO)--(otherortho:GENE)-[:`RO:HOM0000020`]-(g1:GENE)--(pw:PHYS)--(target:GENE)
+MATCH (source { id: 'NCBIGene:358'}), (target { id: 'NCBIGene:55768'})
+// no loops or only one pass per node
+WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x))
+WITH sourceortho, g1, ds, pw, path,
+     // count animal models
+     size( (source)-[:`RO:HOM0000020`]->() ) AS source_ortho,
+     size( (g1)-[:`RO:HOM0000020`]->() ) AS other_ortho,
+     // count node degree
+     max(size( (pw)-[]-() )) AS pwDegree,
+     max(size( (ds)-[]-() )) AS dsDegree,
+     // mark general nodes to filter path that contain them out
+     [n IN nodes(path) WHERE n.preflabel IN ['cytoplasm','cytosol','nucleus','metabolism','membrane','protein binding','visible','viable','phenotype']] AS nodes_marked,
+     // mark promiscuous edges to filter path that contain them out, 
+     [r IN relationships(path) WHERE r.property_label IN ['interacts with','in paralogy relationship with','in orthology relationship with','colocalizes with']] AS edges_marked
+// condition to filter paths that do contain marked nodes and edges out
+WHERE size(nodes_marked) = 0 AND size(edges_marked) = 0 AND pwDegree <= 50 AND dsDegree <= 20
+//RETURN count(distinct path) AS paths, count(distinct pw) as pathways, count(distinct ds) as diseases, count( distinct source_ortho ) AS source_ortho, count( distinct other_ortho ) AS other_ortho
+//RETURN path 
+RETURN DISTINCT LABELS(sourceortho) AS node_type, sourceortho.id AS node_id, count(*) AS ortho_freq
+// ORDER BY source_ortho, other_ortho DESC
+
+MATCH path=(source:GENE)-[:`RO:HOM0000020`]-(sourceortho:GENE)--(ds:DISO)--(otherortho:GENE)-[:`RO:HOM0000020`]-(g1:GENE)--(pw:PHYS)--(target:GENE)
+MATCH (source { id: 'NCBIGene:358'}), (target { id: 'NCBIGene:55768'})
+// no loops or only one pass per node
+WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x))
+WITH sourceortho, g1, ds, pw, path,
+     // count animal models
+     size( (source)-[:`RO:HOM0000020`]->() ) AS source_ortho,
+     size( (g1)-[:`RO:HOM0000020`]->() ) AS other_ortho,
+     // count node degree
+     max(size( (pw)-[]-() )) AS pwDegree,
+     max(size( (ds)-[]-() )) AS dsDegree,
+     // mark general nodes to filter path that contain them out
+     [n IN nodes(path) WHERE n.preflabel IN ['cytoplasm','cytosol','nucleus','metabolism','membrane','protein binding','visible','viable','phenotype']] AS nodes_marked,
+     // mark promiscuous edges to filter path that contain them out, 
+     [r IN relationships(path) WHERE r.property_label IN ['interacts with','in paralogy relationship with','in orthology relationship with','colocalizes with']] AS edges_marked
+// condition to filter paths that do contain marked nodes and edges out
+WHERE size(nodes_marked) = 0 AND size(edges_marked) = 0 AND pwDegree <= 50 AND dsDegree <= 20
+//RETURN count(distinct path) AS paths, count(distinct pw) as pathways, count(distinct ds) as diseases, count( distinct source_ortho ) AS source_ortho, count( distinct other_ortho ) AS other_ortho
+//RETURN path 
+RETURN DISTINCT sourceortho AS nodeId, LABELS(sourceortho) AS node_type, count(*) AS ortho_freq
+// ORDER BY source_ortho, other_ortho DESC
+
 // prioritize paths that can include more than one animal model
 
 MATCH path=(source:GENE)-[:`RO:HOM0000020`]-(:GENE)--(ds:DISO)--(:GENE)-[:`RO:HOM0000020`]-(g1:GENE)--(pw:PHYS)--(target:GENE)

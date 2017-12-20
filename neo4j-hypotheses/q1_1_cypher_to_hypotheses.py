@@ -1,7 +1,7 @@
 ####
 # @author: Núria Queralt Rosinach
 # @date: 06-12-2017
-# @version: v4 [q1_args_used]
+# @version: v1 [q1_paths]
 
 
 from neo4j.v1 import GraphDatabase, basic_auth
