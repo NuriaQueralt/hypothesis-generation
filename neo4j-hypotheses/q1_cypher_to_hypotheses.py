@@ -17,6 +17,10 @@ parser.add_argument("-o", "--output", required = True, dest = "output", help = "
 
 args = parser.parse_args()
 
+if len(args.output) == 0:
+   sys.stderr.write("Not output filename provided. Exiting.\n")
+   exit()
+
 # initialize neo4j
 driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "xena"))
 
@@ -81,6 +85,7 @@ with driver.session() as session:
                 pair['other_ortho'] = record['other_ortho']
             output.append(pair)
 
+    # create outdir and output file
     if not os.path.isdir('./out'): os.makedirs('./out')
     sys.path.insert(0,'.')
     with open('./out/{}.tsv'.format(args.output), 'w') as f:

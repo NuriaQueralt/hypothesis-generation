@@ -29,7 +29,7 @@ if len(args.output) == 0:
 
 
 # read paths
-data = json.load(open('./out/{}.tsv'.format(args.input), 'r'))
+data = json.load(open('./out/{}.json'.format(args.input), 'r'))
 
 # dict of seed nodes with label::ID
 seed_dct = {
@@ -44,6 +44,9 @@ seed_dct = {
     'NCBIGene:282679': 'AQP11::NCBIGene:282679'  # AQP11 human gene
 }
 
+# create outdir and output file
+if not os.path.isdir('./out'): os.makedirs('./out')
+sys.path.insert(0, '.')
 with open('./out/{}.tsv'.format(args.output),'w') as f:
     f.write('source\ttarget\tnumber_of_paths\tnode_type\tnode_value\tnode_count\n')
     for pair_dct in data:
