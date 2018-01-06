@@ -90,8 +90,8 @@ with driver.session() as session:
             WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x))
             WITH g1, ds, pw, path,
                  // count animal models
-                 size( (source)-[:`RO:HOM0000020`]->() ) AS source_ortho,
-                 size( (g1)-[:`RO:HOM0000020`]->() ) AS other_ortho,
+                 size( (source)-[:`RO:HOM0000020`]-() ) AS source_ortho,
+                 size( (g1)-[:`RO:HOM0000020`]-() ) AS other_ortho,
                  // count node degree
                  max(size( (pw)-[]-() )) AS pwDegree,
                  max(size( (ds)-[]-() )) AS dsDegree,
@@ -125,7 +125,7 @@ with driver.session() as session:
             elif(args.format == "json"):
                 with open('./out/{}.json'.format(args.output), 'w') as f:
                     json.dump(outputAll, f)
-                print(json.dumps(outputAll))
+                #print(json.dumps(outputAll))
             else:
                 sys.stderr.write("Error.\n")
 

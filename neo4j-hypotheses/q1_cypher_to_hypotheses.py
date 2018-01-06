@@ -59,8 +59,8 @@ with driver.session() as session:
             WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x))
             WITH g1, ds, pw, path,
                  // count animal models
-                 size( (source)-[:`RO:HOM0000020`]->() ) AS source_ortho,
-                 size( (g1)-[:`RO:HOM0000020`]->() ) AS other_ortho,
+                 size( (source)-[:`RO:HOM0000020`]-() ) AS source_ortho,
+                 size( (g1)-[:`RO:HOM0000020`]-() ) AS other_ortho,
                  // count node degree
                  max(size( (pw)-[]-() )) AS pwDegree,
                  max(size( (ds)-[]-() )) AS dsDegree,

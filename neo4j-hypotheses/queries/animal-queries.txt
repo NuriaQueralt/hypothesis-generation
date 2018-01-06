@@ -31,7 +31,7 @@
 MATCH path=(source:GENE)-[:`RO:HOM0000020`]-(:GENE)--(ds:DISO)--(:GENE)-[:`RO:HOM0000020`]-(g1:GENE)--(pw:PHYS)--(target:GENE)
 MATCH (source { id: 'NCBIGene:55768'}), (target { id: 'NCBIGene:358'})
 // no loops or only one pass per node disabled
-WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x) = False) # condition that allow loops
+WHERE ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x) = False) // condition that allow loops
 WITH g1, ds, pw, path,
      // count animal models
      size( (source)-[:`RO:HOM0000020`]->() ) AS source_ortho,
@@ -47,7 +47,7 @@ WITH g1, ds, pw, path,
      [n IN nodes(path) WHERE n.id = 'FlyBase:FBgn0033050'] AS node_marked 
 // condition to filter paths that do contain marked nodes and edges out
 WHERE size(nodes_marked) = 0 AND size(edges_marked) = 0 AND pwDegree <= 50 AND dsDegree <= 20 AND size(node_marked) > 0
-RETURN count(path) # 0
+RETURN count(path) // 0
 
 /* counts for 'Pngl::FlyBase:FBgn0033050' in all paths 
 
@@ -67,10 +67,10 @@ WITH g1, ds, pw, path,
      // mark promiscuous edges to filter path that contain them out, 
      [r IN relationships(path) WHERE r.property_label IN ['interacts with','in paralogy relationship with','in orthology relationship with','colocalizes with']] AS edges_marked,
      // count sanity check
-     [n IN nodes(path) WHERE n.id = 'FlyBase:FBgn0033050'] AS node_marked # condition for counts for 'Pngl' in all paths
+     [n IN nodes(path) WHERE n.id = 'FlyBase:FBgn0033050'] AS node_marked // condition for counts for 'Pngl' in all paths
 // condition to filter paths that do contain marked nodes and edges out
 WHERE size(nodes_marked) = 0 AND size(edges_marked) = 0 AND pwDegree <= 50 AND dsDegree <= 20 AND size(node_marked) > 0
-RETURN count(path) # 1036
+RETURN count(path) // 1036
 
 /* see all paths
 

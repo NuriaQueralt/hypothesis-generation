@@ -5,7 +5,6 @@
 # @usage: read path files from out dir and run q1_2_cypher_to_hypotheses.py to get extended hypotheses information for each pair
 
 import pandas as pd
-import sys
 import subprocess
 
 # query

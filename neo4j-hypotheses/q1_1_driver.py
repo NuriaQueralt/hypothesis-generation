@@ -5,7 +5,6 @@
 # @usage: read selected args combo file from data dir and run q1_1_cypher_to_hypotheses.py to get paths
 
 import pandas as pd
-import sys
 import subprocess
 
 # query
