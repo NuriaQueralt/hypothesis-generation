@@ -22,6 +22,7 @@ if len(args.output) == 0:
    exit()
 
 # initialize neo4j
+#driver = GraphDatabase.driver("bolt://localhost:7688", auth=("neo4j", "xena")) # NEW GRAPH
 driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "xena"))
 
 # seed nodes to pairwise

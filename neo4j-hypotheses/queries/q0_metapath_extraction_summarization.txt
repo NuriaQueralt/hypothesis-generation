@@ -1,0 +1,36 @@
+# query topology: (source)-[*..4]-(target)
+
+
+## Fanconi anemia (FA) - metformin, monarch::scigraph
+# count paths
+
+
+
+## NGLY1 - AQP1, graph: local ngly1 graph
+# count paths
+
+MATCH path=(source)-[*..4]-(target)
+WHERE source.id = 'NCBIGene:55768' AND target.id = 'NCBIGene:358' 
+WITH path,
+[n IN nodes(path) WHERE n.preflabel IN ['cytoplasm','cytosol','nucleus','metabolism','membrane','protein binding','visible','viable','phenotype']] AS nodes_marked, 
+[r IN relationships(path) WHERE r.property_label IN ['interacts with','in paralogy relationship with','in orthology relationship with','colocalizes with']] AS edges_marked 
+WHERE size(nodes_marked) = 0 AND size(edges_marked) = 0 
+RETURN count(distinct path)
+
+MATCH path=(source)-[*..4]-(target)
+WHERE source.id = 'NCBIGene:55768' AND target.id = 'NCBIGene:358' 
+RETURN path
+
+
+MATCH path=(source)-[*..4]-(target)
+WHERE source.id = 'NCBIGene:55768' AND target.id = 'NCBIGene:358' 
+RETURN count(distinct path)
+
+MATCH path=(source)-[*..4]-(target)
+WHERE source.id = 'NCBIGene:55768' AND target.id = 'NCBIGene:358' 
+RETURN count(distinct path)
+
+
+#AND ALL(x IN nodes(path) WHERE single(y IN nodes(path) WHERE y = x)) 
+
+https://stackoverflow.com/questions/31485802/how-to-return-relationship-type-with-neo4js-cypher-queries
