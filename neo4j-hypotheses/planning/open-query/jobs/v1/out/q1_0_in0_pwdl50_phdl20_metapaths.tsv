@@ -1,0 +1,8 @@
+paths_count	relation_1	node_2	relation_2	node_3	relation_3	node_4	relation_4	node_5	relation_5	node_6	relation_6	metapaths_count
+1052	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	involved in	['PHYS']	involved in	408
+1052	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	is part of	['PHYS']	is part of	260
+1052	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	None	['PHYS']	involved in	256
+1052	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	enables	['PHYS']	enables	120
+1052	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	involved in	['PHYS']	Source	8
+16	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	Source	['PHYS']	Source	8
+16	in 1 to 1 orthology relationship with	['GENE']	has phenotype	['DISO']	has phenotype	['GENE']	in 1 to 1 orthology relationship with	['GENE']	involved in	['PHYS']	involved in	8

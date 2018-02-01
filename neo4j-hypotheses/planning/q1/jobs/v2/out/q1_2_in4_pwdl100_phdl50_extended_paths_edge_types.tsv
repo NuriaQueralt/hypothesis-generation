@@ -1,4 +1,4 @@
-source	target	number_of_paths	node_type	node_value	node_count
+source	target	number_of_paths	edge_type	edge_count
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	1852	in 1 to 1 orthology relationship with	3704
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	1852	has phenotype	3704
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	1852	involved in	1592

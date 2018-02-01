@@ -1,4 +1,4 @@
-source	target	number_of_paths	node_type	node_value	node_count
+source	target	number_of_paths	node_type	node_count
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	1852	GENE	5556
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	1852	DISO	1852
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	1852	PHYS	1852

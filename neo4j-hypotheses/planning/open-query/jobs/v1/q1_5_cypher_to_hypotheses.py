@@ -1,7 +1,7 @@
 ####
 # @author: Núria Queralt Rosinach
-# @date: 19-01-2018
-# @version: v1 [q1_pair_paths_content_node_type]
+# @date: 29-01-2018
+# @version: v1 [edge_type]
 
 import json
 import sys
@@ -48,7 +48,7 @@ seed_dct = {
 if not os.path.isdir('./out'): os.makedirs('./out')
 sys.path.insert(0, '.')
 with open('./out/{}.tsv'.format(args.output),'w') as f:
-    f.write('source\ttarget\tnumber_of_paths\tedge_type\tedge_count\n')
+    f.write('number_of_paths\tedge_type\tedge_count\n')
     for pair_dct in data:
         if len(pair_dct['paths']) != 0:
 
@@ -70,9 +70,9 @@ with open('./out/{}.tsv'.format(args.output),'w') as f:
 
             # print entity counts summary
             for edge in label_dct:
-                f.write('{}\t{}\t{}\t{}\t{}\n'.format(seed_dct[pair_dct['source']], seed_dct[pair_dct['target']], len(pair_dct['paths']), edge, label_dct[edge]))
+                f.write('{}\t{}\t{}\n'.format(len(pair_dct['paths']), edge, label_dct[edge]))
 
         else:
-            f.write('{}\t{}\t{}\t{}\t{}\n'.format(seed_dct[pair_dct['source']], seed_dct[pair_dct['target']], len(pair_dct['paths']), 'NA', str(0)))
+            f.write('{}\t{}\t{}\n'.format(len(pair_dct['paths']), 'NA', str(0)))
 
 

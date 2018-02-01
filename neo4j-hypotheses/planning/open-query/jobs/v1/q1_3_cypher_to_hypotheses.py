@@ -1,7 +1,7 @@
 ####
 # @author: Núria Queralt Rosinach
-# @date: 19-01-2018
-# @version: v1 [q1_pair_paths_content_node_type]
+# @date: 29-01-2018
+# @version: v1 [node_type]
 
 import json
 import sys
@@ -48,31 +48,29 @@ seed_dct = {
 if not os.path.isdir('./out'): os.makedirs('./out')
 sys.path.insert(0, '.')
 with open('./out/{}.tsv'.format(args.output),'w') as f:
-    f.write('source\ttarget\tnumber_of_paths\tedge_type\tedge_count\n')
+    f.write('number_of_paths\tnode_type\tnode_count\n')
     for pair_dct in data:
         if len(pair_dct['paths']) != 0:
 
             # for a pair - run all over its links and save the counts for every entity
             label_dct = dict()
             for path_dct in pair_dct['paths']:
-                rel1 = str(path_dct['Edges'][0]['preflabel'])
-                rel2 = str(path_dct['Edges'][1]['preflabel'])
-                rel3 = str(path_dct['Edges'][2]['preflabel'])
-                rel4 = str(path_dct['Edges'][3]['preflabel'])
-                rel5 = str(path_dct['Edges'][4]['preflabel'])
-                rel6 = str(path_dct['Edges'][5]['preflabel'])
-                label_dct = counter(label_dct,rel1)
-                label_dct = counter(label_dct,rel2)
-                label_dct = counter(label_dct,rel3)
-                label_dct = counter(label_dct,rel4)
-                label_dct = counter(label_dct,rel5)
-                label_dct = counter(label_dct,rel6)
+                node1 = str(path_dct['Nodes'][1]['label'])
+                node2 = str(path_dct['Nodes'][2]['label'])
+                node3 = str(path_dct['Nodes'][3]['label'])
+                node4 = str(path_dct['Nodes'][4]['label'])
+                node5 = str(path_dct['Nodes'][5]['label'])
+                label_dct = counter(label_dct,node1)
+                label_dct = counter(label_dct,node2)
+                label_dct = counter(label_dct,node3)
+                label_dct = counter(label_dct,node4)
+                label_dct = counter(label_dct,node5)
 
             # print entity counts summary
-            for edge in label_dct:
-                f.write('{}\t{}\t{}\t{}\t{}\n'.format(seed_dct[pair_dct['source']], seed_dct[pair_dct['target']], len(pair_dct['paths']), edge, label_dct[edge]))
+            for node in label_dct:
+                f.write('{}\t{}\t{}\n'.format(len(pair_dct['paths']), node, label_dct[node]))
 
         else:
-            f.write('{}\t{}\t{}\t{}\t{}\n'.format(seed_dct[pair_dct['source']], seed_dct[pair_dct['target']], len(pair_dct['paths']), 'NA', str(0)))
+            f.write('{}\t{}\t{}\n'.format(len(pair_dct['paths']), 'NA', str(0)))
 
 

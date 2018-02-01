@@ -48,7 +48,7 @@ seed_dct = {
 if not os.path.isdir('./out'): os.makedirs('./out')
 sys.path.insert(0, '.')
 with open('./out/{}.tsv'.format(args.output),'w') as f:
-    f.write('source\ttarget\tnumber_of_paths\tnode_type\tnode_value\tnode_count\n')
+    f.write('source\ttarget\tnumber_of_paths\tnode_type\tnode_count\n')
     for pair_dct in data:
         if len(pair_dct['paths']) != 0:
 

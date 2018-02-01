@@ -1,4 +1,4 @@
-source	target	number_of_paths	node_type	node_value	node_count
+source	target	number_of_paths	node_type	node_count
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	700	GENE	2100
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	700	DISO	700
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	700	PHYS	700

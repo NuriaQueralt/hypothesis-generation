@@ -1,0 +1,85 @@
+number_of_paths	node_type	node_value	node_count
+1052	GENE	Pngl::FlyBase:FBgn0033050	1036
+1052	GENE	Egfr::FlyBase:FBgn0003731	540
+1052	GENE	Egfr::MGI:95294	252
+1052	GENE	Jra::FlyBase:FBgn0001291	112
+1052	GENE	Jun::MGI:96646	56
+1052	GENE	JUN::NCBIGene:3725	32
+1052	GENE	Jun::RGD:2943	16
+1052	GENE	Hcf::FlyBase:FBgn0039904	48
+1052	GENE	Hcfc1::MGI:105942	24
+1052	GENE	EGFR::NCBIGene:1956	180
+1052	GENE	Egfr::RGD:2543	108
+1052	GENE	sgg::FlyBase:FBgn0003371	168
+1052	GENE	Gsk3b::MGI:1861437	96
+1052	GENE	TER94::FlyBase:FBgn0261014	48
+1052	GENE	VCP::NCBIGene:7415	32
+1052	GENE	AQP::FlyBase:FBgn0033807	32
+1052	GENE	AQP12A::NCBIGene:375318	32
+1052	GENE	Gsk3b::RGD:70982	48
+1052	GENE	RpS27A::FlyBase:FBgn0003942	32
+1052	GENE	RPS27A::NCBIGene:6233	32
+1052	GENE	HCFC1::NCBIGene:3054	24
+1052	GENE	bchs::FlyBase:FBgn0043362	8
+1052	GENE	WDFY3::NCBIGene:23001	8
+1052	GENE	Ngly1::MGI:1913276	16
+1052	GENE	Traf2::MGI:101835	12
+1052	GENE	TRAF2::NCBIGene:7186	8
+1052	GENE	Vcp::MGI:99919	16
+1052	GENE	beta4GalNAcTA::FlyBase:FBgn0027538	24
+1052	GENE	B4GALT1::NCBIGene:2683	24
+1052	GENE	Ubi-p5E::FlyBase:FBgn0086558	4
+1052	GENE	UBC::NCBIGene:7316	4
+1052	GENE	GSK3B::NCBIGene:2932	24
+1052	GENE	sinah::FlyBase:FBgn0259794	8
+1052	GENE	Siah1a::MGI:108064	4
+1052	GENE	Traf2::RGD:1310457	4
+1052	GENE	jun::ZFIN:ZDB-GENE-030131-7859	8
+1052	GENE	SIAH1::NCBIGene:6477	4
+1052	GENE	Rpt2::FlyBase:FBgn0015282	4
+1052	GENE	PSMC1::NCBIGene:5700	4
+1052	GENE	App::MGI:88059	4
+1052	GENE	App::RGD:2139	4
+1052	GENE	RpL40::FlyBase:FBgn0003941	8
+1052	GENE	UBA52::NCBIGene:7311	8
+1052	DISO	short lived::FBcv:0000385	84
+1052	DISO	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	172
+1052	DISO	partially lethal - majority die::FBcv:0000352	148
+1052	DISO	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	60
+1052	DISO	female sterile::FBcv:0000366	96
+1052	DISO	developmental rate defective::FBcv:0000450	104
+1052	DISO	male sterile::FBcv:0000370	40
+1052	DISO	wing vein phenotype::FBbt:00004751PHENOTYPE	108
+1052	DISO	wing margin phenotype::FBbt:00005378PHENOTYPE	60
+1052	DISO	lethal - all die before end of P-stage::FBcv:0002000	40
+1052	DISO	some die during pharate adult stage::FBcv:0002038	28
+1052	DISO	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	60
+1052	DISO	Abnormality of cell physiology::HP:0011017	16
+1052	DISO	Drosophila wing blade phenotype::FBbt:00006015PHENOTYPE	28
+1052	DISO	partially lethal - majority live::FBcv:0000350	8
+1052	PHYS	wound healing::GO:0042060	72
+1052	PHYS	positive regulation of epithelial cell migration::GO:0010634	32
+1052	PHYS	positive regulation of fibroblast proliferation::GO:0048146	140
+1052	PHYS	axon::GO:0030424	48
+1052	PHYS	nuclear membrane::GO:0031965	44
+1052	PHYS	cellular response to mechanical stimulus::GO:0071260	108
+1052	PHYS	cellular response to dexamethasone stimulus::GO:0071549	72
+1052	PHYS	basolateral plasma membrane::GO:0016323	84
+1052	PHYS	Transmembrane transport of small molecules::REACT:R-HSA-382551	52
+1052	PHYS	apical plasma membrane::GO:0016324	72
+1052	PHYS	Passive transport by Aquaporins::REACT:R-HSA-432047	16
+1052	PHYS	cellular response to hydrogen peroxide::GO:0070301	24
+1052	PHYS	negative regulation of apoptotic process::GO:0043066	112
+1052	PHYS	identical protein binding::GO:0042802	120
+1052	PHYS	cellular response to nitric oxide::GO:0071732	8
+1052	PHYS	brush border membrane::GO:0031526	12
+1052	PHYS	response to drug::GO:0042493	24
+1052	PHYS	Aquaporin-mediated transport::REACT:R-HSA-445717	8
+1052	PHYS	cellular response to cAMP::GO:0071320	4
+16	GENE	Aqp1::MGI:103201	16
+16	GENE	Vcp::MGI:99919	16
+16	GENE	VCP::NCBIGene:7415	16
+16	DISO	behavior/neurological phenotype::MP:0005386	8
+16	DISO	decreased grip strength::MP:0010053	8
+16	PHYS	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins::REACT:R-HSA-8850594	8
+16	PHYS	protein folding::GO:0006457	8

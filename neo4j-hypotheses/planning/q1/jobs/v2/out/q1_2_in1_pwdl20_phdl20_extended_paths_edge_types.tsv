@@ -1,4 +1,4 @@
-source	target	number_of_paths	node_type	node_value	node_count
+source	target	number_of_paths	edge_type	edge_count
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	700	in 1 to 1 orthology relationship with	1400
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	700	has phenotype	1400
 NGLY1::NCBIGene:55768	AQP1::NCBIGene:358	700	involved in	936

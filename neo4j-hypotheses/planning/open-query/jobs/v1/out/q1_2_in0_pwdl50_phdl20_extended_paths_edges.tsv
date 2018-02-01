@@ -1,0 +1,176 @@
+number_of_paths	subject	edge_type	object	edge_count
+1052	NGLY1::NCBIGene:55768	in 1 to 1 orthology relationship with	Pngl::FlyBase:FBgn0033050	1036
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	short lived::FBcv:0000385	84
+1052	short lived::FBcv:0000385	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	Egfr::FlyBase:FBgn0003731	in 1 to 1 orthology relationship with	Egfr::MGI:95294	252
+1052	Egfr::MGI:95294	involved in	wound healing::GO:0042060	36
+1052	wound healing::GO:0042060	involved in	AQP1::NCBIGene:358	72
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	172
+1052	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	has phenotype	Jra::FlyBase:FBgn0001291	56
+1052	Jra::FlyBase:FBgn0001291	in 1 to 1 orthology relationship with	Jun::MGI:96646	56
+1052	Jun::MGI:96646	involved in	positive regulation of epithelial cell migration::GO:0010634	8
+1052	positive regulation of epithelial cell migration::GO:0010634	involved in	AQP1::NCBIGene:358	32
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	partially lethal - majority die::FBcv:0000352	148
+1052	partially lethal - majority die::FBcv:0000352	has phenotype	Jra::FlyBase:FBgn0001291	56
+1052	Jra::FlyBase:FBgn0001291	in 1 to 1 orthology relationship with	JUN::NCBIGene:3725	32
+1052	JUN::NCBIGene:3725	involved in	positive regulation of fibroblast proliferation::GO:0048146	8
+1052	positive regulation of fibroblast proliferation::GO:0048146	involved in	AQP1::NCBIGene:358	140
+1052	Jra::FlyBase:FBgn0001291	in 1 to 1 orthology relationship with	Jun::RGD:2943	16
+1052	Jun::RGD:2943	None	positive regulation of fibroblast proliferation::GO:0048146	8
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	60
+1052	Drosophila tarsal segment 4 phenotype::FBbt:00004651PHENOTYPE	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	Egfr::MGI:95294	involved in	positive regulation of fibroblast proliferation::GO:0048146	36
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	female sterile::FBcv:0000366	96
+1052	female sterile::FBcv:0000366	has phenotype	Hcf::FlyBase:FBgn0039904	16
+1052	Hcf::FlyBase:FBgn0039904	in 1 to 1 orthology relationship with	Hcfc1::MGI:105942	24
+1052	Hcfc1::MGI:105942	is part of	axon::GO:0030424	12
+1052	axon::GO:0030424	is part of	AQP1::NCBIGene:358	48
+1052	Egfr::FlyBase:FBgn0003731	in 1 to 1 orthology relationship with	EGFR::NCBIGene:1956	180
+1052	EGFR::NCBIGene:1956	is part of	nuclear membrane::GO:0031965	36
+1052	nuclear membrane::GO:0031965	is part of	AQP1::NCBIGene:358	44
+1052	partially lethal - majority die::FBcv:0000352	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	Egfr::FlyBase:FBgn0003731	in 1 to 1 orthology relationship with	Egfr::RGD:2543	108
+1052	Egfr::RGD:2543	None	cellular response to mechanical stimulus::GO:0071260	36
+1052	cellular response to mechanical stimulus::GO:0071260	involved in	AQP1::NCBIGene:358	108
+1052	Egfr::RGD:2543	None	cellular response to dexamethasone stimulus::GO:0071549	36
+1052	cellular response to dexamethasone stimulus::GO:0071549	involved in	AQP1::NCBIGene:358	72
+1052	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	EGFR::NCBIGene:1956	involved in	wound healing::GO:0042060	36
+1052	Jun::RGD:2943	None	positive regulation of epithelial cell migration::GO:0010634	8
+1052	Egfr::MGI:95294	is part of	basolateral plasma membrane::GO:0016323	36
+1052	basolateral plasma membrane::GO:0016323	is part of	AQP1::NCBIGene:358	84
+1052	JUN::NCBIGene:3725	involved in	positive regulation of epithelial cell migration::GO:0010634	8
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	developmental rate defective::FBcv:0000450	104
+1052	developmental rate defective::FBcv:0000450	has phenotype	sgg::FlyBase:FBgn0003371	28
+1052	sgg::FlyBase:FBgn0003371	in 1 to 1 orthology relationship with	Gsk3b::MGI:1861437	96
+1052	Gsk3b::MGI:1861437	involved in	cellular response to mechanical stimulus::GO:0071260	24
+1052	developmental rate defective::FBcv:0000450	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	male sterile::FBcv:0000370	40
+1052	male sterile::FBcv:0000370	has phenotype	TER94::FlyBase:FBgn0261014	12
+1052	TER94::FlyBase:FBgn0261014	in 1 to 1 orthology relationship with	VCP::NCBIGene:7415	32
+1052	VCP::NCBIGene:7415	involved in	Transmembrane transport of small molecules::REACT:R-HSA-382551	16
+1052	Transmembrane transport of small molecules::REACT:R-HSA-382551	involved in	AQP1::NCBIGene:358	52
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	wing vein phenotype::FBbt:00004751PHENOTYPE	108
+1052	wing vein phenotype::FBbt:00004751PHENOTYPE	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	EGFR::NCBIGene:1956	is part of	basolateral plasma membrane::GO:0016323	36
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	wing margin phenotype::FBbt:00005378PHENOTYPE	60
+1052	wing margin phenotype::FBbt:00005378PHENOTYPE	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	EGFR::NCBIGene:1956	is part of	apical plasma membrane::GO:0016324	36
+1052	apical plasma membrane::GO:0016324	is part of	AQP1::NCBIGene:358	72
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	lethal - all die before end of P-stage::FBcv:0002000	40
+1052	lethal - all die before end of P-stage::FBcv:0002000	has phenotype	sgg::FlyBase:FBgn0003371	28
+1052	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	has phenotype	AQP::FlyBase:FBgn0033807	16
+1052	AQP::FlyBase:FBgn0033807	in 1 to 1 orthology relationship with	AQP12A::NCBIGene:375318	32
+1052	AQP12A::NCBIGene:375318	involved in	Passive transport by Aquaporins::REACT:R-HSA-432047	16
+1052	Passive transport by Aquaporins::REACT:R-HSA-432047	involved in	AQP1::NCBIGene:358	8
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	some die during pharate adult stage::FBcv:0002038	28
+1052	some die during pharate adult stage::FBcv:0002038	has phenotype	sgg::FlyBase:FBgn0003371	28
+1052	sgg::FlyBase:FBgn0003371	in 1 to 1 orthology relationship with	Gsk3b::RGD:70982	48
+1052	Gsk3b::RGD:70982	None	cellular response to hydrogen peroxide::GO:0070301	24
+1052	cellular response to hydrogen peroxide::GO:0070301	involved in	AQP1::NCBIGene:358	24
+1052	Egfr::MGI:95294	None	positive regulation of fibroblast proliferation::GO:0048146	36
+1052	female sterile::FBcv:0000366	has phenotype	RpS27A::FlyBase:FBgn0003942	8
+1052	RpS27A::FlyBase:FBgn0003942	in 1 to 1 orthology relationship with	RPS27A::NCBIGene:6233	32
+1052	RPS27A::NCBIGene:6233	involved in	Transmembrane transport of small molecules::REACT:R-HSA-382551	16
+1052	Egfr::MGI:95294	is part of	apical plasma membrane::GO:0016324	36
+1052	Gsk3b::MGI:1861437	involved in	negative regulation of apoptotic process::GO:0043066	24
+1052	negative regulation of apoptotic process::GO:0043066	involved in	AQP1::NCBIGene:358	112
+1052	Hcf::FlyBase:FBgn0039904	in 1 to 1 orthology relationship with	HCFC1::NCBIGene:3054	24
+1052	HCFC1::NCBIGene:3054	is part of	axon::GO:0030424	12
+1052	female sterile::FBcv:0000366	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	VCP::NCBIGene:7415	enables	identical protein binding::GO:0042802	16
+1052	identical protein binding::GO:0042802	enables	AQP1::NCBIGene:358	120
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	60
+1052	Drosophila pretarsus phenotype::FBbt:00004653PHENOTYPE	has phenotype	Egfr::FlyBase:FBgn0003731	60
+1052	Egfr::RGD:2543	None	positive regulation of fibroblast proliferation::GO:0048146	36
+1052	short lived::FBcv:0000385	has phenotype	bchs::FlyBase:FBgn0043362	4
+1052	bchs::FlyBase:FBgn0043362	in 1 to 1 orthology relationship with	WDFY3::NCBIGene:23001	8
+1052	WDFY3::NCBIGene:23001	is part of	nuclear membrane::GO:0031965	8
+1052	Jun::MGI:96646	involved in	negative regulation of apoptotic process::GO:0043066	8
+1052	short lived::FBcv:0000385	has phenotype	TER94::FlyBase:FBgn0261014	12
+1052	wing vein phenotype::FBbt:00004751PHENOTYPE	has phenotype	sgg::FlyBase:FBgn0003371	28
+1052	NGLY1::NCBIGene:55768	in 1 to 1 orthology relationship with	Ngly1::MGI:1913276	16
+1052	Ngly1::MGI:1913276	has phenotype	Abnormality of cell physiology::HP:0011017	16
+1052	Abnormality of cell physiology::HP:0011017	has phenotype	Traf2::MGI:101835	12
+1052	Traf2::MGI:101835	in 1 to 1 orthology relationship with	TRAF2::NCBIGene:7186	8
+1052	TRAF2::NCBIGene:7186	involved in	cellular response to nitric oxide::GO:0071732	4
+1052	cellular response to nitric oxide::GO:0071732	involved in	AQP1::NCBIGene:358	8
+1052	partially lethal - majority die::FBcv:0000352	has phenotype	RpS27A::FlyBase:FBgn0003942	8
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	Drosophila wing blade phenotype::FBbt:00006015PHENOTYPE	28
+1052	Drosophila wing blade phenotype::FBbt:00006015PHENOTYPE	has phenotype	sgg::FlyBase:FBgn0003371	28
+1052	Gsk3b::MGI:1861437	None	cellular response to mechanical stimulus::GO:0071260	24
+1052	Egfr::MGI:95294	involved in	negative regulation of apoptotic process::GO:0043066	36
+1052	Egfr::MGI:95294	enables	identical protein binding::GO:0042802	36
+1052	EGFR::NCBIGene:1956	involved in	cellular response to dexamethasone stimulus::GO:0071549	36
+1052	RPS27A::NCBIGene:6233	involved in	negative regulation of apoptotic process::GO:0043066	16
+1052	TER94::FlyBase:FBgn0261014	in 1 to 1 orthology relationship with	Vcp::MGI:99919	16
+1052	Vcp::MGI:99919	enables	identical protein binding::GO:0042802	16
+1052	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	has phenotype	sgg::FlyBase:FBgn0003371	28
+1052	Gsk3b::MGI:1861437	is part of	axon::GO:0030424	24
+1052	female sterile::FBcv:0000366	has phenotype	beta4GalNAcTA::FlyBase:FBgn0027538	8
+1052	beta4GalNAcTA::FlyBase:FBgn0027538	in 1 to 1 orthology relationship with	B4GALT1::NCBIGene:2683	24
+1052	B4GALT1::NCBIGene:2683	is part of	brush border membrane::GO:0031526	12
+1052	brush border membrane::GO:0031526	is part of	AQP1::NCBIGene:358	12
+1052	male sterile::FBcv:0000370	has phenotype	beta4GalNAcTA::FlyBase:FBgn0027538	8
+1052	B4GALT1::NCBIGene:2683	is part of	basolateral plasma membrane::GO:0016323	12
+1052	Passive transport by Aquaporins::REACT:R-HSA-432047	Source	AQP1::NCBIGene:358	8
+1052	JUN::NCBIGene:3725	enables	identical protein binding::GO:0042802	8
+1052	wing vein phenotype::FBbt:00004751PHENOTYPE	has phenotype	Ubi-p5E::FlyBase:FBgn0086558	4
+1052	Ubi-p5E::FlyBase:FBgn0086558	in 1 to 1 orthology relationship with	UBC::NCBIGene:7316	4
+1052	UBC::NCBIGene:7316	involved in	Transmembrane transport of small molecules::REACT:R-HSA-382551	4
+1052	Gsk3b::RGD:70982	None	cellular response to mechanical stimulus::GO:0071260	24
+1052	wing vein phenotype::FBbt:00004751PHENOTYPE	has phenotype	Hcf::FlyBase:FBgn0039904	16
+1052	Pngl::FlyBase:FBgn0033050	has phenotype	partially lethal - majority live::FBcv:0000350	8
+1052	partially lethal - majority live::FBcv:0000350	has phenotype	beta4GalNAcTA::FlyBase:FBgn0027538	8
+1052	Drosophila embryo phenotype::FBbt:00000052PHENOTYPE	has phenotype	TER94::FlyBase:FBgn0261014	12
+1052	Jun::MGI:96646	involved in	response to drug::GO:0042493	8
+1052	response to drug::GO:0042493	involved in	AQP1::NCBIGene:358	24
+1052	Jun::MGI:96646	None	positive regulation of fibroblast proliferation::GO:0048146	8
+1052	Hcfc1::MGI:105942	enables	identical protein binding::GO:0042802	12
+1052	Jun::MGI:96646	enables	identical protein binding::GO:0042802	8
+1052	sgg::FlyBase:FBgn0003371	in 1 to 1 orthology relationship with	GSK3B::NCBIGene:2932	24
+1052	GSK3B::NCBIGene:2932	involved in	negative regulation of apoptotic process::GO:0043066	24
+1052	JUN::NCBIGene:3725	involved in	response to drug::GO:0042493	8
+1052	developmental rate defective::FBcv:0000450	has phenotype	AQP::FlyBase:FBgn0033807	16
+1052	AQP12A::NCBIGene:375318	involved in	Transmembrane transport of small molecules::REACT:R-HSA-382551	8
+1052	male sterile::FBcv:0000370	has phenotype	RpS27A::FlyBase:FBgn0003942	8
+1052	HCFC1::NCBIGene:3054	enables	identical protein binding::GO:0042802	12
+1052	AQP12A::NCBIGene:375318	involved in	Aquaporin-mediated transport::REACT:R-HSA-445717	8
+1052	Aquaporin-mediated transport::REACT:R-HSA-445717	involved in	AQP1::NCBIGene:358	8
+1052	partially lethal - majority die::FBcv:0000352	has phenotype	Hcf::FlyBase:FBgn0039904	16
+1052	female sterile::FBcv:0000366	has phenotype	bchs::FlyBase:FBgn0043362	4
+1052	male sterile::FBcv:0000370	has phenotype	sinah::FlyBase:FBgn0259794	8
+1052	sinah::FlyBase:FBgn0259794	in 1 to 1 orthology relationship with	Siah1a::MGI:108064	4
+1052	Siah1a::MGI:108064	enables	identical protein binding::GO:0042802	4
+1052	Traf2::MGI:101835	in 1 to 1 orthology relationship with	Traf2::RGD:1310457	4
+1052	Traf2::RGD:1310457	None	cellular response to nitric oxide::GO:0071732	4
+1052	lethal - all die before end of P-stage::FBcv:0002000	has phenotype	TER94::FlyBase:FBgn0261014	12
+1052	Jun::MGI:96646	involved in	positive regulation of fibroblast proliferation::GO:0048146	8
+1052	Jra::FlyBase:FBgn0001291	in 1 to 1 orthology relationship with	jun::ZFIN:ZDB-GENE-030131-7859	8
+1052	jun::ZFIN:ZDB-GENE-030131-7859	involved in	response to drug::GO:0042493	8
+1052	sinah::FlyBase:FBgn0259794	in 1 to 1 orthology relationship with	SIAH1::NCBIGene:6477	4
+1052	SIAH1::NCBIGene:6477	enables	identical protein binding::GO:0042802	4
+1052	Jun::MGI:96646	None	positive regulation of epithelial cell migration::GO:0010634	8
+1052	male sterile::FBcv:0000370	has phenotype	Rpt2::FlyBase:FBgn0015282	4
+1052	Rpt2::FlyBase:FBgn0015282	in 1 to 1 orthology relationship with	PSMC1::NCBIGene:5700	4
+1052	PSMC1::NCBIGene:5700	involved in	Transmembrane transport of small molecules::REACT:R-HSA-382551	4
+1052	short lived::FBcv:0000385	has phenotype	RpS27A::FlyBase:FBgn0003942	8
+1052	Abnormality of cell physiology::HP:0011017	has phenotype	App::MGI:88059	4
+1052	App::MGI:88059	in 1 to 1 orthology relationship with	App::RGD:2139	4
+1052	App::RGD:2139	None	cellular response to cAMP::GO:0071320	4
+1052	cellular response to cAMP::GO:0071320	involved in	AQP1::NCBIGene:358	4
+1052	TRAF2::NCBIGene:7186	enables	identical protein binding::GO:0042802	4
+1052	partially lethal - majority die::FBcv:0000352	has phenotype	RpL40::FlyBase:FBgn0003941	8
+1052	RpL40::FlyBase:FBgn0003941	in 1 to 1 orthology relationship with	UBA52::NCBIGene:7311	8
+1052	UBA52::NCBIGene:7311	involved in	negative regulation of apoptotic process::GO:0043066	4
+1052	UBA52::NCBIGene:7311	involved in	Transmembrane transport of small molecules::REACT:R-HSA-382551	4
+16	AQP1::NCBIGene:358	in 1 to 1 orthology relationship with	Aqp1::MGI:103201	16
+16	Aqp1::MGI:103201	has phenotype	behavior/neurological phenotype::MP:0005386	8
+16	behavior/neurological phenotype::MP:0005386	has phenotype	Vcp::MGI:99919	8
+16	Vcp::MGI:99919	in 1 to 1 orthology relationship with	VCP::NCBIGene:7415	16
+16	VCP::NCBIGene:7415	Source	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins::REACT:R-HSA-8850594	8
+16	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins::REACT:R-HSA-8850594	Source	NGLY1::NCBIGene:55768	8
+16	Aqp1::MGI:103201	has phenotype	decreased grip strength::MP:0010053	8
+16	decreased grip strength::MP:0010053	has phenotype	Vcp::MGI:99919	8
+16	VCP::NCBIGene:7415	involved in	protein folding::GO:0006457	8
+16	protein folding::GO:0006457	involved in	NGLY1::NCBIGene:55768	8
