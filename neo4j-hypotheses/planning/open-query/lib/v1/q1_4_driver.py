@@ -11,7 +11,7 @@ import subprocess
 query = "q1"
 
 # read file query rows
-df = pd.read_csv('./data/{}_1.tsv'.format(query), header = 0, sep = '\t', keep_default_na = False)
+df = pd.read_csv('./data/{}.tsv'.format(query), header = 0, sep = '\t', keep_default_na = False)
 for index, row in df.iterrows():
     # control execution flow
     if ( row.max_pathway_degree == 0 and row.max_disease_degree == 0 ):
