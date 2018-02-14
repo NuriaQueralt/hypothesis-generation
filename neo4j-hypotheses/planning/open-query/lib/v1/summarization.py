@@ -15,6 +15,7 @@ def query_parser(query):
     target = query.get('target')
     #print('The query is {}-{}'.format(source, target))
     metapath_dict = dict()
+    metapaths = list()
     entities = list()
     nodes = list()
     edges = list()
@@ -53,7 +54,9 @@ def query_parser(query):
         if metapath_str not in metapath_dict:
             metapath_idx += 1
             metapath_dict[metapath_str] = metapath_idx
-        for object in objects:
+        path_entities_l = list()
+        #for object in objects:
+        for object in metapath_list:
             object['metapath_idx'] = metapath_dict[metapath_str]
         # create a uniform path object
             entity = dict()
@@ -64,11 +67,24 @@ def query_parser(query):
             entity['path_idx'] = object['path_idx']
             entity['metapath_idx'] = object['metapath_idx']
             entity['object_order'] = object['object_order']
+            path_entities_l.append(entity)
             entities.append(entity)
-    # add nodes and edges attributes
+        # create metapath obj in path records
+        metapath = {
+            'metapath_idx': entity['metapath_idx'],
+            'path_idx': entity['path_idx'],
+            'label': metapath_str,
+            'entities': path_entities_l,
+            'length': len(path_entities_l)
+        }
+        metapaths.append(metapath)
+
+    # add metapaths, entities, nodes and edges attributes
+    query['metapaths'] = metapaths
     query['entities'] = entities
     query['nodes'] = nodes
     query['edges'] = edges
+    print(query)
 
     return query
 
@@ -81,13 +97,16 @@ def path_load(filename):
 def metapath(data):
     """This function prepare metapath summary table."""
     for query in data:
-        print(query.get('source'), query.get('target'))
+        #print(query.get('source'), query.get('target'))
         df = pd.DataFrame(query.get('entities'))
     # test
-        metapath_length = df.groupby(['metapath_idx','path_idx'])['idx'].count().reset_index().groupby(['metapath_idx','idx'])['path_idx'].count().reset_index().rename(columns={'idx': 'metapath_length'})
+        #metapath_length = df.groupby(['metapath_idx','path_idx'])['idx'].count().reset_index().groupby(['metapath_idx','idx'])['path_idx'].count().reset_index().rename(columns={'idx': 'metapath_length'})
+        metapath_length = df.groupby(['metapath_idx','path_idx'])['idx'].count().reset_index().groupby(['metapath_idx','idx'])['path_idx'].count().reset_index().rename(columns={'idx': 'metapath_length', 'path_idx': 'metapath_count'})[['metapath_idx', 'metapath_length']]
         metapath_count = df.groupby(['metapath_idx','path_idx'])['idx'].count().reset_index().groupby('metapath_idx')['path_idx'].count().reset_index().rename(columns={'path_idx': 'metapath_count'})
-        print(metapath_length)
-        print(metapath_count)
+        metapath_df = df.groupby(['metapath_idx','path_idx'])['idx'].count().reset_index().groupby(['metapath_idx','idx'])['path_idx'].count().reset_index().rename(columns={'idx': 'metapath_length', 'path_idx': 'metapath_count'})
+        #print(metapath_length)
+        #print(metapath_count)
+        #print(metapath_df)
     # format 1
         #df['metapath_length'] = df.groupby(['metapath_idx', 'path_idx'])['object_order'].agg('count')
         #df['metapath_count'] = df.groupby('metapath_idx')['path_idx'].agg('count')
