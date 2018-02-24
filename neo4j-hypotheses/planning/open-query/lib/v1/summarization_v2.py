@@ -201,11 +201,11 @@ def node(idx, nodes_l):
             return nodus
 
 
-def edges_count(paths):
+def get_edge_patterns_in_path(paths):
     """This function returns edge patterns such as 'start-edge-end' in path results as a list of tuples.
     It also returns the map between the tuple {start, edge, end} and the pattern."""
 
-    edges_l = list()
+    key_l = list()
     edge_pattern_dct = dict()
     for path in paths:
         for node_i in range(len(path.get('Nodes'))):
@@ -214,16 +214,11 @@ def edges_count(paths):
             end = path.get('Nodes')[node_i + 1].get('preflabel') + '::' + path.get('Nodes')[node_i + 1].get('id')
             key = start + '_' + edge + '_' + end
             edge_pattern_dct[key] = {start, edge, end}
-            edges_l.append({start, edge, end})
+            key_l.append({start, edge, end})
             if node_i == len(path.get('Nodes')) - 2:
                 break
 
-    # count
-    count_dct = dict()
-    for key in edge_pattern_dct:
-        count_dct[key] = len(list(filter(lambda edge: edge == edge_pattern_dct[key], edges_l)))
-
-    return count_dct
+    return key_l, edge_pattern_dct
 
 
 def nodes_count(idx, nodes_l, attribute = 'idx'):
@@ -233,6 +228,12 @@ def nodes_count(idx, nodes_l, attribute = 'idx'):
             return len(list(filter(lambda x: x.get('idx') == idx, nodes_l)))
         if attribute == 'label':
             return len(list(filter(lambda x: x.get('label') == idx, nodes_l)))
+        if attribute == 'edge':
+            edges_l, pattern_dict = get_edge_patterns_in_path(nodes_l)
+            for key, value in pattern_dict.items():
+                if value == idx:
+                    edge_key = key
+                    return edge_key, len(list(filter(lambda edge: edge == idx, edges_l)))
 
 
 def nodes(data):
@@ -295,20 +296,33 @@ def edges(data):
         # format : path_count | node_type | node_value | node_count (rows = nodes)
         print('path_count\tsubject_value\tedge_type\tobject_value\tedge_count')
         edge_sum_dct = dict()
-        edges_sum_l = list()
-        edge_sum_dct['path_count'] = path_count(query)
-        edge2count_dict = edges_count(query.get('paths'))
-        for edge_pattern in edge2count_dict:
+        pattern_edges_dct = dict()
+        for edge_idx in {item.get('idx') for item in query.get('edges')}:
+            edge_dct = node(edge_idx, query.get('edges'))
+            start_node_dct = node(edge_dct.get('start_node'), query.get('nodes'))
+            end_node_dct = node(edge_dct.get('end_node'), query.get('nodes'))
+            edge_sum_dct['path_count'] = path_count(query)
+            edge_set = {start_node_dct.get('preflabel') + '::' + start_node_dct.get('id'),
+                        edge_dct.get('label') + '::' + edge_dct.get('id'),
+                        end_node_dct.get('preflabel') + '::' + end_node_dct.get('id')}
+            edge_pattern, count = nodes_count(edge_set, query.get('paths'), attribute = 'edge')
+            edge_sum_dct['edge_pattern'] = edge_pattern
             start,edge,end = edge_pattern.split('_')
             edge_sum_dct['subject_value'] = start
             edge_sum_dct['edge_type'] = edge
             edge_sum_dct['object_value'] = end
-            edge_sum_dct['edge_count'] = edge2count_dict[edge_pattern]
-            edges_sum_l.append(edge_sum_dct)
-            print('{}\t{}\t{}\t{}\t{}\n'.format(path_count(query), edge_sum_dct.get('subject_value'),
+            edge_sum_dct['edge_count'] = count
+            # control not repeat edges
+            pattern_edges_dct[edge_pattern] = dict(edge_sum_dct)
+
+        edges_sum_l = list()
+        for key in pattern_edges_dct:
+            edges_sum_l.append(pattern_edges_dct.get(key))
+
+        for edge_sum_dct in edges_sum_l:
+            print('{}\t{}\t{}\t{}\t{}\n'.format(edge_sum_dct.get('path_count'), edge_sum_dct.get('subject_value'),
                                                 edge_sum_dct.get('edge_type'), edge_sum_dct.get('object_value'),
                                                 edge_sum_dct['edge_count']))
-
 
     return edges_sum_l
 
@@ -341,7 +355,7 @@ if __name__ == "__main__":
     data = path_load('out/q1_1_in0_pwdl50_phdl20_paths')
 
     data_parsed = list()
-    funcs = [metapath, nodes, node_types, edges, edge_types]
+    funcs = [metapath]
     for query in data:
         query_parsed = query_parser(query)
         #metapath(query_parsed)
