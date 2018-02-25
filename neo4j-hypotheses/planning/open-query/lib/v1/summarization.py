@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # @name: summarization.py
-# @description: Module for metapath summarization
+# @description: Module for hypothesis summarization
 # @author: Núria Queralt Rosinach
 # @date: 02-02-2018
 # @version: 1.0
@@ -151,7 +151,7 @@ def metapath_label2(metapath_idx, metapaths_l):
             return mp.get('label').replace('-','\t')
 
 
-def metapath(data):
+def metapaths(data):
     """This function prepare metapath summary table."""
 
     for query in data:
@@ -338,16 +338,17 @@ def edge_types(data):
 
 if __name__ == "__main__":
 
-    data = path_load('out/q1_1_in0_pwdl50_phdl20_paths')
+    data = path_load('out/query_1_pwdl20_phdl20_paths_v2018-02-25')
+    #data = path_load('out/q1_1_in0_pwdl50_phdl20_paths')
 
     data_parsed = list()
-    funcs = [metapath, nodes, node_types, edges, edge_types]
+    funcs = [metapaths, nodes, node_types, edges, edge_types]
     for query in data:
         query_parsed = query_parser(query)
         #metapath(query_parsed)
         #map(lambda x: x(query_parsed), funcs)
         data_parsed.append(query_parsed)
-    #metapath(data_parsed)
+    #metapaths(data_parsed)
     #nodes(data_parsed)
     #node_types(data_parsed)
     edges(data_parsed)
