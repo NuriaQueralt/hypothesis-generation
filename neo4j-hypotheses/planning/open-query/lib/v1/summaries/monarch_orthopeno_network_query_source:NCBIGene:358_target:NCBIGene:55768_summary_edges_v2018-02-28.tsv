@@ -1,0 +1,11 @@
+edge_count	edge_type	object_value	path_count	subject_value
+16	in 1 to 1 orthology relationship with::RO:HOM0000020	Aqp1::MGI:103201	16	AQP1::NCBIGene:358
+8	has phenotype::RO:0002200	behavior/neurological phenotype::MP:0005386	16	Aqp1::MGI:103201
+8	has phenotype::RO:0002200	Vcp::MGI:99919	16	behavior/neurological phenotype::MP:0005386
+16	in 1 to 1 orthology relationship with::RO:HOM0000020	VCP::NCBIGene:7415	16	Vcp::MGI:99919
+8	Source::dc:source	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins::REACT:R-HSA-8850594	16	VCP::NCBIGene:7415
+8	Source::dc:source	NGLY1::NCBIGene:55768	16	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins::REACT:R-HSA-8850594
+8	has phenotype::RO:0002200	decreased grip strength::MP:0010053	16	Aqp1::MGI:103201
+8	has phenotype::RO:0002200	Vcp::MGI:99919	16	decreased grip strength::MP:0010053
+8	involved in::RO:0002331	protein folding::GO:0006457	16	VCP::NCBIGene:7415
+8	involved in::RO:0002331	NGLY1::NCBIGene:55768	16	protein folding::GO:0006457

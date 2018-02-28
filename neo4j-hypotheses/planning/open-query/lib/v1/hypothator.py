@@ -15,6 +15,7 @@ import sys,os
 import json
 import yaml
 import datetime
+import neo4j.exceptions
 
 
 # VARIABLES
@@ -47,11 +48,14 @@ def parse_path( path ):
     return out
 
 
-def query(genelist, queryname='', pwdegree='50', phdegree='20', format='json'):
+def query(genelist, queryname='', pwdegree='50', phdegree='20', format='json', port='7688'):
     """This function queries the graph database."""
 
     # initialize neo4j
-    driver = GraphDatabase.driver("bolt://localhost:7688", auth=("neo4j", "xena"))
+    try:
+        driver = GraphDatabase.driver("bolt://localhost:{}".format(port), auth=("neo4j", "xena"))
+    except neo4j.exceptions.ServiceUnavailable:
+        raise
 
     # query topology
     query_topology = """
@@ -61,11 +65,11 @@ def query(genelist, queryname='', pwdegree='50', phdegree='20', format='json'):
     # ask the driver object for a new session
     with driver.session() as session:
         # create outdir
-        if not os.path.isdir('./out'): os.makedirs('./out')
+        if not os.path.isdir('./hypothesis'): os.makedirs('./hypothesis')
         sys.path.insert(0, '.')
 
         # output filename
-        filename = 'query_{}_pwdl{}_phdl{}_paths_v{}'.format(queryname, phdegree, phdegree, today)
+        filename = 'query_{}_pwdl{}_phdl{}_paths_v{}'.format(queryname, pwdegree, phdegree, today)
 
         # run query
         outputAll = list()
@@ -116,18 +120,18 @@ def query(genelist, queryname='', pwdegree='50', phdegree='20', format='json'):
                 if (format == "yaml"):
                     print(yaml.dump(outputAll, default_flow_style=False))
                 elif (format == "json"):
-                    with open('./out/{}.json'.format(filename), 'w') as f:
+                    with open('./hypothesis/{}.json'.format(filename), 'w') as f:
                         json.dump(outputAll, f)
                     # print(json.dumps(outputAll))
                 else:
                     sys.stderr.write("Error.\n")
 
-    return sys.stderr.write("{} QUERIES completed.\n".format(len(output)))
+    return sys.stderr.write("hypothator has finished. {} QUERIES completed.\n".format(len(output)))
 
 
 if __name__ == '__main__':
     seed = list([
         'NCBIGene:55768',  # NGLY1 human gene
-        'NCBIGene:358',  # AQP1 human gene
+        'NCBIGene:358'  # AQP1 human gene
     ])
-    query(seed,'1')
+    query(seed,'ngly1_aqp1',port='7688')

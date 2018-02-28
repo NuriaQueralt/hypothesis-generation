@@ -1,0 +1,10 @@
+node_count	node_type	node_value	path_count
+8	PHYS	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins::REACT:R-HSA-8850594	16
+16	GENE	AQP1::NCBIGene:358	16
+8	PHYS	protein folding::GO:0006457	16
+16	GENE	Vcp::MGI:99919	16
+16	GENE	VCP::NCBIGene:7415	16
+8	DISO	decreased grip strength::MP:0010053	16
+16	GENE	NGLY1::NCBIGene:55768	16
+8	DISO	behavior/neurological phenotype::MP:0005386	16
+16	GENE	Aqp1::MGI:103201	16

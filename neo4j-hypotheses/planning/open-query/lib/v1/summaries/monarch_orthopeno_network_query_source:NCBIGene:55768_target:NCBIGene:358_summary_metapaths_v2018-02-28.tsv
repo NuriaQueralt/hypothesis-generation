@@ -1,0 +1,6 @@
+metapath_count	metapath_idx	metapath_label	path_count
+408	1	"GENE	in 1 to 1 orthology relationship with	GENE	has phenotype	DISO	has phenotype	GENE	in 1 to 1 orthology relationship with	GENE	involved in	PHYS	involved in	GENE"	1052
+256	2	"GENE	in 1 to 1 orthology relationship with	GENE	has phenotype	DISO	has phenotype	GENE	in 1 to 1 orthology relationship with	GENE	None	PHYS	involved in	GENE"	1052
+260	3	"GENE	in 1 to 1 orthology relationship with	GENE	has phenotype	DISO	has phenotype	GENE	in 1 to 1 orthology relationship with	GENE	is part of	PHYS	is part of	GENE"	1052
+120	4	"GENE	in 1 to 1 orthology relationship with	GENE	has phenotype	DISO	has phenotype	GENE	in 1 to 1 orthology relationship with	GENE	enables	PHYS	enables	GENE"	1052
+8	5	"GENE	in 1 to 1 orthology relationship with	GENE	has phenotype	DISO	has phenotype	GENE	in 1 to 1 orthology relationship with	GENE	involved in	PHYS	Source	GENE"	1052

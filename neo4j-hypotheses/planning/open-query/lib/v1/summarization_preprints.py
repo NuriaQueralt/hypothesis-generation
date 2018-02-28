@@ -16,24 +16,6 @@
 import json
 import pandas as pd
 import os
-import datetime
-
-
-######## VARIABLES
-today = datetime.date.today()
-
-
-
-
-def print_summaries(summary, filename):
-    """This function save the graph into a TSV file."""
-
-    # print output file
-    path = os.getcwd() + '/summaries'
-    if not os.path.isdir(path): os.makedirs(path)
-    pd.DataFrame(summary).to_csv('{}/{}_v{}.tsv'.format(path,filename,today), index=False, sep='\t')
-
-    return print("\nFile '{}/{}_v{}.tsv' saved.".format(path,filename,today))
 
 
 def query_parser(query):
@@ -188,20 +170,10 @@ def metapaths(data):
 
         # from 'metapaths'
         print('path_count\tmetapath_idx\tmetapath_count\tmetapath_label')
-        metapath_dct = dict()
-        metapath_l = list()
         for metapath_idx in { mp.get('metapath_idx') for mp in query.get('metapaths') }:
-            metapath_dct['path_count'] = path_count(query)
-            metapath_dct['metapath_idx'] = metapath_idx
-            metapath_dct['metapath_count'] = metapath_count2(metapath_idx, query.get('metapaths'))
-            metapath_dct['metapath_label'] = metapath_label2(metapath_idx, query.get('metapaths'))
-            metapath_l.append(dict(metapath_dct))
             print('{}\t{}\t{}\t{}\n'.format(path_count(query), metapath_idx,
                                             metapath_count2(metapath_idx, query.get('metapaths')),
                                             metapath_label2(metapath_idx, query.get('metapaths'))))
-        print_summaries(metapath_l,
-                        filename='monarch_orthopeno_network_query_source:{}_target:{}_summary_metapaths'.format(
-                            query.get('source'), query.get('target')))
 
         # table 2: bioinformatic profile
         # format : metapath_idx | object_order | object_type | metapath_counts | metapath_length (rows = entities)
@@ -210,30 +182,15 @@ def metapaths(data):
         # from 'entities'
         print('table 2 - entities')
         for entity in query.get('entities'):
-
             print(entity.get('metapath_idx'), entity.get('object_order'),
                   entity.get('label'), metapath_count(entity.get('metapath_idx'), metapaths_counts_l, attribute='count'),
                   metapath_count(entity.get('metapath_idx'), metapaths_counts_l, attribute='length'))
 
         # from 'metapaths'
         print('table 2 - metapaths')
-        entity_dct = dict()
-        entity_l = list()
         for mp in query.get('metapaths'):
-            metapath_idx = mp.get('metapath_idx')
             for entity in mp.get('entities'):
-                entity_dct['metapath_idx'] = metapath_idx
-                entity_dct['object_order'] = entity.get('object_order')
-                entity_dct['object_type'] = entity.get('label')
-                entity_dct['metapath_count'] = metapath_count2(metapath_idx, query.get('metapaths'))
-                entity_dct['metapath_length'] = len(mp.get('entities'))
-                entity_l.append(dict(entity_dct))
                 print(mp.get('metapath_idx'), entity.get('metapath_idx'), entity.get('object_order'), entity.get('label'), metapath_count2(mp.get('metapath_idx'), query.get('metapaths')), len(mp.get('entities')), mp.get('length'))
-
-        print_summaries(entity_l,
-                        filename='monarch_orthopeno_network_query_source:{}_target:{}_summary_entities_in_metapaths'.format(
-                            query.get('source'), query.get('target')))
-
 
 
 def node(idx, nodes_l):
@@ -296,15 +253,12 @@ def nodes(data):
             node_sum_dct['node_type'] = node_dct.get('label')
             node_sum_dct['node_value'] = node_dct.get('preflabel') + '::' + node_dct.get('id')
             node_sum_dct['node_count'] = nodes_count(node_idx, query.get('nodes'), attribute = 'idx')
-            nodes_sum_l.append(dict(node_sum_dct))
+            nodes_sum_l.append(node_sum_dct)
             print('{}\t{}\t{}\t{}\n'.format(path_count(query), node_dct.get('label'),
                                                node_dct.get('preflabel') + '::' + node_dct.get('id'),
                                                nodes_count(node_idx, query.get('nodes'), attribute = 'idx')))
-        print_summaries(nodes_sum_l,
-                        filename='monarch_orthopeno_network_query_source:{}_target:{}_summary_nodes'.format(
-                            query.get('source'), query.get('target')))
 
-    #return nodes_sum_l
+    return nodes_sum_l
 
 
 def node_types(data):
@@ -323,14 +277,11 @@ def node_types(data):
             node_sum_dct['path_count'] = path_count(query)
             node_sum_dct['node_type'] = node_label
             node_sum_dct['node_type_count'] = nodes_count(node_label, query.get('nodes'), attribute = 'label')
-            nodes_sum_l.append(dict(node_sum_dct))
+            nodes_sum_l.append(node_sum_dct)
             print('{}\t{}\t{}\n'.format(path_count(query), node_label,
                                         nodes_count(node_label, query.get('nodes'), attribute = 'label')))
-        print_summaries(nodes_sum_l,
-                        filename='monarch_orthopeno_network_query_source:{}_target:{}_summary_node_types'.format(
-                            query.get('source'), query.get('target')))
 
-    #return nodes_sum_l
+    return nodes_sum_l
 
 
 def edges(data):
@@ -353,16 +304,13 @@ def edges(data):
             edge_sum_dct['edge_type'] = edge
             edge_sum_dct['object_value'] = end
             edge_sum_dct['edge_count'] = edge2count_dict[edge_pattern]
-            edges_sum_l.append(dict(edge_sum_dct))
+            edges_sum_l.append(edge_sum_dct)
             print('{}\t{}\t{}\t{}\t{}\n'.format(path_count(query), edge_sum_dct.get('subject_value'),
                                                 edge_sum_dct.get('edge_type'), edge_sum_dct.get('object_value'),
                                                 edge_sum_dct['edge_count']))
 
-        print_summaries(edges_sum_l,
-                        filename='monarch_orthopeno_network_query_source:{}_target:{}_summary_edges'.format(
-                            query.get('source'), query.get('target')))
 
-    #return edges_sum_l
+    return edges_sum_l
 
 
 def edge_types(data):
@@ -381,14 +329,11 @@ def edge_types(data):
             edge_sum_dct['path_count'] = path_count(query)
             edge_sum_dct['edge_type'] = edge_label
             edge_sum_dct['edge_type_count'] = nodes_count(edge_label, query.get('edges'), attribute = 'label')
-            edges_sum_l.append(dict(edge_sum_dct))
+            edges_sum_l.append(edge_sum_dct)
             print('{}\t{}\t{}\n'.format(path_count(query), edge_label,
                                         nodes_count(edge_label, query.get('edges'), attribute = 'label')))
 
-        print_summaries(edges_sum_l, filename='monarch_orthopeno_network_query_source:{}_target:{}_summary_edge_types'.format(query.get('source'),query.get('target')))
-
-    #return edges_sum_l
-
+    return edges_sum_l
 
 
 if __name__ == "__main__":
@@ -403,12 +348,10 @@ if __name__ == "__main__":
         #metapath(query_parsed)
         #map(lambda x: x(query_parsed), funcs)
         data_parsed.append(query_parsed)
-    metapaths(data_parsed)
-    #nodes(data_parsed)
+    #metapaths(data_parsed)
+    nodes(data_parsed)
     #node_types(data_parsed)
     #edges(data_parsed)
     #edge_types(data_parsed)
     #for query in data_parsed:
     #    map(lambda x: x(query), funcs)
-    # prints
-
